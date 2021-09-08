@@ -9,6 +9,7 @@
 - In this folder create a new file named `info.json`
 
 - In this folder include your token logo, and the file must be named `logo.png`
+- Submit a PR to have your submission reviewed
 
 ### info.json
 
