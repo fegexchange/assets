@@ -1,0 +1,10 @@
+{
+  "id": "0x378c77C5379cA07BBB5B3506c08a1C769dEC91c2",
+  "name": "ROX Token",
+  "symbol": "ROXeth",
+  "type": "ERC20",
+  "decimals": 9,
+  "description": "The World's First ALL-in-ONE SmartDeFi Ecosystem",
+  "website": "https://fegrox.com",
+  "explorer": "https://etherscan.io/token/0x378c77C5379cA07BBB5B3506c08a1C769dEC91c2"
+}
