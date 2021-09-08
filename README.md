@@ -27,3 +27,7 @@ Include the official logo of your token you want displayed on FEGex
 
 - the logo should be square, recommended 256x256px 
 - avoid transparent backgrounds so your logo is displayed properly in light and dark themes
+
+### Example
+
+For an example, look at the details of the FEG Token submission on the Binance Smart Chain side: [FEG Token](https://github.com/fegexchange/assets/tree/main/blockchains/smartchain/assets/0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167)
