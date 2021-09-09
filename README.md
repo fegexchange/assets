@@ -3,7 +3,7 @@
 ## How to submit token asset information
 
 - Fork this repo to your own GitHub account
-- Create a new folder and name it the contract address of your token, under the matching blockchain. Example: if you're submitting an Ethereum based token you need to create a new folder under `blockchains/ethereum/assets/<YOUR TOKENS CONTRACT ADDRESS>`
+- Create a new folder and name it the contract address of your token, under the matching blockchain. Example: if you're submitting an Ethereum based token you need to create a new folder under `blockchains/ethereum/assets/<YOUR TOKENS CONTRACT ADDRESS>`. When using your contract address, be sure to suplly it in the checksum version (case sensitive)
 
 
 - In this folder create a new file named `info.json`
