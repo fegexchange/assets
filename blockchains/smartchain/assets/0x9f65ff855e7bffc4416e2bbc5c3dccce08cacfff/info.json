@@ -1,0 +1,10 @@
+{
+  "id": "0x9f65ff855e7bffc4416e2bbc5c3dccce08cacfff",
+  "name": "AlmightyCake",
+  "symbol": "AlmightyCake",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "The Cake To Take It All",
+  "website": "https://almightycake.net/",
+  "explorer": "https://bscscan.com/token/0x9f65ff855e7bffc4416e2bbc5c3dccce08cacfff"
+}
