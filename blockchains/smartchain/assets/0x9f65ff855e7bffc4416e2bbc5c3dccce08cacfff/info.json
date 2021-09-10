@@ -6,5 +6,11 @@
   "decimals": 18,
   "description": "The Cake To Take It All",
   "website": "https://almightycake.net/",
-  "explorer": "https://bscscan.com/token/0x9f65ff855e7bffc4416e2bbc5c3dccce08cacfff"
+  "explorer": "https://bscscan.com/token/0x9f65ff855e7bffc4416e2bbc5c3dccce08cacfff",
+  "social": {
+    "twitter": "https://twitter.com/AlmightyCake15",
+    "telegram": "https://t.me/almightycakebsc",
+    "discord": "",
+    "reddit": ""
+  }
 }
