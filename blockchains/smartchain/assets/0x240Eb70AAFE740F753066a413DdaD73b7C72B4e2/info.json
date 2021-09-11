@@ -6,5 +6,11 @@
   "decimals": 18,
   "description": "BankRoll is the first Escrow Marketplace on the Binance Smart Chain.",
   "website": "https://bankroll.holdings",
-  "explorer": "https://bscscan.com/token/0x240eb70aafe740f753066a413ddad73b7c72b4e2"
+  "explorer": "https://bscscan.com/token/0x240eb70aafe740f753066a413ddad73b7c72b4e2",
+  "social": {
+    "twitter": "https://twitter.com/bankrollbsc",
+    "telegram": "https://t.me/bankrollbsc",
+    "discord": "https://discord.gg/ckFwkqDhSq",
+    "reddit": "https://www.reddit.com/r/bankroll/"
+  }
 }
