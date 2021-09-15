@@ -1,0 +1,14 @@
+{
+    "id": "0xc74c0560f46c28e722d82923bf0b79ccac4317e6",
+    "name": "iBAN COIN",
+    "symbol": "iBAN",
+    "type": "BEP20",
+    "decimals": 9,
+    "description": "Hyper Deflationary Token with holders reward and automatic buyback",
+    "website": "https://www.ibancoinofficial.org/",
+    "explorer": "https://bscscan.com/address/0xc74c0560f46c28e722d82923bf0b79ccac4317e6",
+    "social": {
+        "twitter": "https://twitter.com/iBANCOIN",
+        "telegram": "https://t.me/iBANCOINOfficialTGroup"
+    }
+}
