@@ -4,7 +4,7 @@
   "symbol": "L1S",
   "type": "BEP20",
   "decimals": 19,
-  "description": "L1S is a low supply, delfationary token that dedicates 1% of all transactions to a prize pool for wallet holders that will be distriburted on 1/1/2030.",
+  "description": "L1S is a low supply, deflationary token that dedicates 1% of all transactions to a prize pool for wallet holders that will be distriburted on 1/1/2030.",
   "website": "https://l1stoken.com",
   "explorer": "https://bscscan.com/token/0xb482b6be91da1ca6ea8eed5735e030dad6ae0212",
   "social": {
