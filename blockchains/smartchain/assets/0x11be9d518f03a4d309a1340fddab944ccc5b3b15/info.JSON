@@ -1,0 +1,12 @@
+{
+  "id": "0x11be9d518f03a4d309a1340fddab944ccc5b3b15",
+  "name": "VELOX",
+  "symbol": "VLX",
+  "type": "BEP20",
+  "decimals": 9,
+  "website": "https://cryptovelox.com/",
+  "explorer": "https://bscscan.com/token/0x11be9d518f03a4d309a1340fddab944ccc5b3b15",
+  "social": {
+    "twitter": "https://twitter.com/cryptovelox",
+    "telegram": "https://t.me/cryptovelox",
+}
