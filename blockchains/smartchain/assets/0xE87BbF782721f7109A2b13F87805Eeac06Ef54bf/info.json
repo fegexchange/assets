@@ -1,0 +1,14 @@
+{
+  "id": "0xE87BbF782721f7109A2b13F87805Eeac06Ef54bf",
+  "name": "VitoDen",
+  "symbol": "VTD",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "The token for the next generation.",
+  "website": "https://vitoden.com/",
+  "explorer": "https://bscscan.com/token/0xe87bbf782721f7109a2b13f87805eeac06ef54bf",
+  "social": {
+    "twitter": "https://twitter.com/VitoDen_VTD?s=09",
+    "telegram": "https://t.me/vitodentalk"
+  }
+}
