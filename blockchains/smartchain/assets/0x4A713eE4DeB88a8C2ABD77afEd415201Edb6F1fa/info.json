@@ -1,0 +1,14 @@
+{
+  "id": "0x2bca1ae3e52447323b3ea4708a3d18584caf85a7",
+  "name": "CumStar",
+  "symbol": "CumStar",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "Adult NFT Marketplace and Live-streaming Platforms",
+  "website": "https://cumstar.net",
+  "explorer": "https://bscscan.com/address/0x4a713ee4deb88a8c2abd77afed415201edb6f1fa",
+  "social": {
+    "twitter": "https://twitter.com/cryptophyte"
+  }
+}
+
