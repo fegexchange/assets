@@ -1,0 +1,16 @@
+{
+  "id": "0xcb75cd1f4325922d300bb5979da418cf9569e458",
+  "name": "UPDOGE",
+  "symbol": "upDOGE",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "UpDoge has been designed to be a token which rewards $DOGE by simply holding. UpDoge is a BEP20 project which focuses on the entire cryptocurrency community. The team plans to build a strong community through honest, friendly and constant social media engagement on channels, Thereby facilitating mainstream adoption of decentralized blockchain technology.",
+  "website": "https://www.updoge.org/",
+  "explorer": "https://bscscan.com/token/0xcb75cd1f4325922d300bb5979da418cf9569e458",
+  "social": {
+    "twitter": "https://twitter.com/upDOGEofficial",
+    "telegram": "https://t.me/itsupDOGEofficialTG",
+    "discord": "https://discord.gg/fQAJdvDn",
+    "reddit": "https://www.reddit.com/user/upDOGEofficial"
+  }
+}
