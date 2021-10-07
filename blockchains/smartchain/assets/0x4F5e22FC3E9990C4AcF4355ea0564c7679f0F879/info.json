@@ -1,0 +1,15 @@
+   
+{
+  "id": "0x4F5e22FC3E9990C4AcF4355ea0564c7679f0F879",
+  "name": "Doge Wonka",
+  "symbol": "DWONKA",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "DogeWonka - The Truly Yummy Coin. Enjoy the Magical Chocolate World",
+  "website": "https://www.dogewonka.com",
+  "explorer": "https://bscscan.com/token/0x4F5e22FC3E9990C4AcF4355ea0564c7679f0F879",
+  "social": {
+    "telegram": "https://t.me/dogewonka",
+    "twitter": "https://twitter.com/dogewonka"
+  }
+}
