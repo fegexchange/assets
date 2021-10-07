@@ -1,0 +1,14 @@
+{
+  "id": "0xD10527fD41aE5B2e0e25daed689b933982E6ef27",
+  "name": "ILOVEYOU Token",
+  "symbol": "ILU",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Love is needed everywhere, please say I love you!",
+  "website": "https://charts.fegex.com/charts/0x6e63a4179f5d80229589b4c2692fbdc12652236c",
+  "explorer": "https://bscscan.com/token/0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
+  "social": {
+    "twitter": "https://twitter.com/IloveyouToken",
+    "telegram": "https://t.me/ILOVEYOUTOKEN"
+  }
+}
