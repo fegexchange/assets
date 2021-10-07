@@ -22,12 +22,22 @@
 - `explorer` : url of your token's info page on the block explorers
 - `social`: key/value pair of your token's social media links
 
+Example of Valid JSON
+
+```
+{
+    "id" : "Contract Address",
+    "name": "Token Name",
+    "symbol": "Token Symbol",
+    ...
+}
+ ```
+
 ### logo.png
 
 Include the official logo of your token you want displayed on FEGex
 
 - the logo should be square, recommended 256x256px 
-- avoid transparent backgrounds so your logo is displayed properly in light and dark themes
 
 ### Example
 
