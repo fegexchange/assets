@@ -1,0 +1,14 @@
+{
+  "id": "0x5cf4195ae98a6cec601bfe918594199298aa253f",
+  "name": "Handout Charity Token",
+  "symbol": "HANDO",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "Handout Charity Token, supporting a cause while being rewarded. — donating to different charities all around the world.",
+  "website": "https://handout-token.com/",
+  "explorer": "https://bscscan.com/token/0x5cf4195ae98a6cec601bfe918594199298aa253f",
+  "social": {
+    "twitter": "https://twitter.com/HandoutToken",
+    "telegram": "http://t.me/handout_token"
+  }
+}
