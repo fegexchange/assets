@@ -20,6 +20,7 @@
 - `decimals` : number of decimals your token supports
 - `website` : official website of your token
 - `explorer` : url of your token's info page on the block explorers
+- `refelections` : does your token recieve reflections, boolean true|false
 - `social`: key/value pair of your token's social media links
 
 Example of Valid JSON
@@ -29,6 +30,7 @@ Example of Valid JSON
     "id" : "Contract Address",
     "name": "Token Name",
     "symbol": "Token Symbol",
+    "reflections": true
     ...
 }
  ```
