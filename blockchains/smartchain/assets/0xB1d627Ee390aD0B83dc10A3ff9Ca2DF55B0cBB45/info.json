@@ -1,0 +1,15 @@
+{
+  "id": "0xB1d627Ee390aD0B83dc10A3ff9Ca2DF55B0cBB45",
+  "name": "ShibUsdt",
+  "symbol": "SHIBUSDT",
+  "type": "BEP20",
+  "decimals": 4,
+  "description": "SHIB USDT is a rebase token with 5% rewards for holding. Hold $SHIBUSDT and receive $USDT directly to your BEP-20 wallet",
+  "website": "https://shibusdt.net",
+  "explorer": "https://bscscan.com/token/0xb1d627ee390ad0b83dc10a3ff9ca2df55b0cbb45",
+  "social": {
+    "twitter": "https://twitter.com/ShibUsdtBSC",
+    "telegram": "https://t.me/ShibUsdtOfficial"
+
+  }
+}
