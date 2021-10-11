@@ -1,0 +1,14 @@
+{
+  "id": "0xA522d3b5c4854d077C02140D2F283244EBc4a082",
+  "name": "Krill Exploder",
+  "symbol": "KREX",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "Part of the WHEXcosystem",
+  "website": "https://whexcosystem.com",
+  "explorer": "https://bscscan.com/token/0xa522d3b5c4854d077c02140d2f283244ebc4a082",
+  "social": {
+    "twitter": "https://twitter.com/krillexploder"
+  }
+}
+
