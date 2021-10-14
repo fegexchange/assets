@@ -1,0 +1,22 @@
+{
+  "id": "0xb036f689bd98b4bd3bd648fa09a23e54d839a859",
+  "name": "TacoCat Token",
+  "symbol": "TCT",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 18,
+  "website": "https://tacocat.co",
+  "explorer": "https://bscscan.com/token/0xb036f689bd98b4bd3bd648fa09a23e54d839a859",
+  "social": {
+    "telegram": "https://t.me/tacocattoken",
+    "discord": "https://discord.gg/mc8398fTkA",
+    "twitter": "https://twitter.com/tacocattoken",
+    "youtube": "https://www.youtube.com/channel/UCHgbESkE734w3c2glaXs53Q",
+    "twitch": "https://www.twitch.tv/tacocatco",
+    "reddit": "https://www.reddit.com/r/TacoCatCo/",
+    "facebook": "https://facebook.com/tacocattoken",
+    "instagram": "https://instagram.com/tacocattoken",
+    "tiktok": "https://www.tiktok.com/@tacocat_official",
+    "medium": "https://tacocattoken.medium.com/"
+  }
+}
