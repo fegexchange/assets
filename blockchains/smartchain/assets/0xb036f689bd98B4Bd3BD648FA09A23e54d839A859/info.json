@@ -5,6 +5,7 @@
   "type": "BEP20",
   "reflections": true,
   "decimals": 18,
+  "description": "TacoCat Token is a deflationary cryptocurrency supporting an ecosystem of applications that are designed to bring Crypto to the Mainstream.",
   "website": "https://tacocat.co",
   "explorer": "https://bscscan.com/token/0xb036f689bd98b4bd3bd648fa09a23e54d839a859",
   "social": {
