@@ -1,0 +1,12 @@
+{
+    "id" : "0x496f5405e1FEE77D54706A60aC95A81f6906A2E4",
+    "name": "Alien Cult",
+    "symbol": "ACLT",
+    "reflections": false
+    "type": "BEP20",
+    "decimals": 18
+    "website": "aliencult.org",
+    "reflections": false
+    "explorer": "https://bscscan.com/address/0x496f5405e1fee77d54706a60ac95a81f6906a2e4",
+    "social": "t.me/thealiencult"
+}
