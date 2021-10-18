@@ -1,0 +1,16 @@
+{
+  "id": "0xAD82d0857FF13Bf8CDE3413573d5C5f950C743FE",
+  "name": "Token42",
+  "symbol": "T42",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "Token42 | Exchange + HODL T42 and get 10%+10% rewards in $FEG each payout cycle.",
+  "website": "https://t42.network",
+  "explorer": "https://bscscan.com/token/0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
+  "social": {
+    "twitter": "https://twitter.com/T42_BSC",
+    "telegram": "https://t.me/T42_BSC",
+    "discord": "https://discord.gg/wZWNDhAQme",
+    "reddit": "https://www.reddit.com/r/T42/"
+  }
+}
