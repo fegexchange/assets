@@ -20,18 +20,24 @@
 - `decimals` : number of decimals your token supports
 - `website` : official website of your token
 - `explorer` : url of your token's info page on the block explorers
-- `refelections` : does your token recieve reflections, boolean true|false
-- `social`: key/value pair of your token's social media links
+- `refelections` : does your token receive reflections, only need if your token has reflections
+- `social`: key/value pairs of your token's social media links
 
 Example of Valid JSON
 
 ```
 {
-    "id" : "Contract Address",
+    "id": "Contract Address",
     "name": "Token Name",
     "symbol": "Token Symbol",
-    "reflections": true
-    ...
+    "type": "ERC20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://etherscan.io/token/ConTRactAddRESs", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/fegtoken"
+    }
 }
  ```
 
