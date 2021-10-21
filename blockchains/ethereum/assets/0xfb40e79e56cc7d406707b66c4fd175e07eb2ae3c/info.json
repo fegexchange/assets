@@ -1,0 +1,16 @@
+{
+  "id": "0xfb40e79e56cc7d406707b66c4fd175e07eb2ae3c",
+  "name": "ROTTSCHILD.com",
+  "symbol": "ROTTS",
+  "type": "ERC20",
+  "decimals": 9,
+  "description": "We, THE ROTTSCHILDS, plan to accelerate the mass adoption of cryptocurrencies by all of humanity, by educating those who have not yet taken the plunge, and protecting those who are already on the right side.",
+  "website": "https://www.rottschild.com/",
+  "explorer": "https://etherscan.io/token/0xfb40e79e56cc7d406707b66c4fd175e07eb2ae3c",
+  "reflections": true,
+  "social": {
+    "twitter": "https://twitter.com/TheRottschilds",
+    "telegram": "https://t.me/TheRottschilds",
+    "reddit": "https://www.reddit.com/r/TheRottschilds"
+  }
+} 
