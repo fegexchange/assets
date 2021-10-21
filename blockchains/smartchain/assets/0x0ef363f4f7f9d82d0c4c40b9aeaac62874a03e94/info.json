@@ -1,9 +1,0 @@
-{
-  "id": "0x0ef363f4f7f9d82d0c4c40b9aeaac62874a03e94",
-  "name": "FEG Wrapped LTC",
-  "symbol": "fLTC",
-  "type": "BEP20",
-  "reflections": true,
-  "decimals": 18,
-  "explorer": "https://bscscan.com/token/0x0ef363f4f7f9d82d0c4c40b9aeaac62874a03e94"
-}

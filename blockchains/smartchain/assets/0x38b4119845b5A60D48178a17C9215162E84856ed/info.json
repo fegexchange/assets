@@ -1,0 +1,9 @@
+{
+  "id": "0x38b4119845b5A60D48178a17C9215162E84856ed",
+  "name": "FEG Wrapped BUSD",
+  "symbol": "fBUSD",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0x38b4119845b5A60D48178a17C9215162E84856ed"
+}
