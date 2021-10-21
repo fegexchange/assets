@@ -1,0 +1,9 @@
+{
+  "id": "0x37a6ad2eFeC01f7108FA3cf6E3741Be4C6bb6622",
+  "name": "FEG Wrapped LINK",
+  "symbol": "fLINK",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0x37a6ad2eFeC01f7108FA3cf6E3741Be4C6bb6622"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "0x5eef8c4320e2bf8d1e6231a31500fd7a87d02985",
+  "name": "FOMO",
+  "symbol": "FOMO",
+  "type": "BEP20",
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0x5eef8c4320e2bf8d1e6231a31500fd7a87d02985"
+}

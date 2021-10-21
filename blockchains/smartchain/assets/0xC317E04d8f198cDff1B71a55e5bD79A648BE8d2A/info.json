@@ -1,0 +1,9 @@
+{
+  "id": "0xC317E04d8f198cDff1B71a55e5bD79A648BE8d2A",
+  "name": "FEG Wrapped 1INCH",
+  "symbol": "f1INCH",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0xC317E04d8f198cDff1B71a55e5bD79A648BE8d2A"
+}
