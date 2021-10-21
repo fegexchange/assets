@@ -1,10 +1,10 @@
 {
-   "id" : "0xa1a88cea335edaf30ce90f103f1434a773ea46bd",
+   "id" : "0xA1a88cea335EDAF30ce90F103f1434a773ea46BD",
    "name": "DEKU",
    "symbol": "DEKU",
    "type": "ERC20",
    "decimals": 9,
    "website": "https://dekuinu.com/",
-   "explorer": "https://etherscan.io/token/0xa1a88cea335edaf30ce90f103f1434a773ea46bd",
+   "explorer": "https://etherscan.io/token/0xA1a88cea335EDAF30ce90F103f1434a773ea46BD",
    "reflections": true
 }
