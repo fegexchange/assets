@@ -1,5 +1,5 @@
 {
-  "id": "0x9b30183c2de913af677f8ab77cd9d26712b45fa8",
+  "id": "0x9b30183c2DE913aF677f8Ab77cD9D26712b45fa8",
   "name": "mini DOGE inu",
   "symbol": "miniDOGEinu",
   "type": "BEP20",
@@ -14,6 +14,6 @@
     "discord": "https://discord.gg/ct7BquU7bc",
     "reddit": "https://www.reddit.com/r/miniDOGEinu/",
 	"instagram": "https://www.instagram.com/minidogeinu/",
-	"facebook": "https://www.facebook.com/minidogeinu",
+	"facebook": "https://www.facebook.com/minidogeinu"
   }
 }
