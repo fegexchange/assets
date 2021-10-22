@@ -65,17 +65,24 @@ def checkCapitalisationOfDir(dirname):
     return re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", dirname)
 
 
-# TODO add id validation
+def checkSymbol(file, symbole):
+    content = json.loads(file.read())
+    verify = symbole == content["symbol"]
+    file.close()
+    return verify
+
+
 # TODO check the symbol
 
-def checkCapitalisationOfId(file,dirname):
+def checkCapitalisationOfId(file, dirname):
     content = json.loads(file.read())
     verify = dirname == content["id"]
     file.close()
     return verify
 
+
 class BSCChainTest(unittest.TestCase):
-    dirBSCPath = "../blockchains/smartchain/assets"
+    dirBSCPath = "blockchains/smartchain/assets"
 
     def test_bscside(self):
         for directory in os.listdir(self.dirBSCPath):
@@ -96,12 +103,15 @@ class BSCChainTest(unittest.TestCase):
                                 "{}: Field {} was  not set".format(directory, failedFields))
                 self.assertTrue(validatePicturesize(os.path.join(self.dirBSCPath, directory, "logo.png")),
                                 "{} : Make sure that your logo.png is 256x256px".format(directory))
-                print("{} : passed all the tests".format(directory))
                 self.assertTrue(checkCapitalisationOfDir(directory),
                                 "{} : check for capitalisation of directory name".format(directory))
                 self.assertTrue(
                     checkCapitalisationOfId(open(os.path.join(self.dirBSCPath, directory, "info.json")), directory),
                     "{} : ID field in json need to match the directory (check capitalisation)".format(directory))
+                self.assertTrue(
+                    checkSymbol(open(os.path.join(self.dirBSCPath, directory, "info.json")), "BEP20"),
+                    "{} : Symbol needs to be BEP20".format(directory))
+                print("{} : passed all the tests".format(directory))
 
 
 if __name__ == '__main__':
