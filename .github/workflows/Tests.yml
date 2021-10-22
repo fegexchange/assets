@@ -1,3 +1,7 @@
+name: Uniform test
+
+on: [push]
+
 jobs:
   build:
 
