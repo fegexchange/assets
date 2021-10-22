@@ -7,6 +7,7 @@
   "description": "Part of the WHEXcosystem",
   "website": "https://whexcosystem.com",
   "explorer": "https://bscscan.com/token/0xFfceD7810aF8FEf1E78453b27405C98D2c7490e3",
+  "reflections": true,
   "social": {
     "twitter": "https://twitter.com/anchovyexploder"
   }
