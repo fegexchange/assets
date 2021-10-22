@@ -14,7 +14,7 @@
 
 ### info.json
 
-- `id` : contract address of the token **Be sure to use the checksum version**
+- `id` : contract address of the token **Be sure to use the [checksum version](https://store.chipkin.com/articles/blockchain-checksums-and-hashes-the-roots-of-blockchains-#_Toc497809178)**
 - `name` : full token name
 - `symbol` : token's symbol
 - `type` : token type; `BEP20` or `ERC20`
