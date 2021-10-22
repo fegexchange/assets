@@ -7,6 +7,7 @@
   "description": "Part of the WHEXcosystem",
   "website": "https://whexcosystem.com",
   "explorer": "https://bscscan.com/token/0x2BB2f2A5F7aa3783bE0935FD8Ddb3C1f3cC439b1",
+  "reflections": true,
   "social": {
     "twitter": "https://twitter.com/cod_exploder"
   }
