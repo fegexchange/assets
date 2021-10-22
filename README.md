@@ -1,3 +1,5 @@
+![Pressale on FEGex](https://fegexchange.github.io/assets/presale.jpg)
+
 # FEGex Asset Repo
 
 ## How to submit token asset information
