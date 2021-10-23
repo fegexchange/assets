@@ -1,11 +1,10 @@
 {
-  "id": "0x2bca1ae3e52447323b3ea4708a3d18584caf85a7",
+  "id": "0xCd12a46fD56d14e2e570C8795245e9927364b3b3",
   "name": "TheCurator",
   "symbol": "CUR",
   "type": "BEP20",
   "decimals": "18",
   "website": "https://t.me/th3Curatortoken",
   "explorer": "https://bscscan.com/token/0xcd12a46fd56d14e2e570c8795245e9927364b3b3",
-  "social": "https://twitter.com/Th3_Curator?s=09",
-  "logo": "https://drive.google.com/file/d/1dAC1AUWBiPhIf6Qw_hYGrUj6hnHzgAAT/view?usp=sharing"
+  "social": "https://twitter.com/Th3_Curator?s=09"
 }
