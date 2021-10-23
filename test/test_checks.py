@@ -113,5 +113,39 @@ class BSCChainTest(unittest.TestCase):
                 print("{} : passed all the tests".format(directory))
 
 
+class ETHChainTest(unittest.TestCase):
+    dirETHPath = "blockchains/ethereum/assets"
+
+    def test_ethside(self):
+        for directory in os.listdir(self.dirETHPath):
+            if re.search(r"\.", directory):
+                continue
+            with self.subTest(directory=directory):
+                self.assertTrue(jsoncontain(os.path.join(self.dirETHPath, directory)),
+                                "{}: Needs a \"info.json\" file. Please check the name".format(directory))
+
+                self.assertTrue(logopng(os.path.join(self.dirETHPath, directory)),
+                                "{}: Needs a \"logo.png\" file. Please check the name".format(directory))
+
+                self.assertTrue(validateJSON(open(os.path.join(self.dirETHPath, directory, "info.json"))),
+                                "{}: has not a valid json format!".format(directory))
+                validbool, failedFields = validateFieldsPresentJson(
+                    open(os.path.join(self.dirETHPath, directory, "info.json")))
+                self.assertTrue(validbool,
+                                "{}: Field {} was  not set".format(directory, failedFields))
+                self.assertTrue(validatePicturesize(os.path.join(self.dirETHPath, directory, "logo.png")),
+                                "{} : Make sure that your logo.png is 256x256px".format(directory))
+                self.assertTrue(checkCapitalisationOfDir(directory),
+                                "{} : check for capitalisation of directory name".format(directory))
+                self.assertTrue(
+                    checkCapitalisationOfId(open(os.path.join(self.dirETHPath, directory, "info.json")), directory),
+                    "{} : ID field in json need to match the directory (check capitalisation)".format(directory))
+                self.assertTrue(
+                    checkType(open(os.path.join(self.dirETHPath, directory, "info.json")), "ERC20"),
+                    "{} : Symbol needs to be BEP20".format(directory))
+                print("{} : passed all the tests".format(directory))
+
+
+
 if __name__ == '__main__':
     unittest.main()
