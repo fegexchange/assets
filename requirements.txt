@@ -1,0 +1,4 @@
+numpy==1.18.3
+opencv-python
+pytest
+
