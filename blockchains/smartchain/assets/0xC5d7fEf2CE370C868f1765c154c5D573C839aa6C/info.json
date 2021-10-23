@@ -1,0 +1,9 @@
+{
+  "id": "0xC5d7fEf2CE370C868f1765c154c5D573C839aa6C",
+  "name": "FEG Wrapped ATOM",
+  "symbol": "fATOM",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0xC5d7fEf2CE370C868f1765c154c5D573C839aa6C"
+}

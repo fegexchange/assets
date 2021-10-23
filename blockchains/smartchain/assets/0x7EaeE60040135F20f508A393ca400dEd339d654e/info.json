@@ -1,0 +1,13 @@
+{
+    "id": "0x7EaeE60040135F20f508A393ca400dEd339d654e",
+    "name": "REVIVAL",
+    "symbol": "RVL",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://revivaldefi.com",
+    "explorer": "https://bscscan.com/address/0x7EaeE60040135F20f508A393ca400dEd339d654e", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/revivaldefi"
+    }
+}

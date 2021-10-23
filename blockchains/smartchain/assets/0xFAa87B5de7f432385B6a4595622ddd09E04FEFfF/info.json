@@ -1,0 +1,15 @@
+{
+    "id" : "0xFAa87B5de7f432385B6a4595622ddd09E04FEFfF",
+    "name": "BINANCE CASH",
+    "symbol": "BNBC",
+    "type": "BEP20",
+    "decimal": "18",
+    "description": "Binance Cash, AI & DEFi protocol built on the Binance Smart Chain (BSC), that provides an AI & DEFi peer-to-peer blockchain magnet",
+    "website": "www.binancecash.org",
+    "explorer": "https://bscscan.com/token/0xFAa87B5de7f432385B6a4595622ddd09E04FEFfF",
+    "social": {
+      "twitter" : "https://twitter.com/binance__cash",
+      "telegram" : "https://t.me/the_binancecash",
+      "facebook" : "https://facebook.com/binancecash21"
+   }
+}

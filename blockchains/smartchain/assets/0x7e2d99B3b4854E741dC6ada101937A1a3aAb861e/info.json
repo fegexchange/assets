@@ -1,0 +1,9 @@
+{
+  "id": "0x7e2d99B3b4854E741dC6ada101937A1a3aAb861e",
+  "name": "FEG Wrapped DOT",
+  "symbol": "fDOT",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0x7e2d99B3b4854E741dC6ada101937A1a3aAb861e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "0xf78B0C636d2B35820740dC91F7790f0694503E7D",
+  "name": "BullishApes",
+  "symbol": "BULLISH",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "The most BULLISH rewards in BUSD! No bullsh*ts! Facts only!",
+  "website": "https://www.bullishapes.com",
+  "explorer": "https://bscscan.com/token/0xf78B0C636d2B35820740dC91F7790f0694503E7D",
+  "social": {
+    "twitter": "https://twitter.com/bullishapesswap",
+    "telegram": "https://t.me/BullishApes",
+    "discord": "https://discord.gg/invite/Q7KAQewCAh",
+    "reddit": "https://www.reddit.com/r/BullishApes/"
+  }
+}

@@ -10,7 +10,6 @@
   "type": "BEP20",
   "symbol": "PTLKX",
   "decimals": 18,
-  "slippage": 3,
   "status": "active",
   "id": "0xE821FF93aCd958D8EF637ff9627217d28A5B6845"
 }
