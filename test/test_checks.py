@@ -65,14 +65,13 @@ def checkCapitalisationOfDir(dirname):
     return re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", dirname)
 
 
-def checkSymbol(file, symbole):
+def checkType(file, type):
     content = json.loads(file.read())
-    verify = symbole == content["symbol"]
+    verify = type == content["type"]
     file.close()
     return verify
 
 
-# TODO check the symbol
 
 def checkCapitalisationOfId(file, dirname):
     content = json.loads(file.read())
@@ -109,7 +108,7 @@ class BSCChainTest(unittest.TestCase):
                     checkCapitalisationOfId(open(os.path.join(self.dirBSCPath, directory, "info.json")), directory),
                     "{} : ID field in json need to match the directory (check capitalisation)".format(directory))
                 self.assertTrue(
-                    checkSymbol(open(os.path.join(self.dirBSCPath, directory, "info.json")), "BEP20"),
+                    checkType(open(os.path.join(self.dirBSCPath, directory, "info.json")), "BEP20"),
                     "{} : Symbol needs to be BEP20".format(directory))
                 print("{} : passed all the tests".format(directory))
 
