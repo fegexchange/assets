@@ -1,12 +1,12 @@
 {	
-	"id": "0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57",
+	"id": "0xe4e8e6878718bfe533702D4a6571Eb74D79b0915",
 	"name": "LunaChow",
 	"symbol": "LUCHOW",
-	"type": "ERC20",
+	"type": "BEP20",
 	"decimals": 18,
 	"description": "LunaChow ia De-Fi protocol on Ethereum network with the most aggressive burn structure.",
 	"website": "https://lunachow.com",
-	"explorer": "https://etherscan.io/token/0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57",
+	"explorer": "https://bscscan.com/address/0xe4e8e6878718bfe533702d4a6571eb74d79b0915",
 	"reflections": false,
 	"social" : {
 	"twitter" : "https://twitter.com/LunaChoww",
