@@ -1,0 +1,9 @@
+{
+  "id": "0xe3cDB92b094a3BeF3f16103b53bECfb17A3558ad",
+  "name": "FEG Wrapped WBTC",
+  "symbol": "fWBTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "explorer": "https://etherscan.io/token/0xe3cDB92b094a3BeF3f16103b53bECfb17A3558ad"
+}
+

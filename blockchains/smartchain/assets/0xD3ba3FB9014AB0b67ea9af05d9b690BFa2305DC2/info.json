@@ -1,0 +1,9 @@
+{
+  "id": "0xD3ba3FB9014AB0b67ea9af05d9b690BFa2305DC2",
+  "name": "FEG Wrapped BTCB",
+  "symbol": "fBTCB",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0xD3ba3FB9014AB0b67ea9af05d9b690BFa2305DC2"
+}

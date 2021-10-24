@@ -1,0 +1,9 @@
+{
+  "id": "0x6E5eAF71E9958d9cf3f51F46a94A77fb2b5fCA70",
+  "name": "FEG Wrapped $GOLD",
+  "symbol": "f$GOLD",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0x6E5eAF71E9958d9cf3f51F46a94A77fb2b5fCA70"
+}

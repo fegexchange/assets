@@ -1,9 +1,12 @@
+![Pressale on FEGex](https://fegexchange.github.io/assets/presale.jpg)
+
 # FEGex Asset Repo
 
 ## How to submit token asset information
 
 - Fork this repo to your own GitHub account
-- Create a new folder and name it the contract address of your token, under the matching blockchain. Example: if you're submitting an Ethereum based token you need to create a new folder under `blockchains/ethereum/assets/<YOUR TOKENS CONTRACT ADDRESS>`. When using your contract address, be sure to supply it in the checksum version (case sensitive)
+- Create a new folder and name it the contract address of your token, under the matching blockchain. Example: if you're submitting an Ethereum based token you need to create a new folder under `blockchains/ethereum/assets/<YOUR TOKENS CONTRACT ADDRESS>`. 
+- **When using your contract address, be sure to supply it in the checksum version (case sensitive)**
 
 
 - In this folder create a new file named `info.json`
@@ -13,25 +16,31 @@
 
 ### info.json
 
-- `id` : contract address of the token
+- `id` : contract address of the token **Be sure to use the [checksum version](https://support.mycrypto.com/general-knowledge/ethereum-blockchain/ethereum-address-has-uppercase-and-lowercase-letters)**
 - `name` : full token name
 - `symbol` : token's symbol
 - `type` : token type; `BEP20` or `ERC20`
 - `decimals` : number of decimals your token supports
 - `website` : official website of your token
 - `explorer` : url of your token's info page on the block explorers
-- `refelections` : does your token recieve reflections, boolean true|false
-- `social`: key/value pair of your token's social media links
+- `refelections` : does your token receive reflections, only need if your token has reflections
+- `social`: key/value pairs of your token's social media links
 
 Example of Valid JSON
 
 ```
 {
-    "id" : "Contract Address",
+    "id": "Contract Address",
     "name": "Token Name",
     "symbol": "Token Symbol",
-    "reflections": true
-    ...
+    "type": "ERC20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://etherscan.io/token/ConTRactAddRESs", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/fegtoken"
+    }
 }
  ```
 

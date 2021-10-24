@@ -6,5 +6,6 @@
   "decimals": 9,
   "description": "The World's First ALL-in-ONE SmartDeFi Ecosystem",
   "website": "https://fegrox.com",
-  "explorer": "https://bscscan.com/token/0xa3D522c151aD654b36BDFe7a69D0c405193A22F9"
+  "explorer": "https://bscscan.com/token/0xa3D522c151aD654b36BDFe7a69D0c405193A22F9",
+  "reflections": true
 }

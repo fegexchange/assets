@@ -1,0 +1,9 @@
+{
+  "id": "0xbf032CC129B08d22931102e809CD160be5770b55",
+  "name": "FEG Wrapped YFI",
+  "symbol": "fYFI",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 18,
+  "explorer": "https://bscscan.com/token/0xbf032CC129B08d22931102e809CD160be5770b55"
+}
