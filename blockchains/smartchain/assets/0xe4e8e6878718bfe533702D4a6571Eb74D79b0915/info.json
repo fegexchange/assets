@@ -4,7 +4,7 @@
 	"symbol": "LUCHOW",
 	"type": "BEP20",
 	"decimals": 18,
-	"description": "LunaChow ia De-Fi protocol on Ethereum network with the most aggressive burn structure.",
+	"description": "LunaChow is a De-Fi protocol on Ethereum network with the most aggressive burn structure.",
 	"website": "https://lunachow.com",
 	"explorer": "https://bscscan.com/address/0xe4e8e6878718bfe533702d4a6571eb74d79b0915",
 	"reflections": false,
