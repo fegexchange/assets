@@ -1,0 +1,11 @@
+{
+    "name": "Debt Free",
+    "type": "BEP20",
+    "symbol": "DTF",
+    "decimals": 9,
+    "website": "https://debtfreetoken.io/",
+    "description": "Debt Free is a deflationary token that reward holders 10% tax on every transaction.",
+    "explorer": "https://bscscan.com/token/0xb662981D60369EC68e73bb453cC7dAea49642827",
+    "status": "active",
+    "id": "0xb662981D60369EC68e73bb453cC7dAea49642827"
+}
