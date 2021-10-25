@@ -12,5 +12,8 @@
     "telegram": "https://t.me/fegchat",
     "discord": "https://discord.com/invite/K372n4NkbJ",
     "reddit": "https://reddit.com/r/FegToken_Official/"
+  },
+  "stake" : {
+    "address" : "0x4a9D6b95459eb9532B7E4d82Ca214a3b20fa2358"
   }
 }
