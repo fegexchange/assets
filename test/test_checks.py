@@ -85,7 +85,7 @@ class BSCChainTest(unittest.TestCase):
 
     def test_bscside(self):
         for directory in os.listdir(self.dirBSCPath):
-            if re.search(r"\.", directory):
+            if re.search(r"(\.)|(native)", directory):
                 continue
             with self.subTest(directory=directory):
                 self.assertTrue(jsoncontain(os.path.join(self.dirBSCPath, directory)),
@@ -118,7 +118,7 @@ class ETHChainTest(unittest.TestCase):
 
     def test_ethside(self):
         for directory in os.listdir(self.dirETHPath):
-            if re.search(r"\.", directory):
+            if re.search(r"(\.)|(native)", directory):
                 continue
             with self.subTest(directory=directory):
                 self.assertTrue(jsoncontain(os.path.join(self.dirETHPath, directory)),
