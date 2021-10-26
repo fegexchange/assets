@@ -1,9 +1,0 @@
-{
-  "id": "0x5f6528F22656B7f3db140D60BCdc3EDdB023e3f0",
-  "name": "FEG Wrapped ETH",
-  "symbol": "fETH",
-  "type": "BEP20",
-  "reflections": true,
-  "decimals": 18,
-  "explorer": "https://bscscan.com/token/0x5f6528F22656B7f3db140D60BCdc3EDdB023e3f0"
-}
