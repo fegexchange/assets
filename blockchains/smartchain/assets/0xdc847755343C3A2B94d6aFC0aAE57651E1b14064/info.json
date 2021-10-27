@@ -1,0 +1,15 @@
+{
+    "id": "0xdc847755343C3A2B94d6aFC0aAE57651E1b14064",
+    "name": "BODAV2",
+    "symbol": "BODAV2",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "https://bodatoken.app",
+    "explorer": "https://bscscan.com/address/0xdc847755343C3A2B94d6aFC0aAE57651E1b14064", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/bodatoken"
+        "telegram" : "https://t.me/Boda_Token"
+        "discord" : "https://discord.gg/XMF4UctSnv"
+    }
+}
