@@ -2,7 +2,7 @@
    "id":"0x04a03Bb3ad7d02AdC14AeC101C9e64C699bbaa8F",
    "name":"Mereo",
    "symbol":"MRO",
-   "type":"BEP-20",
+   "type":"BEP20",
    "decimals":9,
    "description":"Mereo is creating the future of giving with a unique charity token transforming how donations are being made.",
    "website":"https://mereotoken.com",
