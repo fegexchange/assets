@@ -1,0 +1,14 @@
+{
+    "id": "0x43f11c02439e2736800433b4594994Bd43Cd066D",
+    "name": "FLOKI",
+    "symbol": "FLOKI",
+    "type": "ERC20",
+    "decimals": 9,
+    "website": "https://theflokiinu.com/",
+    "explorer": "https://etherscan.io/token/0x43f11c02439e2736800433b4594994bd43cd066d", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/fegtoken",
+      "telegram" : "https://t.me/FlokiInuToken"
+    }
+}
