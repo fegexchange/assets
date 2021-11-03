@@ -1,0 +1,17 @@
+{
+  "id": "0xe0df31d06d72b2f5231489af0edc422b372f49f1",
+  "name": "MarsX",
+  "symbol": "MX",
+  "type": "erc20",
+  "reflections": false,
+  "decimals": 18,
+  "website": "https://marsxtoken.com/",
+  "explorer": "https://etherscan.io/token/0xe0df31d06d72b2f5231489af0edc422b372f49f1",
+  "social" : {
+        "twitter" : "https://twitter.com/MarsXtoken",
+        "telegram" : "https://t.me/marsXOfficial"
+		"instagram" : "https://www.instagram.com/marsxtoken/"
+		"facebook" : "https://www.facebook.com/MarsX-108790104889677"
+		"medium" : "https://artemisthex.medium.com/"
+   }
+}
