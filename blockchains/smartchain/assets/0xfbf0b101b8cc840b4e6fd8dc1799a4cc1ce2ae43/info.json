@@ -1,0 +1,10 @@
+{
+  "id": "0xfbf0b101b8cc840b4e6fd8dc1799a4cc1ce2ae43",
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "type": "BEP20",
+  "reflections": false,
+  "decimals": 8,
+  "website": "https://bitcoin.org",
+  "explorer": "https://bscscan.com/token/0xfbf0b101b8cc840b4e6fd8dc1799a4cc1ce2ae43"
+}
