@@ -1,7 +1,8 @@
-import unittest
+import json
 import os
 import re
-import json
+import unittest
+
 import cv2
 
 
@@ -72,12 +73,43 @@ def checkType(file, type):
     return verify
 
 
-
 def checkCapitalisationOfId(file, dirname):
     content = json.loads(file.read())
     verify = dirname == content["id"]
     file.close()
     return verify
+
+
+class FilecheckTest(unittest.TestCase):
+    def test_check_blockchains(self):
+        dirs = os.listdir("./blockchains")
+        self.assertTrue(len(dirs) == 2, "Not a valid blockchain")
+    # check if blockchains name has assets in there
+    def test_check_asset(self):
+        dirs = os.listdir("./blockchains/smartchain")
+        self.assertTrue(len(dirs) == 1, "asset should be the only repository allowed in smartchain folder")
+        dirs = os.listdir("./blockchains/ethereum")
+        self.assertTrue(len(dirs) == 1, "asset should be the only repository allowed in ethereum folder")
+
+    def test_checkfiles(self):
+        for root, dirs, files in os.walk(".", topdown=False):
+
+            for name in files:
+                if os.path.join(root, name) is None:
+                    continue
+                self.assertFalse(
+                    re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name) and not re.search("assets(/|\\|)$",
+                                                                                                     root),
+                    os.path.join(root, name) + " is not in the right place")
+
+            for name in dirs:
+                if root is ".":
+                    self.assertFalse(
+                        re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name), "Folder should not be in here")
+                self.assertFalse(
+                    re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name) and re.search("assets(/|\\|)$",
+                                                                                                 root),
+                    os.path.join(root, name) + " is not in the right place")
 
 
 class BSCChainTest(unittest.TestCase):
@@ -112,6 +144,14 @@ class BSCChainTest(unittest.TestCase):
                     "{} : Symbol needs to be BEP20".format(directory))
                 print("{} : passed all the tests".format(directory))
 
+    def test_Only_two_files_in_folder(self):
+        first = True
+        for root, dirs, files in os.walk(self.dirBSCPath, topdown=False):
+            if first:
+                first = False
+                continue
+            self.assertTrue(len(dirs) == 0, "No dirs are allowed in " + root)
+            self.assertTrue(len(files) == 2, "At most 2 files are allowed in " + root)
 
 class ETHChainTest(unittest.TestCase):
     dirETHPath = "blockchains/ethereum/assets"
@@ -144,8 +184,14 @@ class ETHChainTest(unittest.TestCase):
                     checkType(open(os.path.join(self.dirETHPath, directory, "info.json")), "ERC20"),
                     "{} : Symbol needs to be BEP20".format(directory))
                 print("{} : passed all the tests".format(directory))
-
-
+    def test_Only_two_files_in_folder(self):
+        first = True
+        for root, dirs, files in os.walk(self.dirETHPath, topdown=False):
+            if first:
+                first = False
+                continue
+            self.assertTrue(len(dirs) == 0, "No dirs are allowed in " + root)
+            self.assertTrue(len(files) == 2, "At most 2 files are allowed in " + root)
 
 if __name__ == '__main__':
     unittest.main()
