@@ -6,9 +6,9 @@
     "type": "BEP20",
     "symbol": "CON",
     "decimals": 9,
-    "status": "active",
+    "refelections": "yes",
     "id": "0xe0e0Fbc7E8D881953d39CF899409410B50b8C924",
-	"links": [
+	"social": [
         {
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/coin-of-nature/"
