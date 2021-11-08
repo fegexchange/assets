@@ -145,10 +145,9 @@ class BSCChainTest(unittest.TestCase):
                 print("{} : passed all the tests".format(directory))
 
     def test_Only_two_files_in_folder(self):
-        first = True
+
         for root, dirs, files in os.walk(self.dirBSCPath, topdown=False):
-            if first:
-                first = False
+            if root == "blockchains/smartchain/assets":
                 continue
             self.assertTrue(len(dirs) == 0, "No dirs are allowed in " + root)
             self.assertTrue(len(files) == 2, "At most 2 files are allowed in " + root)
