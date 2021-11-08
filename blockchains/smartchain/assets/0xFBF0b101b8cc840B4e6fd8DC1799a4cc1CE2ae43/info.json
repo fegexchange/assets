@@ -1,7 +1,7 @@
 {
   "id": "0xFBF0b101b8cc840B4e6fd8DC1799a4cc1CE2ae43",
-  "name": "$Bitcoin",
-  "symbol": "$BTC",
+  "name": "Bbitcoin",
+  "symbol": "BBTC",
   "type": "BEP20",
   "reflections": false,
   "decimals": 8,
