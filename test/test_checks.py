@@ -147,7 +147,7 @@ class BSCChainTest(unittest.TestCase):
     def test_Only_two_files_in_folder(self):
 
         for root, dirs, files in os.walk(self.dirBSCPath, topdown=False):
-            if root == "blockchains/smartchain/assets":
+            if root == self.dirBSCPath:
                 continue
             self.assertTrue(len(dirs) == 0, "No dirs are allowed in " + root)
             self.assertTrue(len(files) == 2, "At most 2 files are allowed in " + root)
@@ -184,10 +184,8 @@ class ETHChainTest(unittest.TestCase):
                     "{} : Symbol needs to be BEP20".format(directory))
                 print("{} : passed all the tests".format(directory))
     def test_Only_two_files_in_folder(self):
-        first = True
         for root, dirs, files in os.walk(self.dirETHPath, topdown=False):
-            if first:
-                first = False
+            if root == self.dirETHPath:
                 continue
             self.assertTrue(len(dirs) == 0, "No dirs are allowed in " + root)
             self.assertTrue(len(files) == 2, "At most 2 files are allowed in " + root)
