@@ -1,0 +1,13 @@
+{
+    "id": "0xc47f53c425d08f8457471538ae641655814beae8",
+    "name": "SurfMoon",
+    "symbol": "SURFMOON",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://surfmoon.io",
+    "explorer": "https://bscscan.com/token/0xc47f53c425d08f8457471538Ae641655814bEAe8", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/SurfMoonToken"
+    }
+}
