@@ -1,0 +1,13 @@
+{
+    "id": "0x5857c96dae9cf8511b08cb07f85753c472d36ea3",
+    "name": "Fuse Token",
+    "symbol": "FUSE",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "https://fuse.io",
+    "explorer": "https://bscscan.com/token/0x5857c96dae9cf8511b08cb07f85753c472d36ea3", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/fuse_network"
+    }
+}
