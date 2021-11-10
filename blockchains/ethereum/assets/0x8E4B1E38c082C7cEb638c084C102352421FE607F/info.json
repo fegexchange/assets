@@ -3,6 +3,7 @@
   "name": "FEG Wrapped SHIB",
   "symbol": "fSHIB",
   "type": "ERC20",
+  "reflections": true,
   "decimals": 18,
   "explorer": "https://etherscan.io/token/0x8E4B1E38c082C7cEb638c084C102352421FE607F"
 }

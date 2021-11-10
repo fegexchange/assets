@@ -3,6 +3,7 @@
   "name": "FEG Wrapped USDC",
   "symbol": "fUSDC",
   "type": "ERC20",
+  "reflections": true,
   "decimals": 18,
   "explorer": "https://etherscan.io/token/0x52b65CE1391C49eaE108017c4442077b3C2Bd17a"
 }
