@@ -1,0 +1,14 @@
+{
+  "id": "0xcA52cBc6bCaCD69b2ec61F46F4Fe2bCA8Ecd73D5",
+  "name": "Ninjacoin",
+  "symbol": "NINJA",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 8,
+  "website": "https://ninjacoin.org",
+  "explorer": "https://bscscan.com/token/0xcA52cBc6bCaCD69b2ec61F46F4Fe2bCA8Ecd73D5",
+  "social" : {
+        "twitter" : "https://twitter.com/ninjacoin_org",
+        "telegram" : "https://t.me/ninjacoin_org"
+   }
+}

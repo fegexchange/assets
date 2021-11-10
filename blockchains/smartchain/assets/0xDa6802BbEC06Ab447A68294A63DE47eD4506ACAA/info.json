@@ -6,7 +6,7 @@
   "decimals": 9,
   "website": "https://crypter.quest/",
   "explorer": "https://bscscan.com/token/0xda6802bbec06ab447a68294a63de47ed4506acaa",
-  "reflections": true,
+  "reflections": false,
   "social": {
     "twitter": "https://twitter.com/CrypterOfficial",
     "telegram": "https://t.me/cryptermain"
