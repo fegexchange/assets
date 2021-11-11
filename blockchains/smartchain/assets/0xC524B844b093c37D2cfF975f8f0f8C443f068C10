@@ -1,0 +1,11 @@
+{
+"id": "0xC524B844b093c37D2cfF975f8f0f8C443f068C10",
+"name": "$XtremeBurn",
+"symbol": "$XtremeBurn",
+"type": "BEP20",
+"decimals": 18,
+"description": "Decentralized token burned until it cannot be burned anymore.",
+"explorer": "https://bscscan.com/address/0xfFa986671D804075EA959DC3D7ca4aaC5BEb37b4?utm_source=",
+"social": {
+"telegram": "https://t.me/EXTREMEBURNTOKEN",
+}
