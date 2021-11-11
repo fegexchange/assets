@@ -4,7 +4,7 @@
   "symbol": "fUSDT",
   "type": "ERC20",
   "reflections": true,
-  "decimals": 18,
+  "decimals": 6,
   "explorer": "https://etherscan.io/token/0x979838c9C16FD365C9fE028B0bEa49B1750d86e9"
 }
 
