@@ -1,0 +1,14 @@
+{
+    "id": "0xfccF3229063b1aa16af6b9b5DE1B7E0c1bfE4046",
+    "name": "Baby Santa Token ",
+    "symbol": "$BST",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://www.babysantatoken.com/",
+    "explorer": "https://bscscan.com/token/0xfccf3229063b1aa16af6b9b5de1b7e0c1bfe4046", 
+    "social": {
+      "twitter": "https://twitter.com/babysantabsc",
+      "telegram": "https://t.me/babysantatoken",
+      "facebook": "https://www.facebook.com/Baby-Santa-101677595665401/"
+    }
+  }
