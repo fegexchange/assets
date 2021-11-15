@@ -1,0 +1,11 @@
+{
+  "id": "0x28D2277690b52BB9f5635eCe162F75d1C7597b4e",
+  "name": "BearMetaverse",
+  "symbol": "BearMetaverse",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "Bear Metaverse virtual world",
+  "reflections": true,
+  "explorer": "https://bscscan.com/token/0x28D2277690b52BB9f5635eCe162F75d1C7597b4e"
+
+}
