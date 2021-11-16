@@ -6,5 +6,9 @@
   "decimals": 9,
   "website": "www.shibfuel.com",
   "explorer": "https://bscscan.com/address/0x36c77700eff806BaE46548DA06B442cB37698c6A",
-  "reflections": true
+  "reflections": true,
+  "socials":{
+    "Twitter":"https://twitter.com/ShibFueL",
+    "Discord":"https://discord.gg/puSu4SeaAv"
+  }
 }
