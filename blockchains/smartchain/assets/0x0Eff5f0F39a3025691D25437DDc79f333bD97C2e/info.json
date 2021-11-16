@@ -1,0 +1,11 @@
+{
+  "id": "0x0Eff5f0F39a3025691D25437DDc79f333bD97C2e",
+  "name": "AvoSwap",
+  "symbol": "AvoSwap",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "Avo Swap is the new swap on the village",
+  "reflections": true,
+  "explorer": "https://bscscan.com/token/0x0Eff5f0F39a3025691D25437DDc79f333bD97C2e"
+
+}
