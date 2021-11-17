@@ -1,0 +1,13 @@
+{
+    "id": "0x0b6ee654331a70C94d84e92181d5d8c59aAaE72A",
+    "name": "Wind Floki Inu",
+    "symbol": "WFLO",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://bscscan.com/token/0x0b6ee654331a70C94d84e92181d5d8c59aAaE72A", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/fegtoken"
+    }
+}
