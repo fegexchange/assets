@@ -1,0 +1,13 @@
+{
+    "id": "0x508788920223C51968CC97a8FC798B46203A04ab",
+    "name": "GREEN",
+    "symbol": "GRN",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "explorer": "https://bscscan.com/address/0x508788920223C51968CC97a8FC798B46203A04ab", 
+    "reflections": true,
+    "social" : {
+        "twitter" : ""
+    }
+}
