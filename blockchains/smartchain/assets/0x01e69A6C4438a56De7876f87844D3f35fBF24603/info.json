@@ -5,6 +5,7 @@
   "type": "BEP20",
   "decimals": 18,
   "description": "GREEN - This is the way",
-  "website": "https://fegtoken.com",
-  "explorer": "https://bscscan.com/token/0x01e69A6C4438a56De7876f87844D3f35fBF24603",
+  "reflections": true,
+  "explorer": "https://bscscan.com/token/0x01e69A6C4438a56De7876f87844D3f35fBF24603"
+
 }
