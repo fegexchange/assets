@@ -1,9 +1,0 @@
-{
-  "id": "0xfB17D214d83643da1b079d410647c33aBcE972e2",
-  "name": "FEG Wrapped DOGE",
-  "symbol": "fDOGE",
-  "type": "BEP20",
-  "reflections": true,
-  "decimals": 8,
-  "explorer": "https://bscscan.com/token/0xfB17D214d83643da1b079d410647c33aBcE972e2"
-}

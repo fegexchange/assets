@@ -1,9 +1,0 @@
-{
-  "id": "0xcbd7A49f34CaD9d50f25d5A077C1B25CE5A89281",
-  "name": "FEG Wrapped XLM",
-  "symbol": "fXLM",
-  "type": "BEP20",
-  "reflections": true,
-  "decimals": 18,
-  "explorer": "https://etherscan.io/token/0xcbd7A49f34CaD9d50f25d5A077C1B25CE5A89281"
-}
