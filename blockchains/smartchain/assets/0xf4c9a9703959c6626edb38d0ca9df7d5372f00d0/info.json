@@ -1,0 +1,19 @@
+{
+  "id": "0xf4c9a9703959c6626edb38d0ca9df7d5372f00d0",
+  "name": "META UNICORN",
+  "symbol": "METAC",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Meta Unicorn is a Metaverse World where you will be able to buy your own plots and earn profit with our tokens + investment in metaverse real estate",
+  "reflections": true,
+   "website": "https://www.metaunicorn.life/",
+  "explorer": "https://bscscan.com/token/0xf4c9a9703959c6626edb38d0ca9df7d5372f00d0"
+  "social": {
+    "Telegram Announcements": "https://t.me/metaunicornofficial",
+	"Telegram Chat": "https://t.me/metaunicorntoken",
+    "Twitter": "https://twitter.com/UnicornMeta"
+	 "Instagram": "https://www.instagram.com/metaunicorntoken/"
+	  "Github": "https://github.com/Metaunicorn"
+	  "Medium": "https://medium.com/@metaunicorntoken"
+  }
+}
