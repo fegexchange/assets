@@ -1,0 +1,14 @@
+{
+    "id": "0xFa17b330bCC4e7F3E2456996d89A5a54AB044831",
+    "name": "Cardence",
+    "symbol": "CRDN",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "https://cardence_io",
+    "explorer": "https://bscscan.com/token/0xFa17b330bCC4e7F3E2456996d89A5a54AB044831",
+    "reflections": false,
+    "social" : {
+        "twitter" : "https://twitter.com/cardence_io",
+	       "telegram" : "https://t.me/cardence_chat"
+    }
+}
