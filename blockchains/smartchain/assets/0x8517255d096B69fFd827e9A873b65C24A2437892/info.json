@@ -1,0 +1,13 @@
+{
+    "id": "0x8517255d096B69fFd827e9A873b65C24A2437892",
+    "name": "Polypswap",
+    "symbol": "PPP",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "https://polypswap.org",
+    "explorer": "https://bscscan.com/token/0x8517255d096b69ffd827e9a873b65c24a2437892", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/polypswap"
+    }
+}
