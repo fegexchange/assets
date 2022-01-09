@@ -1,0 +1,15 @@
+{
+    "id": "0x14bb7a637fab7ef189ddb052153239cf31892d8c",
+    "name": "Puppets Arts",
+    "symbol": "PUPPETS",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "Token Puppets Arts",
+    "website": "https://www.puppetsarts.com/",
+    "explorer": "https://bscscan.com/address/0x14bb7a637fab7ef189ddb052153239cf31892d8c#code", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/ArtsPuppets",
+        "telegram": "https://t.me/PuppetsArtsCoin"
+    }
+}
