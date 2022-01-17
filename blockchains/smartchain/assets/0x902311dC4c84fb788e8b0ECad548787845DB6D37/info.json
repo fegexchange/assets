@@ -1,0 +1,18 @@
+{
+   "id":"0x902311dC4c84fb788e8b0ECad548787845DB6D37",
+   "name":"HotDoge v3",
+   "symbol":"HOTDOGE",
+   "type":"BEP20",
+   "decimals":18,
+   "description":"3% Automatic BNB Reflections, AntiDump, AntiWhale, TokenAssurance Program, VIP Rewards, Volunteer Rewards and Bonuses. We develop Dapps and NFC chip technology that makes profit to buy and burn more HotDoge. We're SmartMoney. This is DeFi.",
+   "website":"https://hotdogetoken.com",
+   "explorer":"https://bscscan.com/address/0x902311dc4c84fb788e8b0ecad548787845db6d37",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/hotdogebsc",
+      "facebook":"https://www.facebook.com/HotDogeTokenBSC",
+      "reddit":"https://www.reddit.com/r/hotdoge",
+      "discord":"https://discord.gg/HR489wW7Ud",
+      "instagram":"https://www.instagram.com/hotdogetoken"
+   }
+}
