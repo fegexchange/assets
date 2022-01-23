@@ -1,0 +1,13 @@
+{
+    "id": "0x8C4C514667F84014abDB9710F795b011cbf42cAA",
+    "name": "EAGLE",
+    "symbol": "FANG",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "-",
+    "explorer": "https://bscscan.com/token/0x8C4C514667F84014abDB9710F795b011cbf42cAA", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "-"
+    }
+}
