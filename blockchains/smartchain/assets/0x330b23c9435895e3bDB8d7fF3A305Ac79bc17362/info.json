@@ -1,0 +1,22 @@
+{
+    "name": "SnowflakeTorch",
+    "type": "BEP20",
+    "symbol": "SNOW",
+    "decimals": 9,
+    "website": "https://snowflaketorch.com",
+    "description": "Kokoswap is a decentralised token ",
+    "explorer": "https://bscscan.com/token/0x330b23c9435895e3bDB8d7fF3A305Ac79bc17362",
+    "status": "active",
+    "id": "0x330b23c9435895e3bDB8d7fF3A305Ac79bc17362",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/SnowflakeTorchCn"
+        },
+        
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/snowflake_torch"
+        }
+    ]
+}
