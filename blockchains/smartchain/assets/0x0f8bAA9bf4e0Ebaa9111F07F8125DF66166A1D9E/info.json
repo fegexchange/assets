@@ -1,9 +1,0 @@
-{
-  "id": "0x0f8bAA9bf4e0Ebaa9111F07F8125DF66166A1D9E",
-  "name": "FEG Wrapped XTZ",
-  "symbol": "fXTZ",
-  "type": "BEP20",
-  "reflections": true,
-  "decimals": 18,
-  "explorer": "https://bscscan.com/token/0x0f8bAA9bf4e0Ebaa9111F07F8125DF66166A1D9E"
-}

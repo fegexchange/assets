@@ -1,9 +1,0 @@
-{
-  "id": "native",
-  "name": "Smart Chain",
-  "symbol": "BSC",
-  "type": "BEP20",
-  "decimals": 18,
-  "website": "https://www.binance.org/en/smartChain",
-  "explorer": "https://bscscan.com/"
-}
