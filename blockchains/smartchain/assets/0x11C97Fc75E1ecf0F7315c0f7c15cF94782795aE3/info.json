@@ -7,7 +7,7 @@
 	"description": "MLOKY is a deflationary token with a revolutionary reward sytem and auto liquidity generating protocol on Binance Smart Chain.",
 	"website": "https://lunachow.com",
 	"explorer": "https://bscscan.com/address/0x11c97fc75e1ecf0f7315c0f7c15cf94782795ae3",
-	"reflections": Yes,
+	"reflections": True,
 	"social" : {
 	"twitter" : "https://twitter.com/LunaChoww",
 	"telegram" : "https://t.me/LuChow",
