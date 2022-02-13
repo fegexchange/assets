@@ -4,7 +4,7 @@
 	"symbol": "MLOKY",
 	"type": "BEP20",
 	"decimals": 9,
-	"description": "MLOKY is a deflationary token with a revolutionary reward system and auto liquidity generating protocol launched on Binance Smart Chain .",
+	"description": "MLOKY is a deflationary token with a revolutionary reward system and auto liquidity generating protocol launched on Binance Smart Chain.",
 	"website": "https://lunachow.com",
 	"explorer": "https://bscscan.com/address/0x11c97fc75e1ecf0f7315c0f7c15cf94782795ae3",
 	"reflections": Yes,
