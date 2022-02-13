@@ -1,0 +1,11 @@
+{
+  "id": "0xc914B11c1d7e674Fd569060d8FAfFA1Ab3DE452d",
+  "name": "BabyFEG",
+  "symbol": "BabyFEG",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "BabyFEG the baby of FEG",
+  "reflections": true,
+  "explorer": "https://bscscan.com/token/0xc914B11c1d7e674Fd569060d8FAfFA1Ab3DE452d"
+
+}

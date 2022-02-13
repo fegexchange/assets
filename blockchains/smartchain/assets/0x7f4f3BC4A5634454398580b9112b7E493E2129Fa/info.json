@@ -1,0 +1,13 @@
+{
+    "id": "0x7f4f3BC4A5634454398580b9112b7E493E2129Fa",
+    "name": "KODI COIN",
+    "symbol": "KODI",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "https://kodicoin.com",
+    "explorer": "https://bscscan.com/token/0x7f4f3BC4A5634454398580b9112b7E493E2129Fa", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/kodi_coin"
+    }
+}

@@ -3,7 +3,8 @@
   "name": "FEG Wrapped USDT",
   "symbol": "fUSDT",
   "type": "ERC20",
-  "decimals": 18,
+  "reflections": true,
+  "decimals": 6,
   "explorer": "https://etherscan.io/token/0x979838c9C16FD365C9fE028B0bEa49B1750d86e9"
 }
 

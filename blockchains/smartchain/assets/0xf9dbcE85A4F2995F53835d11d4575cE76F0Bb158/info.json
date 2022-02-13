@@ -1,0 +1,15 @@
+
+{
+    "id": "0xf9dbcE85A4F2995F53835d11d4575cE76F0Bb158",
+    "name": "PulseStar",
+    "symbol": "PULSAR",
+    "type": "BEP20",
+    "decimals": 9,
+    "description": "PulseStar - The most important thing at PulseStar is transparency and community input.",
+    "website": "https://www.pulse-star.com/",
+    "explorer": "https://bscscan.com/address/0xf9dbce85a4f2995f53835d11d4575ce76f0bb158",
+    "social": {
+      "telegram": "https://t.me/PulseStarToken",
+      "twitter": "https://twitter.com/PulseStar_Token"
+    }
+  }

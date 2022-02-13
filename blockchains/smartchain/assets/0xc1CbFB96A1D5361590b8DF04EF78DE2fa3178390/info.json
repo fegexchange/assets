@@ -1,0 +1,17 @@
+{
+    "id": "0xc1CbFB96A1D5361590b8DF04EF78DE2fa3178390",
+    "name": "Peachfolio",
+    "symbol": "PCHF",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "https://peachfolio.app",
+    "explorer": "https://bscscan.com/token/0xc1CbFB96A1D5361590b8DF04EF78DE2fa3178390", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/peachfolio",
+        "Telegram" : "https://t.me/peachfolio",
+        "Facebook" : "https://www.facebook.com/peach.folio/",
+        "Reddit" : "https://www.reddit.com/r/peachfolio/",
+        "Youtube" : "https://www.youtube.com/c/peachfolio"
+    }
+}

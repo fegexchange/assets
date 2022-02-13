@@ -1,0 +1,11 @@
+{
+  "id": "0x7465D2c57C63F40De1835937AFa4955FfA41C423",
+  "name": "Kitsune",
+  "symbol": "KITSUNE",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "Kitsune is possess superior intelligence, long life, and magical powers",
+  "reflections": true,
+  "explorer": "https://bscscan.com/token/0x7465D2c57C63F40De1835937AFa4955FfA41C423"
+
+}

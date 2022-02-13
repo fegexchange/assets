@@ -1,0 +1,17 @@
+{
+    "id": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+    "name": "Tardigrades.Finance",
+    "symbol": "TRDG",
+    "type": "BEP20",
+    "decimals": 9,
+    "description": "Tardigrades are the Strongest Living Creatures in the Universe!",
+    "website": "https://TRDGtoken.com",
+    "explorer": "https://bscscan.com/token/0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/TRDGtoken",
+        "telegram": "https://t.me/TardigradesOfficial",
+        "discord": "https://discord.gg/xPX3rjvnm2",
+        "reddit": "https://www.reddit.com/r/TRDGToken"
+    }
+}

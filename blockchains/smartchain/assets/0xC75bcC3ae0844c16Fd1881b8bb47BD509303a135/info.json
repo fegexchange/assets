@@ -1,0 +1,14 @@
+{
+	"id": "0xC75bcC3ae0844c16Fd1881b8bb47BD509303a135",
+	"name": "MetaverseInu",
+	"symbol": "METAINU",
+	"type": "BEP20",
+	"decimals": 9,
+	"description": "Decentralized Inu Meme Coin of the Metaverse ",
+	"website": "https://www.metaverseinu.org",
+	"explorer": "https://bscscan.com/token/0xC75bcC3ae0844c16Fd1881b8bb47BD509303a135",
+	"social": {
+		"twitter": "https://twitter.com/Metaverse_Inu",
+		"telegram": "https://t.me/Metaverse_Inu"
+	}
+}

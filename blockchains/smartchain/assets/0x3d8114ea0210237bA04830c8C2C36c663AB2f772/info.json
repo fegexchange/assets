@@ -1,0 +1,14 @@
+{
+    "id": "0x3d8114ea0210237bA04830c8C2C36c663AB2f772",
+    "name": "Anunnaki",
+    "symbol": "AKI",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://anunnakiaki.com/",
+    "explorer": "https://bscscan.com/address/0x3d8114ea0210237bA04830c8C2C36c663AB2f772", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/anunnaki_aki?s=09",
+        "telegram" : "https://www.t.me/anunnakiakiofficial"
+    }
+}
