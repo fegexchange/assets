@@ -1,9 +1,0 @@
-{
-  "id": "0x0742d0d3c1029F157823e6eA1157e3ee458FF1AA",
-  "name": "FEG Wrapped DAI",
-  "symbol": "fDAI",
-  "type": "BEP20",
-  "reflections": true,
-  "decimals": 18,
-  "explorer": "https://etherscan.io/token/0x0742d0d3c1029F157823e6eA1157e3ee458FF1AA"
-}

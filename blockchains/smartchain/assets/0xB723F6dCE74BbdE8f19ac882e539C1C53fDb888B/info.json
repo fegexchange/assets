@@ -1,9 +1,0 @@
-{
-  "id": "0xB723F6dCE74BbdE8f19ac882e539C1C53fDb888B",
-  "name": "FEG Wrapped ADA",
-  "symbol": "fADA",
-  "type": "BEP20",
-  "reflections": true,
-  "decimals": 18,
-  "explorer": "https://bscscan.com/token/0xB723F6dCE74BbdE8f19ac882e539C1C53fDb888B"
-}
