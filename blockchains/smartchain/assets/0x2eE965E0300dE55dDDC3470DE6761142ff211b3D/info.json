@@ -1,0 +1,14 @@
+{
+    "id": "0x2eE965E0300dE55dDDC3470DE6761142ff211b3D",
+    "name": "DICEROLLS",
+    "symbol": "DICE",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://dicerolls.fun/",
+    "explorer": "https://bscscan.com/token/0x2eE965E0300dE55dDDC3470DE6761142ff211b3D", 
+    "reflections": true,
+    "social" : {
+	"telegram": "https://t.me/Dicerolls_Official",
+        "twitter" : "https://twitter.com/burningrolls"
+    }
+}
