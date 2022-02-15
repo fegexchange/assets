@@ -48,7 +48,7 @@ Example of Valid JSON
 
 Include the official logo of your token you want displayed on FEGex
 
-- the logo should be square, recommended 256x256px 
+- the logo should be square of size *`256x256px`* 
 
 ### Example
 
