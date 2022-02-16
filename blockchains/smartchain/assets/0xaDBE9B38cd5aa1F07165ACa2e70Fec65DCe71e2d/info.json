@@ -1,0 +1,15 @@
+{
+  "id": "0xaDBE9B38cd5aa1F07165ACa2e70Fec65DCe71e2d",
+  "name": "Supermassive Burn Token",
+  "symbol": "SBT",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "Supermassive Burn Token is a token built on the same basis as ROX.",
+  "website": "https://www.supermassiveburntoken.org",
+  "explorer": "https://bscscan.com/address/0xaDBE9B38cd5aa1F07165ACa2e70Fec65DCe71e2d",
+  "reflections": true,
+  "social": {
+    "twitter": "https://twitter.com/sburntoken",
+    "telegram": "https://t.me/supermassiveburntoken"
+	    }
+}
