@@ -142,7 +142,6 @@ class BSCChainTest(unittest.TestCase):
                 self.assertTrue(
                     checkType(open(os.path.join(self.dirBSCPath, directory, "info.json")), "BEP20"),
                     "{} : Symbol needs to be BEP20".format(directory))
-                print("{} : passed all the tests".format(directory))
 
     def test_Only_two_files_in_folder(self):
 
@@ -182,7 +181,6 @@ class ETHChainTest(unittest.TestCase):
                 self.assertTrue(
                     checkType(open(os.path.join(self.dirETHPath, directory, "info.json")), "ERC20"),
                     "{} : Symbol needs to be BEP20".format(directory))
-                print("{} : passed all the tests".format(directory))
     def test_Only_two_files_in_folder(self):
         for root, dirs, files in os.walk(self.dirETHPath, topdown=False):
             if root == self.dirETHPath:
