@@ -1,9 +1,0 @@
-{
-  "id": "0x87b1AccE6a1958E522233A737313C086551a5c76",
-  "name": "FEG Wrapped BNB",
-  "symbol": "fBNB",
-  "type": "BEP20",
-  "reflections": true,
-  "decimals": 18,
-  "explorer": "https://bscscan.com/token/0x87b1AccE6a1958E522233A737313C086551a5c76"
-}

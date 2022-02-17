@@ -1,9 +1,0 @@
-{
-  "id": "0xEf11aB854b475Bd0c5Db37f6bFFAB443219d656d",
-  "name": "FEG Wrapped USDT",
-  "symbol": "fUSDT",
-  "type": "BEP20",
-  "reflections": true,
-  "decimals": 18,
-  "explorer": "https://bscscan.com/token/0xEf11aB854b475Bd0c5Db37f6bFFAB443219d656d"
-}
