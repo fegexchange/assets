@@ -1,0 +1,14 @@
+{
+    "id": "0xE6A2de529CE13753e83F7C1aaCAb5653276D99EA",
+    "name": "SmartRocks",
+    "symbol": "SRS",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "http://smartrocks.app",
+    "explorer": "https://bscscan.com/token/0xE6A2de529CE13753e83F7C1aaCAb5653276D99EA", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/smart_rocks",
+        "telegram": "https://t.me/SmartRocksCN"
+    }
+}
