@@ -1,0 +1,14 @@
+{
+    "id": "0x1C9F1de07E8F65Ee0A96e616F705735a1D0B031b",
+    "name": "GGGSMART",
+    "symbol": "GGGSMART",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://gggstar.com/",
+    "explorer": "https://bscscan.com/token/0x1C9F1de07E8F65Ee0A96e616F705735a1D0B031b", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/GGGSmartDefi",
+        "telegram" : "https://t.me/gggofficialinfo"
+    }
+}

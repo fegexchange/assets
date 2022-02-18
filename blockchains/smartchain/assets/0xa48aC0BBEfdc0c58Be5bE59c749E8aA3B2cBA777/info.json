@@ -1,0 +1,12 @@
+{
+    "id": "0xa48aC0BBEfdc0c58Be5bE59c749E8aA3B2cBA777",
+    "name": "IRISH",
+    "symbol": "IRISH",
+    "type": "BEP20",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/address/0xa48aC0BBEfdc0c58Be5bE59c749E8aA3B2cBA777", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/Irish_SmartDefi"
+    }
+}

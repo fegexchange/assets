@@ -1,0 +1,15 @@
+{
+  "id": "0x518598c9BA227857c1D08eB02330F0f0d75DFC61",
+  "name": "The Mainstreem Token",
+  "symbol": "MSM",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "The Mainstreem token is rewarding content creators unlike any other platform. GET IT HERE FIRST WITH THE MAINSTREEM!",
+  "website": "https://themainstreem.com/",
+  "explorer": "https://bscscan.com/address/0x518598c9BA227857c1D08eB02330F0f0d75DFC61",
+  "reflections": true,
+  "social": {
+    "twitter": "https://twitter.com/Mainstreem_LIVE",
+    "telegram": "https://t.me/TheMainstreem"
+  }
+}
