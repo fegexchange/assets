@@ -1,0 +1,16 @@
+{
+    "name": "Inubis",
+    "website": "https://inubis.io",
+    "description": "Inubis is a decentralized Hyper deflationary- ERC20 token. Inubis introduces holders to next-gen concepts: Rewards for holding, Blockchain games, NFTs, DEX, and more.",
+    "explorer": "https://etherscan.io/token/0x3667d6b1aee4f96b608ee365fda9fa5ba866604c",
+    "type": "ERC20",
+    "symbol": "INUBIS",
+    "decimals": 9,
+    "reflections": false,
+    "id": "0x3667d6B1AEE4f96b608EE365FdA9fa5BA866604c",
+    "social":
+    {
+        "twitter": "https://twitter.com/InubisToken",
+        "telegram": "https://t.me/InubisTokenOfficial"
+    }
+}
