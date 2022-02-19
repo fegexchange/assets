@@ -1,0 +1,11 @@
+{
+  "id": "0xA18Dc0BDa12B1BD8E1c0CA680b742882a2240Db4",
+  "name": "BabyBoss",
+  "symbol": "$BabyBoss",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "BabyBoss Token",
+  "reflections": true,
+  "explorer": "https://bscscan.com/token/0xA18Dc0BDa12B1BD8E1c0CA680b742882a2240Db4"
+
+}
