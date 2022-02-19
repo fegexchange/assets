@@ -1,0 +1,10 @@
+{
+   "id":"0xc5A6Ac1D424D0eBD13f5FD21Cb1E9aDdbdaC5f2F (case sensititve)",
+   "name":"First Person View",
+   "symbol":"FPV",
+   "type":"BEP20",
+   "decimals":18,
+   "website":"fpv-token.com",
+   "explorer":"https://bscscan.com/token/0xc5a6ac1d424d0ebd13f5fd21cb1e9addbdac5f2f?a=0xd63a2DCF31c27AEB31D4500F5e04775F1Fbd9Af6",
+   "reflections":true
+}
