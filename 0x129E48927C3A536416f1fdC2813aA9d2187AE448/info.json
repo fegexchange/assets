@@ -1,13 +1,13 @@
 {
     "id": "0x129E48927C3A536416f1fdC2813aA9d2187AE448",
-    "name": "FeggyWap SD",
-    "symbol": "Token Symbol",
-    "type": "BEP20",
+    "name": “FeggyWap,
+    "symbol": “FWAP”,
+    "type": "	b”ep20,
     "decimals": 9,
     "website": "https://smartdefi.com",
-    "explorer": "https://bscscan.com/address/0x129e48927c3a536416f1fdc2813aa9d2187ae448", 
+    "explorer": "https://bscscan.com/address/0x129E48927C3A536416f1fdC2813aA9d2187AE448", 
     "reflections": true,
     "social" : {
-        "twitter" : "https://twitter.com/feggywap"
+        "twitter" : "https://twitter.com/FeggyWap
     }
 }
