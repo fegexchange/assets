@@ -1,12 +1,12 @@
 {
-   "id": "0x1574e014fD6731725776733285C70Ff0e9ED5938",
+   "id": "0xfe0d1964fbc3f66805f73f55f56c1d425229e147",
    "name": "Smart Ants",
    "symbol": "SANS",
    "type": "BEP20",
    "decimals": 9,
    "description": "Killer Meme Token Without SmartDefi",
    "website": "https://SmartAnts.xyz",
-   "explorer": "https://bscscan.com/address/0x1574e014fd6731725776733285c70ff0e9ed5938",
+   "explorer": "https://bscscan.com/address/0xfe0d1964fbc3f66805f73f55f56c1d425229e147",
    "reflections": true,
    "social" : {
       "twitter": "https://twitter.com/Sans",
