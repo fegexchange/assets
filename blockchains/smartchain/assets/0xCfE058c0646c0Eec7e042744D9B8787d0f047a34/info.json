@@ -6,6 +6,7 @@
   "decimals": 9,
   "description": "DEGEN - token only for DEGEN TRADERS",
   "website": "/",
+  "reflections": true,
   "explorer": "https://bscscan.com/address/0xCfE058c0646c0Eec7e042744D9B8787d0f047a34",
   "social": {
     "telegram": "https://t.me/degentraderstoken",
