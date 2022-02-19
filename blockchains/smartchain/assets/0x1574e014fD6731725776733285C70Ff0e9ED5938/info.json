@@ -3,7 +3,7 @@
    "name":"Smart Ants",
    "symbol":"SANS",
    "type":"BEP20",
-   "decimals":9,
+   "decimals":"9",
    "description":"Killer Meme Token Without SmartDefi",
    "website":"https://SmartAnts.xyz",
    "explorer":"https://bscscan.com/address/0x1574e014fd6731725776733285c70ff0e9ed5938",
