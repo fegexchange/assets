@@ -1,0 +1,15 @@
+{
+    "id": "0x1574e014fD6731725776733285C70Ff0e9ED5938",
+    "name": "Smart Ants",
+    "symbol": "SANS",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://bscscan.com/token/0x1574e014fd6731725776733285c70ff0e9ed5938", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/",
+        "Reddit" : "https://www.reddit.com/",
+        "telegram" : "https://t.me/SmartAnts"
+    }
+}
