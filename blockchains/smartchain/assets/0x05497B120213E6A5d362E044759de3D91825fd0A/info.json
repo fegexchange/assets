@@ -1,0 +1,13 @@
+{
+    "id": "0x05497B120213E6A5d362E044759de3D91825fd0A",
+    "name": "TNT",
+    "symbol": "TNT",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://TNTofficial.io",
+    "explorer": "https://bscscan.com/token/0x05497B120213E6A5d362E044759de3D91825fd0A", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/TNToficial"
+    }
+}
