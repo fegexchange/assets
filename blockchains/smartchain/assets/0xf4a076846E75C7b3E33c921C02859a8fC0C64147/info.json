@@ -1,0 +1,11 @@
+{
+  "id": "0xf4a076846e75c7b3e33c921c02859a8fc0c64147",
+  "name": "SINSFEG",
+  "symbol": "SINSFEG",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "SINSFEG WELL",
+  "reflections": true,
+  "explorer": "https://bscscan.com/token/0xf4a076846e75c7b3e33c921c02859a8fc0c64147"
+
+}
