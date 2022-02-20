@@ -4,6 +4,7 @@
     "symbol": "Silverback",
     "type": "ERC20",
     "decimals": 9,
+    "website": "http://silverbackfeg.com",
     "explorer": "https://bscscan.com/token/0xa52305eec930fa8da22ce5ad371040ca0bed25b7", 
     "reflections": true,
     "social" : {
