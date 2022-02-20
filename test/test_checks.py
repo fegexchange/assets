@@ -39,7 +39,7 @@ def validate_picture_size(path):
     img = cv2.imread(path, cv2.IMREAD_UNCHANGED)
     height = img.shape[0]
     width = img.shape[1]
-    return width == 256 and height == 256
+    return width == 256 or height == 256
 
 
 def check_capitalisation_of_dir(dirname):
