@@ -5,5 +5,9 @@
   "type": "BEP20",
   "reflections": true,
   "decimals": 9,
-  "explorer": "https://bscscan.com/token/0xe9490a983292bd844074ac3e83c3cb408f578b61"
+  "explorer": "https://bscscan.com/token/0xe9490a983292bd844074ac3e83c3cb408f578b61",
+  "social" : {
+    "twitter" : "https://twitter.com/divvysd",
+    "telegram" : "https://t.me/divvychat"
+  }
 }

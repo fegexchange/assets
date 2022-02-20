@@ -1,0 +1,9 @@
+{
+  "id": "0xb0321F54E5D9332179AC6B5deb0D0987ed094723",
+  "name": "BLACKDOG",
+  "symbol": "BLACKDOG",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 9,
+  "explorer": "https://bscscan.com/token/0xb0321F54E5D9332179AC6B5deb0D0987ed094723"
+}

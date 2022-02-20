@@ -1,0 +1,15 @@
+{
+  "id": "0x6A6014231B86e111974a07842e4D5e29c7F01bD1",
+  "name": "Hold And Win",
+  "symbol": "HAW",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "Hold And Win will be a HUGE SmartDefi store of value.",
+  "website": "https://www.holdandwin.org",
+  "explorer": "https://bscscan.com/token/0x6A6014231B86e111974a07842e4D5e29c7F01bD1",
+  "reflections": true,
+  "social": {
+    "twitter": "https://twitter.com/holdandwin",
+    "telegram": "https://t.me/ussmartdefi"
+	}
+}

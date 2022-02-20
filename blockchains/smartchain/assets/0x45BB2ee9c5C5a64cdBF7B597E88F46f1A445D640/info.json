@@ -1,0 +1,14 @@
+{
+   "id":"0x45BB2ee9c5C5a64cdBF7B597E88F46f1A445D640",
+   "name":"Moon Beast",
+   "symbol":"MOONBEAST",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://moonbeast.org",
+   "description":"The most anticipated meme coin with humanity purposes as a tribute to youtubers inspired by mrbeast",
+   "explorer":"https://bscscan.com/address/0x45bb2ee9c5c5a64cdbf7b597e88f46f1a445d640",
+   "social":{
+      "twitter":"https://twitter.com/moonbeast_01",
+      "telegram":"https://t.me/moonbeastcoin"
+   }
+}
