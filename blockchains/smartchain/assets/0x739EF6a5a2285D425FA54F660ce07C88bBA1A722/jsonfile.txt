@@ -1,0 +1,13 @@
+11 lines (10 sloc)  286 Bytes
+   
+{
+  "id": "0x739EF6a5a2285D425FA54F660ce07C88bBA1A722",
+  "name": "FEGMETAVERSE",
+  "symbol": "FMT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "heaven",
+  "reflections": true,
+  "explorer": "https://bscscan.com/token/0x739EF6a5a2285D425FA54F660ce07C88bBA1A722"
+
+}
