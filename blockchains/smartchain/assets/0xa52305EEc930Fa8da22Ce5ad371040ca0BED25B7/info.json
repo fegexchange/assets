@@ -2,7 +2,7 @@
     "id": "0xa52305EEc930Fa8da22Ce5ad371040ca0BED25B7",
     "name": "Silverback",
     "symbol": "Silverback",
-    "type": "ERC20",
+    "type": "BEP20",
     "decimals": 9,
     "website": "http://silverbackfeg.com",
     "explorer": "https://bscscan.com/token/0xa52305eec930fa8da22ce5ad371040ca0bed25b7", 
