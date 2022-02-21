@@ -1,0 +1,14 @@
+{
+    "id": "0x138419576fa4DCFd214aacad0389765A586E1C3D",
+    "name": "SMART CHEEMS INU",
+    "symbol": "SCI",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://bscscan.com/token/0x138419576fa4DCFd214aacad0389765A586E1C3D", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/Smartcheemsinu"
+   
+    }
+}
