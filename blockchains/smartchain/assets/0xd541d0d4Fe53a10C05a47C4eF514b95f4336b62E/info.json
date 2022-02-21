@@ -1,0 +1,12 @@
+{
+    "id": "0xd541d0d4Fe53a10C05a47C4eF514b95f4336b62E",
+    "name": "FeggyWap",
+    "symbol": "FWAP",
+    "type": "BEP20",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/address/0xd541d0d4Fe53a10C05a47C4eF514b95f4336b62E", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/FEGGYWAP"
+    }
+}
