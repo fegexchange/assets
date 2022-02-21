@@ -1,0 +1,12 @@
+{
+  "id": "0x0Ea548Ae1e196C3B162aDEaA142684D709D456Fd",
+  "name": "Homies",
+  "symbol": "HOM",
+  "type": "BEP20",
+  "decimals": 9,
+  "explorer": "https://bscscan.com/address/0x0Ea548Ae1e196C3B162aDEaA142684D709D456Fd ",
+  "reflections": true,
+  "social": {
+    "twitter": "https://twitter.com/HomiesSd"
+  }
+}
