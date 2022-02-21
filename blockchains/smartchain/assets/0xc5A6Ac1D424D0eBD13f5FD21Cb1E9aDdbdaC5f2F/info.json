@@ -1,0 +1,9 @@
+{
+   "id":"0xc5A6Ac1D424D0eBD13f5FD21Cb1E9aDdbdaC5f2F",
+   "name":"First Person View",
+   "symbol":"FPV",
+   "type":"BEP20",
+   "decimals":9,
+   "explorer":"https://bscscan.com/token/0xc5A6Ac1D424D0eBD13f5FD21Cb1E9aDdbdaC5f2F",
+   "reflections":true
+}
