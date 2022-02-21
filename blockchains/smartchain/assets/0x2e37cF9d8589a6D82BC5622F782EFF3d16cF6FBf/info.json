@@ -4,7 +4,6 @@
     "symbol": "SAIT",
     "type": "BEP20",
     "decimals": 9,
-    "website": "https://fegtoken.com",
     "explorer": "https://bscscan.com/token/0x2e37cF9d8589a6D82BC5622F782EFF3d16cF6FBf", 
     "reflections": true,
     "social" : {
