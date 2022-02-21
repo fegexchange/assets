@@ -1,0 +1,15 @@
+{
+    "id": "Contract Address (0x0f498d31832A66250473CcB166513a73F4F9398e)",
+    "name": "UAF",
+    "symbol": "UAF",
+    "type": "ERC20",
+    "decimals": 9,
+    "website": "https://www.airforce.com/spaceforce",
+    "explorer": "https://bscscan.com/token/0x57a4B2a6E2C3cC268DC24Ec3032c5b019d2046B8", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/UAFofc",
+        "Reddit" : "https://www.reddit.com/r/FegToken_Official",
+        "instagram" : "https://instagram.com/feg_token"
+    }
+}
