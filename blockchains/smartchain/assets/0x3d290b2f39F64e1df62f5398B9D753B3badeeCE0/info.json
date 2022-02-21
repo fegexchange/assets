@@ -1,0 +1,16 @@
+{
+   "id":"0x3d290b2f39F64e1df62f5398B9D753B3badeeCE0",
+   "name":"Wattify",
+   "symbol":"WATT",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://wattify.fr",
+   "explorer":"https://bscscan.com/token/0x3d290b2f39F64e1df62f5398B9D753B3badeeCE0",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/wattify_nft",
+      "telegram":"https://t.me/wattify_nft",
+      "facebook":"https://www.facebook.com/wattify.nft/",
+      "instagram":"https://www.instagram.com/wattify_nft"
+   }
+}
