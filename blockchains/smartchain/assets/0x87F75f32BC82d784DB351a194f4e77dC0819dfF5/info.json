@@ -1,0 +1,15 @@
+{
+    "id": "0x87F75f32BC82d784DB351a194f4e77dC0819dfF5",
+    "name": "SmartMoneyLoans",
+    "symbol": "SML",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://bscscan.com/address/0x87f75f32bc82d784db351a194f4e77dc0819dff5", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/LoansDev",
+        "youtube" : "https://www.youtube.com/channel/UCx6UnPJbkokHXKULjsl5BHQ"
+
+    }
+}
