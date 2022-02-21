@@ -1,0 +1,13 @@
+{
+    "id": "0x57a4B2a6E2C3cC268DC24Ec3032c5b019d2046B8",
+    "name": "UP",
+    "symbol": "UP",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://UPmeme.com",
+    "explorer": "https://bscscan.com/token/0x57a4B2a6E2C3cC268DC24Ec3032c5b019d2046B8", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/UPmeme"
+    }
+}
