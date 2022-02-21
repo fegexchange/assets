@@ -1,0 +1,15 @@
+{
+    "id": "0xf451CeD7a5C052532a2Cf635E80CCA65C357628F",
+    "name": "Moon SD",
+    "symbol": "MSD",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://bscscan.io/token/0xf451CeD7a5C052532a2Cf635E80CCA65C357628F", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/fegtoken",
+        "Reddit" : "https://www.reddit.com/r/FegToken_Official",
+        "instagram" : "https://instagram.com/feg_token"
+    }
+}
