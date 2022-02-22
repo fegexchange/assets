@@ -1,0 +1,13 @@
+{
+    "id": "0xecEeAE467054f4d90B6Bcf725f9DBd7698875ecd",
+    "name": "SSS",
+    "symbol": "SSS",
+    "type": "BEP20",
+    "decimals": 9,
+	"website": "https://opensea.io/collection/shogunsengokusamurai",
+    "explorer": "https://bscscan.com/address/0xecEeAE467054f4d90B6Bcf725f9DBd7698875ecd", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/ShogunSengoku"
+    }
+}
