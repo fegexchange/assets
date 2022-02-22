@@ -1,0 +1,15 @@
+{
+  "id": "0x7fa052fb6705D21182704a33f7f10E48F5623A24",
+  "name": "PUMPS ALOT",
+  "symbol": "ALOT",
+  "type": "BEP20",
+  "decimals": 9,
+  "website": "https://pumpsalot.com/",
+  "explorer": "https://bscscan.com/token/0x7fa052fb6705D21182704a33f7f10E48F5623A24", 
+  "reflections": true,
+  "social" : {
+      "twitter" : "https://twitter.com/PUMPNOMIC",
+      "telegram" : "https://t.me/PumpsalotChat",
+      "instagram": "https://www.instagram.com/pumpsalot"
+  }
+}

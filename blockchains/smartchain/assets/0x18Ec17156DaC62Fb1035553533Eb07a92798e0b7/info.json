@@ -1,0 +1,13 @@
+{
+    "id": "0x18Ec17156DaC62Fb1035553533Eb07a92798e0b7",
+    "name": "BabyKitten",
+    "symbol": "BKIF",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "https://babykittencoin.online",
+    "explorer": "https://bscscan.com/token/0x18ec17156dac62fb1035553533eb07a92798e0b7", 
+    "reflections": false,
+    "social" : {
+        "twitter" : "https://twitter.com/Babykittencoin"
+    }
+}

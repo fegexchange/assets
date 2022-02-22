@@ -1,0 +1,15 @@
+{
+   "id":"0x1af0120E1eafFbF520eebD942b9Cb5c54023E941",
+   "name":"Passive Supply",
+   "symbol":"PSV",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://www.passive.supply",
+   "explorer":"https://bscscan.com/address/0x1af0120E1eafFbF520eebD942b9Cb5c54023E941",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/passivesupply",
+      "Reddit":"https://www.reddit.com/r/PassiveSupply",
+      "instagram":"https://instagram.com/feg_token"
+   }
+}

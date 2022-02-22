@@ -1,0 +1,11 @@
+{
+  "id": "0x151fce27E8059f2d06AEF5886B1c1E1301B1e116",
+  "name": "Pizza",
+  "symbol": "PIZZA",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "Pizza SmartDeFi",
+  "reflections": true,
+  "explorer": "https://bscscan.com/token/0x151fce27E8059f2d06AEF5886B1c1E1301B1e116"
+
+}

@@ -1,0 +1,12 @@
+{
+   "id":"0x4E53E9d4B1D4CADf7353755EdBE565444f990194",
+   "name":"SQUID GAME SD",
+   "symbol":"SQG",
+   "type":"BEP20",
+   "decimals":9,
+   "explorer":"https://bscscan.com/token/0x4e53e9d4b1d4cadf7353755edbe565444f990194",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/squidgame_sdefi"
+   }
+}

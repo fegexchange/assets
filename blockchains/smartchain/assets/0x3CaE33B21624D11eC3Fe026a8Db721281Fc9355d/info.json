@@ -1,0 +1,14 @@
+{
+    "id": "0x3CaE33B21624D11eC3Fe026a8Db721281Fc9355d",
+    "name": "Divinium",
+    "symbol": "DVNM",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://divinium.space/",
+    "explorer": "https://bscscan.com/token/0x3CaE33B21624D11eC3Fe026a8Db721281Fc9355d", 
+    "reflections": true,
+    "social" : {
+	"telegram": "https://t.me/Divinium_Official",
+        "twitter" : "https://twitter.com/DiviniumCrypto"
+    }
+}

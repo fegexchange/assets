@@ -1,0 +1,12 @@
+{
+    "id": "0xA8f130AbE106cf9d7B20F1BB034247B1aA6Bd499",
+    "name": "MetaHumans Digital Asset investment Group",
+    "symbol": "METAHUMANS",
+    "type": "BEP20",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/token/0xA8f130AbE106cf9d7B20F1BB034247B1aA6Bd499", 
+    "reflections": true,
+    "social" : {
+        "twitter" :"https://twitter.com/"
+    }
+}

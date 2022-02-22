@@ -1,0 +1,14 @@
+{
+    "id": "0xcE09b81b3BD341721Fa1e092C643853AE713D29a",
+    "name": "SDBTC",
+    "symbol": "SDBTC",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://smartdefibtc.com",
+    "explorer": "https://bscscan.com/token/0xcE09b81b3BD341721Fa1e092C643853AE713D29a", 
+    "reflections": false,
+    "social" : {
+        "news" : "https://t.me/SDBTCnews",
+        "telegram" : "https://t.me/SDBTCtoken"
+    }
+}

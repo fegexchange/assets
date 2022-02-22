@@ -1,0 +1,17 @@
+{
+  "id": "0x36E43065e977bC72CB86Dbd8405fae7057CDC7fD",
+  "name": "ArchAngel Token",
+  "symbol": "ARCHA",
+  "type": "ERC20",
+  "decimals": 9,
+  "description": "The driving force behind global crypto adoption",
+  "website": "https://archangeltoken.com",
+  "explorer": "https://etherscan.io/token/0x36e43065e977bc72cb86dbd8405fae7057cdc7fd",
+  "reflections": true,
+  "social" : {
+	"telegram": "https://t.me/ArchangelToken",
+        "twitter" : "https://twitter.com/archangel_token",
+	"discord" : "https://discord.com/invite/rT5Drxx4UE",
+	"reddit"  : "https://www.reddit.com/r/ArchAngelToken"
+	      }
+}

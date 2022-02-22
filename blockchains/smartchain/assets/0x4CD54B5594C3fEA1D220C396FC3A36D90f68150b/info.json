@@ -1,0 +1,16 @@
+{
+  "id": "0x4CD54B5594C3fEA1D220C396FC3A36D90f68150b",
+  "name": "SOROS",
+  "symbol": "SOROS",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "SOROS universal SmartDeFi access token",
+  "website": "https://soros.io",
+  "explorer": "https://bscscan.com/token/0x4CD54B5594C3fEA1D220C396FC3A36D90f68150b",
+  "reflections": true,
+  "social": {
+    "telegram": "https://t.me/futuremillionairesdeco",
+    "twitter": "https://twitter.com/soroscrypto",
+    "discord": "https://discord.gg/dxSZAeApv9"
+  }
+}

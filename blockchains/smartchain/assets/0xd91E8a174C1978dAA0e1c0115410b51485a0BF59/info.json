@@ -1,0 +1,10 @@
+{
+  "id": "0xd91E8a174C1978dAA0e1c0115410b51485a0BF59",
+  "name": "MARIO",
+  "symbol": "$MRO",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "It's a-me, Mario!",
+  "website": "https://fegtoken.com",
+  "explorer": "https://bscscan.com/token/0xd91E8a174C1978dAA0e1c0115410b51485a0BF59"
+}

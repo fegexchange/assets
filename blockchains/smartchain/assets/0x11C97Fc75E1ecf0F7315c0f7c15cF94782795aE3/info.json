@@ -1,0 +1,16 @@
+{
+   "id":"0x11C97Fc75E1ecf0F7315c0f7c15cF94782795aE3",
+   "name":"MLOKY",
+   "symbol":"MLOKY",
+   "type":"BEP20",
+   "decimals":9,
+   "description":"MLOKY is a deflationary token with a revolutionary reward sytem and auto liquidity generating protocol on Binance Smart Chain.",
+   "website":"https://lunachow.com",
+   "explorer":"https://bscscan.com/address/0x11c97fc75e1ecf0f7315c0f7c15cf94782795ae3",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/LunaChoww",
+      "telegram":"https://t.me/LuChow",
+      "reddit":"https://www.reddit.com/r/LunaChow/"
+   }
+}

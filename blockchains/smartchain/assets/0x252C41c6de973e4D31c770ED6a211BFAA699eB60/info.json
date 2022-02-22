@@ -1,0 +1,14 @@
+{
+    "id": "0x252C41c6de973e4D31c770ED6a211BFAA699eB60",
+    "name": "SMARTDeFi",
+    "symbol": "SINU",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "http://smartinutoken.com",
+    "explorer": "https://bscscan.com/token/0x252C41c6de973e4D31c770ED6a211BFAA699eB60", 
+    "reflections": true,
+    "social": {
+        "telegram": "https://t.me/SmartInuChat",
+        "twitter" : "https://twitter.com/smart_inu"
+    }
+}

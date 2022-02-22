@@ -1,0 +1,12 @@
+{
+    "id": "0x9cE42d9B27233325824639213Cb8d0bbF155dc33",
+    "name": "SmartDeFi Metaverse Investment",
+    "symbol": "SMADP",
+    "type": "BEP20",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/token/0x9ce42d9b27233325824639213cb8d0bbf155dc33", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/"
+    }
+}

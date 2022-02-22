@@ -5,91 +5,78 @@ import unittest
 
 import cv2
 
+from bsc_schema import BscSchema
+
+
+def get_content_from(fp, as_json=False):
+    with fp as _point:
+        return json.load(_point) if as_json else _point.read()
+
+
+def check_path(directory, key):
+    return os.path.exists(os.path.join(directory, key))
+
 
 def jsoncontain(directory):
-    try:
-        path = os.path.join(directory, "info.json")
-        return os.path.exists(path)
-    except FileExistsError:
-        return False
+    return check_path(directory, "info.json")
 
 
 def logopng(directory):
-    try:
-        path = os.path.join(directory, "logo.png")
-        return os.path.exists(path)
-    except FileExistsError:
-        return False
+    return check_path(directory, "logo.png")
 
 
-def validateJSON(file):
-    try:
-        json.loads(file.read())
-    except ValueError:
-        return False
-    return True
+def validate_json(_file):
+    return get_content_from(_file, as_json=True)
 
 
-def validateFieldsPresentJson(file):
-    content = json.loads(file.read())
-    invalidFields = ""
-    valid = True
-    if not ("id" in content):
-        invalidFields += "id "
-        valid = False
-    if not ("name" in content):
-        invalidFields += "name "
-        valid = False
-    if not ("symbol" in content):
-        invalidFields += "symbol "
-        valid = False
-    if not ("type" in content):
-        invalidFields += "type "
-        valid = False
-    if not ("decimals" in content):
-        invalidFields += "decimals "
-        valid = False
-    file.close()
-    return valid, invalidFields
+def validate_json_schema(filename):
+    data = get_content_from(filename, as_json=True)
+    schema = BscSchema()
+    return schema.load(data), ...
 
 
-def validatePicturesize(path):
+def validate_picture_size(path):
     img = cv2.imread(path, cv2.IMREAD_UNCHANGED)
     height = img.shape[0]
     width = img.shape[1]
-    if width != 256 or height != 256:
-        return False
-    return True
+    return width == 256 or height == 256
 
 
-def checkCapitalisationOfDir(dirname):
+def check_capitalisation_of_dir(dirname):
     return re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", dirname)
 
 
-def checkType(file, type):
-    content = json.loads(file.read())
-    verify = type == content["type"]
-    file.close()
-    return verify
+def check_key(data, key, val):
+    return data.get(key) == val
 
 
-def checkCapitalisationOfId(file, dirname):
-    content = json.loads(file.read())
-    verify = dirname == content["id"]
-    file.close()
-    return verify
+def check_type(_file, _type):
+    content = json.loads(get_content_from(_file))
+    return _type == content["type"]
+
+
+def check_capitalisation_of_id(_file, dirname):
+    content = get_content_from(_file, as_json=True)
+    return dirname == content["id"]
 
 
 class FilecheckTest(unittest.TestCase):
     def test_check_blockchains(self):
         dirs = os.listdir("./blockchains")
         self.assertTrue(len(dirs) == 2, "Not a valid blockchain")
+
     # check if blockchains name has assets in there
     def test_check_asset(self):
         dirs = os.listdir("./blockchains/smartchain")
-        self.assertTrue(len(dirs) == 1, "asset should be the only repository allowed in smartchain folder")
+        self.assertTrue(
+            len(dirs) == 1,
+            "asset should be the only repository allowed in smartchain folder",
+        )
         dirs = os.listdir("./blockchains/ethereum")
-        self.assertTrue(len(dirs) == 1, "asset should be the only repository allowed in ethereum folder")
+        self.assertTrue(
+            len(dirs) == 1,
+            "asset should be the only repository allowed in ethereum folder",
+        )
 
     def test_checkfiles(self):
         for root, dirs, files in os.walk(".", topdown=False):
@@ -98,18 +85,22 @@ class FilecheckTest(unittest.TestCase):
                 if os.path.join(root, name) is None:
                     continue
                 self.assertFalse(
-                    re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name) and not re.search("assets(/|\\|)$",
-                                                                                                     root),
-                    os.path.join(root, name) + " is not in the right place")
+                    re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name)
+                    and not re.search("assets(/|\\|)$", root),
+                    os.path.join(root, name) + " is not in the right place",
+                )
 
             for name in dirs:
-                if root is ".":
+                if root == ".":
                     self.assertFalse(
-                        re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name), "Folder should not be in here")
+                        re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name),
+                        "Folder should not be in here",
+                    )
                 self.assertFalse(
-                    re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name) and re.search("assets(/|\\|)$",
-                                                                                                 root),
-                    os.path.join(root, name) + " is not in the right place")
+                    re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name)
+                    and re.search("assets(/|\\|)$", root),
+                    os.path.join(root, name) + " is not in the right place",
+                )
 
 
 class BSCChainTest(unittest.TestCase):
@@ -120,37 +111,68 @@ class BSCChainTest(unittest.TestCase):
             if re.search(r"(\.)|(native)", directory):
                 continue
             with self.subTest(directory=directory):
-                self.assertTrue(jsoncontain(os.path.join(self.dirBSCPath, directory)),
-                                "{}: Needs a \"info.json\" file. Please check the name".format(directory))
-
-                self.assertTrue(logopng(os.path.join(self.dirBSCPath, directory)),
-                                "{}: Needs a \"logo.png\" file. Please check the name".format(directory))
-
-                self.assertTrue(validateJSON(open(os.path.join(self.dirBSCPath, directory, "info.json"))),
-                                "{}: has not a valid json format!".format(directory))
-                validbool, failedFields = validateFieldsPresentJson(
-                    open(os.path.join(self.dirBSCPath, directory, "info.json")))
-                self.assertTrue(validbool,
-                                "{}: Field {} was  not set".format(directory, failedFields))
-                self.assertTrue(validatePicturesize(os.path.join(self.dirBSCPath, directory, "logo.png")),
-                                "{} : Make sure that your logo.png is 256x256px".format(directory))
-                self.assertTrue(checkCapitalisationOfDir(directory),
-                                "{} : check for capitalisation of directory name".format(directory))
                 self.assertTrue(
-                    checkCapitalisationOfId(open(os.path.join(self.dirBSCPath, directory, "info.json")), directory),
-                    "{} : ID field in json need to match the directory (check capitalisation)".format(directory))
-                self.assertTrue(
-                    checkType(open(os.path.join(self.dirBSCPath, directory, "info.json")), "BEP20"),
-                    "{} : Symbol needs to be BEP20".format(directory))
-                print("{} : passed all the tests".format(directory))
+                    jsoncontain(os.path.join(self.dirBSCPath, directory)),
+                    '{}: Needs a "info.json" file. Please check the name'.format(
+                        directory
+                    ),
+                )
 
-    def test_Only_two_files_in_folder(self):
+                self.assertTrue(
+                    logopng(os.path.join(self.dirBSCPath, directory)),
+                    '{}: Needs a "logo.png" file. Please check the name'.format(
+                        directory
+                    ),
+                )
+
+                self.assertTrue(
+                    validate_json(
+                        open(os.path.join(self.dirBSCPath, directory, "info.json"))
+                    ),
+                    "{}: has not a valid json format!".format(directory),
+                )
+                validbool, failedFields = validate_json_schema(
+                    open(os.path.join(self.dirBSCPath, directory, "info.json"))
+                )
+                self.assertTrue(
+                    validbool,
+                    "{}: Field {} was  not set".format(directory, failedFields),
+                )
+                self.assertTrue(
+                    validate_picture_size(
+                        os.path.join(self.dirBSCPath, directory, "logo.png")
+                    ),
+                    "{} : Make sure that your logo.png is 256x256px".format(directory),
+                )
+                self.assertTrue(
+                    check_capitalisation_of_dir(directory),
+                    "{} : check for capitalisation of directory name".format(directory),
+                )
+                self.assertTrue(
+                    check_capitalisation_of_id(
+                        open(os.path.join(self.dirBSCPath, directory, "info.json")),
+                        directory,
+                    ),
+                    "{} : ID field in json need to match the directory (check capitalisation)".format(
+                        directory
+                    ),
+                )
+                self.assertTrue(
+                    check_type(
+                        open(os.path.join(self.dirBSCPath, directory, "info.json")),
+                        "BEP20",
+                    ),
+                    "{} : Symbol needs to be BEP20".format(directory),
+                )
+
+    def test_only_two_files_in_folder(self):
 
         for root, dirs, files in os.walk(self.dirBSCPath, topdown=False):
             if root == self.dirBSCPath:
                 continue
             self.assertTrue(len(dirs) == 0, "No dirs are allowed in " + root)
             self.assertTrue(len(files) == 2, "At most 2 files are allowed in " + root)
+
 
 class ETHChainTest(unittest.TestCase):
     dirETHPath = "blockchains/ethereum/assets"
@@ -160,35 +182,67 @@ class ETHChainTest(unittest.TestCase):
             if re.search(r"(\.)|(native)", directory):
                 continue
             with self.subTest(directory=directory):
-                self.assertTrue(jsoncontain(os.path.join(self.dirETHPath, directory)),
-                                "{}: Needs a \"info.json\" file. Please check the name".format(directory))
-
-                self.assertTrue(logopng(os.path.join(self.dirETHPath, directory)),
-                                "{}: Needs a \"logo.png\" file. Please check the name".format(directory))
-
-                self.assertTrue(validateJSON(open(os.path.join(self.dirETHPath, directory, "info.json"))),
-                                "{}: has not a valid json format!".format(directory))
-                validbool, failedFields = validateFieldsPresentJson(
-                    open(os.path.join(self.dirETHPath, directory, "info.json")))
-                self.assertTrue(validbool,
-                                "{}: Field {} was  not set".format(directory, failedFields))
-                self.assertTrue(validatePicturesize(os.path.join(self.dirETHPath, directory, "logo.png")),
-                                "{} : Make sure that your logo.png is 256x256px".format(directory))
-                self.assertTrue(checkCapitalisationOfDir(directory),
-                                "{} : check for capitalisation of directory name".format(directory))
                 self.assertTrue(
-                    checkCapitalisationOfId(open(os.path.join(self.dirETHPath, directory, "info.json")), directory),
-                    "{} : ID field in json need to match the directory (check capitalisation)".format(directory))
+                    jsoncontain(os.path.join(self.dirETHPath, directory)),
+                    '{}: Needs a "info.json" file. Please check the name'.format(
+                        directory
+                    ),
+                )
+
                 self.assertTrue(
-                    checkType(open(os.path.join(self.dirETHPath, directory, "info.json")), "ERC20"),
-                    "{} : Symbol needs to be BEP20".format(directory))
-                print("{} : passed all the tests".format(directory))
-    def test_Only_two_files_in_folder(self):
+                    logopng(os.path.join(self.dirETHPath, directory)),
+                    '{}: Needs a "logo.png" file. Please check the name'.format(
+                        directory
+                    ),
+                )
+
+                self.assertTrue(
+                    validate_json(
+                        open(os.path.join(self.dirETHPath, directory, "info.json"))
+                    ),
+                    "{}: has not a valid json format!".format(directory),
+                )
+                validbool, failedFields = validate_json_schema(
+                    open(os.path.join(self.dirETHPath, directory, "info.json"))
+                )
+                self.assertTrue(
+                    validbool,
+                    "{}: Field {} was  not set".format(directory, failedFields),
+                )
+                self.assertTrue(
+                    validate_picture_size(
+                        os.path.join(self.dirETHPath, directory, "logo.png")
+                    ),
+                    "{} : Make sure that your logo.png is 256x256px".format(directory),
+                )
+                self.assertTrue(
+                    check_capitalisation_of_dir(directory),
+                    "{} : check for capitalisation of directory name".format(directory),
+                )
+                self.assertTrue(
+                    check_capitalisation_of_id(
+                        open(os.path.join(self.dirETHPath, directory, "info.json")),
+                        directory,
+                    ),
+                    "{} : ID field in json need to match the directory (check capitalisation)".format(
+                        directory
+                    ),
+                )
+                self.assertTrue(
+                    check_type(
+                        open(os.path.join(self.dirETHPath, directory, "info.json")),
+                        "ERC20",
+                    ),
+                    "{} : Symbol needs to be BEP20".format(directory),
+                )
+
+    def test_only_two_files_in_folder(self):
         for root, dirs, files in os.walk(self.dirETHPath, topdown=False):
             if root == self.dirETHPath:
                 continue
             self.assertTrue(len(dirs) == 0, "No dirs are allowed in " + root)
             self.assertTrue(len(files) == 2, "At most 2 files are allowed in " + root)
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     unittest.main()

@@ -1,0 +1,14 @@
+{
+    "id": "0xD6C8dd77411dc9B5FA8327063Cb2e671E243f419",
+    "name": "mesk.io",
+    "symbol": "$MESK",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://mesk.io",
+    "explorer": "https://bscscan.com/address/0xD6C8dd77411dc9B5FA8327063Cb2e671E243f419", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/meskdotio",
+        "instagram" : "https://instagram.com/mesk.io"
+    }
+}

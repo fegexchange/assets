@@ -1,0 +1,13 @@
+{
+    "id": "0xC22aEd04001E64ADb69BE80A670a597E2B4bfa5A",
+    "name": "Smart Defi Sunshield",
+    "symbol": "SDSS",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://www.sunshield.finance/smart-defi-sunshield",
+    "explorer": "https://bscscan.com/address/0xC22aEd04001E64ADb69BE80A670a597E2B4bfa5A", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/SUNSHIELD_DEFI"
+    }
+}
