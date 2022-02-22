@@ -1,0 +1,14 @@
+{
+    "id": "0x8509F9BE6aec40b87a7D0de2426b040e8BA66706",
+    "name": "LatinSD",
+    "symbol": "LATIN",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://latinsd.com",
+    "explorer": "https://bscscan.com/token/0x8509F9BE6aec40b87a7D0de2426b040e8BA66706", 
+    "reflections": false,
+    "social" : {
+        "twitter" : "https://twitter.com/LatinSmartDeFi",
+        "telegram" : "https://t.me/LatinSD_Noticias"
+    }
+}
