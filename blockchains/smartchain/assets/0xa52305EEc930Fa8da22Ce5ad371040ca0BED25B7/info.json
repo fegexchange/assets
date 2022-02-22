@@ -1,0 +1,14 @@
+{
+    "id": "0xa52305EEc930Fa8da22Ce5ad371040ca0BED25B7",
+    "name": "Silverback",
+    "symbol": "Silverback",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://silverbackfeg.com/",
+    "explorer": "https://bscscan.com/token/0xa52305eec930fa8da22ce5ad371040ca0bed25b7", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/SilverbackFeg",
+        "Telegram" : "https://t.me/SilverbackFEG"
+        }
+}
