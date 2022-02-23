@@ -1,0 +1,16 @@
+{
+    "id": "0x1A6199b58D3D762e18F92ac6F7008DbDbaf16feC",
+    "name": "69",
+    "symbol": "69",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "",
+    "explorer": "https://bscscan.com/token/0x1A6199b58D3D762e18F92ac6F7008DbDbaf16feC", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "",
+        "Reddit" : "",
+        "instagram" : "",
+        "Telegram" : "https://t.me/SixtyNineSD"
+    }
+}
