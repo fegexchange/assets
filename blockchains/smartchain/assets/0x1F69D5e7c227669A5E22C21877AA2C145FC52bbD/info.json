@@ -5,5 +5,8 @@
     "type": "BEP20",
     "decimals": 9,
     "explorer": "https://bscscan.com/token/0x1F69D5e7c227669A5E22C21877AA2C145FC52bbD", 
-    "reflections": true
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/FIFSMART"
+    }
 }
