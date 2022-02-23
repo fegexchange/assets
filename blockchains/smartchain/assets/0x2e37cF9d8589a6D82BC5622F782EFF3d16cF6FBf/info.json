@@ -1,0 +1,13 @@
+{
+    "id": "0x2e37cF9d8589a6D82BC5622F782EFF3d16cF6FBf",
+    "name": "SMART SAITAMA INU",
+    "symbol": "SAIT",
+    "type": "BEP20",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/token/0x2e37cF9d8589a6D82BC5622F782EFF3d16cF6FBf", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/SmartSaitamaInu"
+   
+    }
+}

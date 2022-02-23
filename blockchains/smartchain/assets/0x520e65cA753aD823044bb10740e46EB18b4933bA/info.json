@@ -1,0 +1,13 @@
+{
+    "id": "0x520e65cA753aD823044bb10740e46EB18b4933bA",
+    "name": "GHOST",
+    "symbol": "GHOST",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://GHOSTSMARTDEFI.IO",
+    "explorer": "https://bscscan.com/address/0x520e65cA753aD823044bb10740e46EB18b4933bA", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/GHOSTSMARTDEFI"
+    }
+}

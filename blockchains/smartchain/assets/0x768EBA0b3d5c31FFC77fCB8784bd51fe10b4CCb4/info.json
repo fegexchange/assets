@@ -1,0 +1,13 @@
+{
+   "id":"0x768EBA0b3d5c31FFC77fCB8784bd51fe10b4CCb4",
+   "name":"World Record Egg Token",
+   "symbol":"01EGG",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://world-record-egg-token.simdif.com",
+   "explorer":"https://bscscan.com/token/0x768EBA0b3d5c31FFC77fCB8784bd51fe10b4CCb4",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/WorldRecord1Egg"
+   }
+}
