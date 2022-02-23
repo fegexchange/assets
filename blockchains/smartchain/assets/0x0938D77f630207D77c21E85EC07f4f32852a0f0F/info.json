@@ -1,0 +1,13 @@
+{
+    "id": "0x0938D77f630207D77c21E85EC07f4f32852a0f0F",
+    "name": "SMARTYPAY",
+    "symbol": "SPY",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://SPYINDONESIA.com",
+    "explorer": "https://bscscan.com/token/0x0938D77f630207D77c21E85EC07f4f32852a0f0F", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/SpyIndonesia"
+    }
+}
