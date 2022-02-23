@@ -1,0 +1,9 @@
+{
+  "id": "0x3f90b1556e23b5e922828Afc6E3D967Ae1bBFf58",
+  "name": "OnlyFeg",
+  "symbol": "0NLYFEG",
+  "type": "BEP20",
+  "reflections": true,
+  "decimals": 9,
+  "explorer": "https://bscscan.com/token/0x3f90b1556e23b5e922828Afc6E3D967Ae1bBFf58"
+}
