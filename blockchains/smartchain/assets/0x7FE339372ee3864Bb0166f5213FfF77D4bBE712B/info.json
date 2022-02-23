@@ -1,0 +1,14 @@
+{
+    "id": "0x7FE339372ee3864Bb0166f5213FfF77D4bBE712B",
+    "name": "FLYING NIMBUS",
+    "symbol": "NIMBUS",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://bscscan.com/token/0x7FE339372ee3864Bb0166f5213FfF77D4bBE712B", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/FlyingNimbus2800"
+   
+    }
+}
