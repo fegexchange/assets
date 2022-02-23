@@ -1,0 +1,14 @@
+{
+    "id": "0x805b1135cd6EbfcF8B1EbD9F1Af35d7e96bAeC5b",
+    "name": "GREEN APE",
+    "symbol": "GAPE",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://greenape.tech",
+    "explorer": "https://bscscan.com/address/0x805b1135cd6EbfcF8B1EbD9F1Af35d7e96bAeC5b", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/greenape_sd",
+        "telegram" : "https://t.me/greenapesd"
+    }
+}
