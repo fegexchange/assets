@@ -1,0 +1,13 @@
+{
+   "id":"0x7341b9563418C5878704C380166261E1D9214f7E",
+   "name":"666 Token",
+   "symbol":"666",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://t.me/bsc_token_666",
+   "explorer":"https://bscscan.com/token/0x7341b9563418C5878704C380166261E1D9214f7E",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/bsc_token_666"
+   }
+}
