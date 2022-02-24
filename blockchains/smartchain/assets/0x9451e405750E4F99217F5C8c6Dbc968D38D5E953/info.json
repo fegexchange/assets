@@ -4,7 +4,7 @@
    "symbol":"SOLID",
    "type":"BEP20",
    "decimals":9,
-   "description": "Solid Finance, Smart DeFi done smart!",
+   "description":"Solid Finance, Smart DeFi done smart!",
    "website":"https://solidsmartdefi.io/",
    "explorer":"https://bscscan.com/token/0x9451e405750E4F99217F5C8c6Dbc968D38D5E953",
    "reflections":true,
@@ -12,3 +12,4 @@
       "twitter":"https://twitter.com/SolidSmartDeFi",
       "Telegram":"https://t.me/SolidFinance"
    }
+}
