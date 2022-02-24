@@ -1,0 +1,14 @@
+{
+    "id": "0x2Ec588A55F96744c2cd5A4850D150e82926d3416",
+    "name": "MAGIC",
+    "symbol": "MAG",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://smartdefi.com",
+    "explorer": "https://bscscan.com/address/0x2Ec588A55F96744c2cd5A4850D150e82926d3416", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/MAGICOINSD"
+
+    }
+}
