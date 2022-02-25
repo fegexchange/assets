@@ -1,0 +1,15 @@
+{
+   "id":"0xba85856114e43dd3b893ef34de287dff1295ea58",
+   "name":"KARA",
+   "symbol":"KARA",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://smartdefi.com",
+   "explorer":"https://bscscan.com/address/0xba85856114e43dd3b893ef34de287dff1295ea58",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/KrikorKaraoghl1",
+      "Reddit":"https://www.reddit.com/r/karaoghlaniank",
+      "instagram":"https://instagram.com/karaoghlaniankrikor"
+   }
+}
