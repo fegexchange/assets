@@ -1,0 +1,10 @@
+{
+  "id": "0xCaF167985b5878f8de1f8e81A6e18176A0c004E8",
+  "name": "Tweak",
+  "symbol": "$TWK",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Tweak!",
+  "website": "https://fegtoken.com",
+  "explorer": "https://bscscan.com/token/0xCaF167985b5878f8de1f8e81A6e18176A0c004E8"
+}
