@@ -5,6 +5,5 @@
   "type": "BEP20",
   "decimals": 18,
   "description": "Move Forward",
-  "website": "https://fegtoken.com",
   "explorer": "https://bscscan.com/token/0x0B0EfB676D780fE6D9d5813F033A57bC63127da6"
 }
