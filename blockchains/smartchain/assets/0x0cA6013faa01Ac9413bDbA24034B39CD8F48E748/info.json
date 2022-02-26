@@ -5,6 +5,5 @@
   "type": "BEP20",
   "decimals": 18,
   "description": "Kenny!",
-  "website": "https://fegtoken.com",
   "explorer": "https://bscscan.com/token/0x0cA6013faa01Ac9413bDbA24034B39CD8F48E748"
 }
