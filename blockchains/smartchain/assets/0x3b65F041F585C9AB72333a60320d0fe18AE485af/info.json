@@ -5,6 +5,5 @@
   "type": "BEP20",
   "decimals": 18,
   "description": "Wendy!",
-  "website": "https://fegtoken.com",
   "explorer": "https://bscscan.com/token/0x3b65F041F585C9AB72333a60320d0fe18AE485af"
 }
