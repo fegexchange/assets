@@ -1,0 +1,13 @@
+{
+   "id":"Contract Address (0x3481Ae06214239A896c618Bb1C80E0E94Ab9D306)",
+   "name":"The Kraken",
+   "symbol":"$THEKRAKEN",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"http://thekrakencoin.online",
+   "explorer":"https://bscscan.com/address/0x3481ae06214239a896c618bb1c80e0e94ab9d306",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/krakencoin""telegram":"https://t.me/djsthekrakencoin"
+   }
+}
