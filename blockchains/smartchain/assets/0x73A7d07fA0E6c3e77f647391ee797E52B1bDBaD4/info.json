@@ -1,0 +1,10 @@
+{
+  "id": "0x73A7d07fA0E6c3e77f647391ee797E52B1bDBaD4",
+  "name": "Kyle",
+  "symbol": "$KYL",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Kyle!",
+  "website": "https://fegtoken.com",
+  "explorer": "https://bscscan.com/token/0x73A7d07fA0E6c3e77f647391ee797E52B1bDBaD4"
+}
