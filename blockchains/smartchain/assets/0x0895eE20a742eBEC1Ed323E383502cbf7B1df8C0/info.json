@@ -5,6 +5,5 @@
   "type": "BEP20",
   "decimals": 18,
   "description": "Timmy!",
-  "website": "https://fegtoken.com",
   "explorer": "https://bscscan.com/token/0x0895eE20a742eBEC1Ed323E383502cbf7B1df8C0"
 }
