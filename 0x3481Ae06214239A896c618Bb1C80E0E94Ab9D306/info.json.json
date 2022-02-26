@@ -1,13 +1,15 @@
-{
-   "id":"Contract Address (0x3481Ae06214239A896c618Bb1C80E0E94Ab9D306)",
-   "name":"The Kraken",
-   "symbol":"$THEKRAKEN",
-   "type":"BEP20",
-   "decimals":9,
-   "website":"http://thekrakencoin.online",
-   "explorer":"https://bscscan.com/address/0x3481ae06214239a896c618bb1c80e0e94ab9d306",
-   "reflections":true,
-   "social":{
-      "twitter":"https://twitter.com/krakencoin"
-   }
-}
+1
+2{
+   3"id":"Contract Address (0x3481Ae06214239A896c618Bb1C80E0E94Ab9D306)",
+   4"name":"The Kraken",
+   5"symbol":"$THEKRAKEN",
+   6"type":"BEP20",
+   7"decimals":9,
+   8"website":"http://thekrakencoin.online",
+   9"explorer":"https://bscscan.com/address/0x3481ae06214239a896c618bb1c80e0e94ab9d3
+10   ""reflections"":true,
+11   ""social"":{
+12      ""twitter"":""https":",
+13      ""telegram"":""https":"\"
+14   }
+15 }"
