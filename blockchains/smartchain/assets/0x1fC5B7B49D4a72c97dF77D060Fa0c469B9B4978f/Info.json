@@ -1,0 +1,14 @@
+{
+   "id":"0x1fC5B7B49D4a72c97dF77D060Fa0c469B9B4978f",
+   "name":"FLOATING-MASTER",
+   "symbol":"FLOAT",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://floatingmaster1.github.io/float.io/",
+   "explorer":"https://bscscan.com/address/0x1fC5B7B49D4a72c97dF77D060Fa0c469B9B4978f",
+   "reflections":false,
+   "social":{
+      "twitter":"https://twitter.com/FloatingMaster1",
+      "telegram":"https://t.me/+oLowbw1gAQY0MTc1"
+   }
+}
