@@ -1,0 +1,15 @@
+{
+   "id":"0x60D6A868e956b452e119533ebaEB0D0e16ABC253",
+   "name":"ANNA",
+   "symbol":"ANNABSC",
+   "type":"BEP20",
+   "decimals":9,
+   "description":"ANNA, the smart way to invest in gouvernance tokens and take profits from the feg ecosystem",
+   "website":"https://www.annatakescare.com",
+   "explorer":"https://bscscan.com/address/0x60d6a868e956b452e119533ebaeb0d0e16abc253",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/Anna__project",
+      "telegram":"https://t.me/Anna_group",
+   }
+}
