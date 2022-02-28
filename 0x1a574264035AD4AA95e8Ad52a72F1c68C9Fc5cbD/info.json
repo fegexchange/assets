@@ -1,0 +1,13 @@
+{
+   "id":"0x1a574264035AD4AA95e8Ad52a72F1c68C9Fc5cbD",
+   "name":"Molekul SmartDeFi",
+   "symbol":"MOL",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://charts.fegex.com/charts/0x1a574264035AD4AA95e8Ad52a72F1c68C9Fc5cbD",
+   "explorer":"https://bscscan.com/address/0x1a574264035AD4AA95e8Ad52a72F1c68C9Fc5cbD",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/smartupdefi6"
+   }
+}
