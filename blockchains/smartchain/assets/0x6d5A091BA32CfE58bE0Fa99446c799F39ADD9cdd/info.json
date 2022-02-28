@@ -4,7 +4,6 @@
    "symbol":"CFA",
    "type":"BEP20",
    "decimals":9,
-   "website":"https://smartdefi.com/",
    "explorer":"https://bscscan.com/token/0x6d5A091BA32CfE58bE0Fa99446c799F39ADD9cdd#balances",
    "reflections":true,
    "social":{
