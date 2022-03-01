@@ -1,0 +1,14 @@
+{
+    "id": "0x3c9F947D5f8A90c527c9B37B9D81B0593F286d17",
+    "name": "YIN & YANG",
+    "symbol": "YANG",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://yin-yang-token.com",
+    "explorer": "https://bscscan.com/address/0x3c9F947D5f8A90c527c9B37B9D81B0593F286d17", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/yinyang_tokens",
+        "telegram" : "https://t.me/yinyang_tokens"
+    }
+}
