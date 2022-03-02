@@ -3,7 +3,7 @@
    "name":"TimeToken",
    "symbol":"TimeToken",
    "type":"smartchain",
-   "decimals":9,
+   "decimals":18,
    "website":"https://www.timetokenbsc.org/",
    "explorer":"https://bscscan.com/address/0xff164937df41544f1379078a361acb3127e962ab",
    "reflections":true,
