@@ -53,3 +53,5 @@ Include the official logo of your token you want displayed on FEGex
 ### Example
 
 For an example, look at the details of the FEG Token submission on the Binance Smart Chain side: [FEG Token](https://github.com/fegexchange/assets/tree/main/blockchains/smartchain/assets/0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167)
+
+![SmartDeFi](https://fegexchange.github.io/assets/smartdefi.jpeg)

@@ -1,0 +1,9 @@
+{
+  "id": "0x9Ee3B3bf31bb7474316fc4908fEE33f45042c8B3",
+  "name": "Cartman",
+  "symbol": "$CRT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Cartman!",
+  "explorer": "https://bscscan.com/token/0x9Ee3B3bf31bb7474316fc4908fEE33f45042c8B3"
+}

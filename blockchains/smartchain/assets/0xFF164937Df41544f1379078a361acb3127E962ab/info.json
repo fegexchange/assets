@@ -1,0 +1,15 @@
+{
+   "id":"0xFF164937Df41544f1379078a361acb3127E962ab",
+   "name":"TimeToken",
+   "symbol":"TimeToken",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://www.timetokenbsc.org/",
+   "explorer":"https://bscscan.com/address/0xff164937df41544f1379078a361acb3127e962ab",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/TimeTokenBSC",
+      "Reddit":"https://www.reddit.com/r/TimeTokenBSC/",
+      "instagram":"https://instagram.com/feg_token"
+   }
+}

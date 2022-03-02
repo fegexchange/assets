@@ -1,0 +1,9 @@
+{
+  "id": "0x93118cC786fd65a9F65d4aEe18900DC5A472781D",
+  "name": "$WAR",
+  "symbol": "$WAR",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "WW3",
+  "explorer": "https://bscscan.com/token/0x93118cC786fd65a9F65d4aEe18900DC5A472781D"
+}

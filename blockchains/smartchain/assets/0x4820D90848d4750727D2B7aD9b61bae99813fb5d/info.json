@@ -1,0 +1,14 @@
+{
+    "id": "0x4820D90848d4750727D2B7aD9b61bae99813fb5d",
+    "name": "PARTNERSHIB",
+    "symbol": "PRSB",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://partnershibglobal.online/",
+    "explorer": "https://bscscan.com/token/0x4820D90848d4750727D2B7aD9b61bae99813fb5d", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/Partnershib_TR",
+        "instagram" : "https://www.instagram.com/partnership_token"
+    }
+}
