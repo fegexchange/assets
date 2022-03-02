@@ -1,0 +1,15 @@
+{
+    "id": "0x248FD2c9bf6e06feB6Fc87FCd63e4D0d5A553923",
+    "name": "KSA",
+    "symbol": "KSA",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://smartdefi.com/",
+    "explorer": "https://bscscan.com/token/0x248FD2c9bf6e06feB6Fc87FCd63e4D0d5A553923", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "",
+        "Reddit" : "",
+        "instagram" : ""
+    }
+}
