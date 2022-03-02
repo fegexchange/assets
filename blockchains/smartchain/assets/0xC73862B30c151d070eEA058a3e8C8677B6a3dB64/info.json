@@ -1,0 +1,13 @@
+{
+   "id":"0xC73862B30c151d070eEA058a3e8C8677B6a3dB64",
+   "name":"Gemverse",
+   "symbol":"RAGE",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://gemverse.org",
+   "explorer":"https://bscscan.com/address/0xC73862B30c151d070eEA058a3e8C8677B6a3dB64",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/theragemetaverse"
+   }
+}

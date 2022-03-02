@@ -1,0 +1,14 @@
+{
+  "id": "0xC2C05B7df3B3b046BC452105722dE3145C3229FA",
+  "name": "GAMBLER",
+  "symbol": "GAMBLER",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "GAMBLER - The First Bet Platfrom Support All SmartDeFi token to earn 2- 1000x.",
+  "website": "https://sdgambler.com/",
+  "explorer": "https://bscscan.com/token/0xC2C05B7df3B3b046BC452105722dE3145C3229FA",
+  "social": {
+    "telegram": "https://t.me/sdgambler",
+    "twitter": "https://twitter.com/GamblerGod3"
+  }
+}

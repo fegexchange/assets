@@ -1,0 +1,9 @@
+{
+  "id": "0x0cA6013faa01Ac9413bDbA24034B39CD8F48E748",
+  "name": "Kenny",
+  "symbol": "$KNY",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Kenny!",
+  "explorer": "https://bscscan.com/token/0x0cA6013faa01Ac9413bDbA24034B39CD8F48E748"
+}

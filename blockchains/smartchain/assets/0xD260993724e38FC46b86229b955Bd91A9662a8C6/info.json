@@ -1,0 +1,13 @@
+{
+   "id":"0xD260993724e38FC46b86229b955Bd91A9662a8C6",
+   "name":"ManufactureSmartDeFi",
+   "symbol":"MANU",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://fegex.com/trade/bsc/0xD260993724e38FC46b86229b955Bd91A9662a8C6",
+   "explorer":"https://bscscan.com/address/0xD260993724e38FC46b86229b955Bd91A9662a8C6",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/+8EL6Knfq2HVkYjQ9"
+   }
+}

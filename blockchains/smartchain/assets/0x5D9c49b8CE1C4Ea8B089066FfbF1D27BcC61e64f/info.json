@@ -1,0 +1,14 @@
+ {
+ "id": "0x5D9c49b8CE1C4Ea8B089066FfbF1D27BcC61e64f",
+    "name": "SAFEPEACE",
+    "symbol": "PEACE",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://safepeace2022.com/",
+    "explorer": "https://bscscan.com/token/0x5D9c49b8CE1C4Ea8B089066FfbF1D27BcC61e64f", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/SafePEACE2022",
+    "telegram":  "https://t.me/SAFEPEACE2022"  
+    }
+}

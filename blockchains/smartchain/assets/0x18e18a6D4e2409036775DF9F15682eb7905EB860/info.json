@@ -1,0 +1,15 @@
+{
+    "id": "0x18e18a6D4e2409036775DF9F15682eb7905EB860",
+    "name": "TESLA",
+    "symbol": "TESLA",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://smartdefi.com/",
+    "explorer": "https://bscscan.com/token/0x18e18a6D4e2409036775DF9F15682eb7905EB860", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/Tesla",
+        "Reddit" : "",
+        "instagram" : ""
+    }
+}
