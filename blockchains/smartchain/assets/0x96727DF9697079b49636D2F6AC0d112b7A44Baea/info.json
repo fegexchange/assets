@@ -1,0 +1,9 @@
+{
+  "id": "0x96727DF9697079b49636D2F6AC0d112b7A44Baea",
+  "name": "Jimmy",
+  "symbol": "$JMY",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Jimmy!",
+  "explorer": "https://bscscan.com/token/0x96727DF9697079b49636D2F6AC0d112b7A44Baea"
+}

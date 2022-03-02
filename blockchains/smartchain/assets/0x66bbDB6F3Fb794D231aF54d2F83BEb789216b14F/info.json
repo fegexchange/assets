@@ -1,0 +1,9 @@
+{
+  "id": "0x66bbDB6F3Fb794D231aF54d2F83BEb789216b14F",
+  "name": "Stan",
+  "symbol": "$STN",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Stan!",
+  "explorer": "https://bscscan.com/token/0x66bbDB6F3Fb794D231aF54d2F83BEb789216b14F"
+}

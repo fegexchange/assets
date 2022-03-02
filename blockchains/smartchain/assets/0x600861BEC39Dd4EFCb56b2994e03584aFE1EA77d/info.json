@@ -1,0 +1,14 @@
+{
+   "id":"0x600861BEC39Dd4EFCb56b2994e03584aFE1EA77d",
+   "name":"Floemsmartdefi",
+   "symbol":"FLOEM",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"http://floemsmartdefi.com/",
+   "explorer":"https://bscscan.com/address/0x600861BEC39Dd4EFCb56b2994e03584aFE1EA77d",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/OfficialFloemSD?s=09",
+      "telegram":"https://t.me/FloemSd"
+   }
+}

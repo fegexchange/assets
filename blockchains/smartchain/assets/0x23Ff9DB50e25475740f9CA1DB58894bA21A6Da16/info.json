@@ -1,0 +1,9 @@
+{
+  "id": "0x23Ff9DB50e25475740f9CA1DB58894bA21A6Da16",
+  "name": "Bebe",
+  "symbol": "$BEB",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Bebe!",
+  "explorer": "https://bscscan.com/token/0x23Ff9DB50e25475740f9CA1DB58894bA21A6Da16"
+}
