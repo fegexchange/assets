@@ -1,0 +1,13 @@
+{
+   "id":"0x244D168f7eA9f839FEf9b3CdD0bF1e4598a929d9",
+   "name":"RUGFinanceSmartDeFi",
+   "symbol":"RUGFI",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://smartdefi.com",
+   "explorer":"https://bscscan.com/token/0x244D168f7eA9f839FEf9b3CdD0bF1e4598a929d9",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/rugfinnance"
+   }
+}
