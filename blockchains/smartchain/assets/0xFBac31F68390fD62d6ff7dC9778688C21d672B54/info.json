@@ -1,0 +1,13 @@
+{
+   "id":"0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
+   "name":"GIGACHAD",
+   "symbol":"GIGACHAD",
+   "type":"BEP-20",
+   "decimals":15,
+   "website":"https://fegtoken.com",
+   "explorer":"https://bscscan.com/token/0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/+leCOxGfrlgA5ZWE5"
+   }
+}
