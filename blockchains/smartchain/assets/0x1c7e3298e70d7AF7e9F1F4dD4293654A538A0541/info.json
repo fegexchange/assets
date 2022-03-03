@@ -5,7 +5,11 @@
   "type": "BEP20",
   "decimals": 9,
   "description": "WUB is a token built on the same basis as ROX.",
-  "website": "",
+  "website": "https://www.holdandwin.org",
   "explorer": "https://bscscan.com/address/0x1c7e3298e70d7AF7e9F1F4dD4293654A538A0541",
-  "reflections": true
+  "reflections": true,
+   "social": {
+    "twitter": "https://twitter.com/holdandwin",
+    "telegram": "https://t.me/ussmartdefi"
+	           }
 }
