@@ -1,0 +1,14 @@
+{
+    "id": "0xAeE53c3E0b7E3ab11d85a8E801b20Aa967e1812B",
+    "name": "STARSEED",
+    "symbol": "STARSEED",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "smartdefi.com",
+    "explorer": "https://bscscan.com/address/0xAeE53c3E0b7E3ab11d85a8E801b20Aa967e1812B", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "",
+	"telegram" : ""
+    }
+}
