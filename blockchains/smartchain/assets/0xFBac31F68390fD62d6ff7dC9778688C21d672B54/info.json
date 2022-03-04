@@ -1,10 +1,12 @@
 {
-  "id": "0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
-  "name": "GIGACHADSD",
-  "symbol": "GCSD",
-  "type": "BEP20",
-  "decimals": 15,
-  "explorer": "https://bscscan.com/address/0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
-  "reflections": true,
-  "social": {}
+   "id":"0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
+   "name":"GIGACHAD SD",
+   "symbol":"GCSD",
+   "type":"BEP20",
+   "decimals":15,
+   "explorer":"https://bscscan.com/address/0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/+leCOxGfrlgA5ZWE5"
+   }
 }
