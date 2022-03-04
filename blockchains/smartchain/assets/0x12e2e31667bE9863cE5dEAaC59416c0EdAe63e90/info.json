@@ -1,0 +1,9 @@
+{
+   "id":"0x12e2e31667bE9863cE5dEAaC59416c0EdAe63e90",
+   "name":"iTunes token",
+   "symbol":"ITUNES",
+   "type":"BEP20",
+   "decimals":9,
+   "explorer":"https://bscscan.com/token/0x12e2e31667bE9863cE5dEAaC59416c0EdAe63e90",
+   "reflections":true
+}
