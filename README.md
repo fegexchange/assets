@@ -23,7 +23,7 @@
 - `decimals` : number of decimals your token supports
 - `website` : official website of your token
 - `explorer` : url of your token's info page on the block explorers
-- `refelections` : does your token receive reflections, only need if your token has reflections
+- `reflections` : does your token receive reflections, only need if your token has reflections
 - `social`: key/value pairs of your token's social media links
 
 Example of Valid JSON

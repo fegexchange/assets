@@ -4,10 +4,11 @@
     "symbol": "TNT",
     "type": "BEP20",
     "decimals": 9,
-    "website": "https://TNTofficial.io",
+    "website": "https://TNTsmartdefi.com",
     "explorer": "https://bscscan.com/token/0x05497B120213E6A5d362E044759de3D91825fd0A", 
     "reflections": true,
     "social" : {
-        "twitter" : "https://twitter.com/TNToficial"
+        "telegram": "https://t.me/TNTSDToken",
+        "twitter" : "https://twitter.com/tnt_sdtonken"
     }
 }

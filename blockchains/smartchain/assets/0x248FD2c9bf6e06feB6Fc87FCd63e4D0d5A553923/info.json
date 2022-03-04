@@ -1,0 +1,13 @@
+{
+    "id": "0x248FD2c9bf6e06feB6Fc87FCd63e4D0d5A553923",
+    "name": "KSA",
+    "symbol": "KSA",
+    "type": "BEP20",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/token/0x248FD2c9bf6e06feB6Fc87FCd63e4D0d5A553923", 
+    "reflections": true,
+    "social": {
+        "telegram": "https://t.me/KINGSMARTDEFI",
+        "twitter" : "https://twitter.com/KINGSmartDEFI?t=B9wMOm1e-Yas6x-G1nCRCQ&s=09"
+    }
+}
