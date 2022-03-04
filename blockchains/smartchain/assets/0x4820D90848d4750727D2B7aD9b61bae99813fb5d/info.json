@@ -1,16 +1,14 @@
 {
-    "id": "0x4820D90848d4750727D2B7aD9b61bae99813fb5d",
-    "name": "PARTNERSHIB",
-    "symbol": "PRSB",
-    "type": "BEP20",
-    "decimals": 9,
-    "website": "https://partnershibglobal.online/",
-    "explorer": "https://bscscan.com/token/0x4820D90848d4750727D2B7aD9b61bae99813fb5d", 
-    "reflections": true,
-    "social" : {
-        "twitter" : "https://twitter.com/Partnershib_TR",
-        "Reddit" : "https://www.reddit.com/r/FegToken_Official",
-        "instagram" : "https://www.instagram.com/partnership_token"
-        "Telegram": "https://t.me/+yz-WLfIicYJlMjM8"
-    }
+   "id":"0x4820D90848d4750727D2B7aD9b61bae99813fb5d",
+   "name":"PARTNERSHIB",
+   "symbol":"PRTN",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://partnershibglobal.online/",
+   "explorer":"https://bscscan.com/token/0x4820D90848d4750727D2B7aD9b61bae99813fb5d",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/+8sx_im2qeTYyMDA0",
+      "twitter":" https://twitter.com/Partnershib_TR?t=FvByj0AA6kRYJgEpE6DQ7A&s=09"
+   }
 }
