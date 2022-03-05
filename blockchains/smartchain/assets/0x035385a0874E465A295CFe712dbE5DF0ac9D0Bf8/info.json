@@ -5,5 +5,5 @@
   "type": "BEP20",
   "decimals": 9,
   "explorer": "https://bscscan.com/token/0x035385a0874E465A295CFe712dbE5DF0ac9D0Bf8",
-  "reflection": false
+  "reflection": true,
 }
