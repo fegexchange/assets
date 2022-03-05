@@ -1,0 +1,15 @@
+{
+    "id": "Contract Address (case sensititve)",0x0c4B835767651E409D96c9Dc78b9fA6A7c1632cA
+    "name": "Token Name",QUEENPLUSA
+    "symbol": "Token Symbol",SMARTDEFI
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://http://queenplussd.com",
+    "explorer": 
+    "reflections": true,10
+    "social" : {
+        "twitter" : "https://twitter.com/queensmartdefi/",
+        "Reddit" : "",
+        "instagram" : ""
+    }
+}
