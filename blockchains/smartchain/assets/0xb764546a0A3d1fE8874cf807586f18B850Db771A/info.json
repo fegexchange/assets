@@ -1,0 +1,12 @@
+{
+  "id": "0xb764546a0A3d1fE8874cf807586f18B850Db771A",
+  "name": "MustBUY2",
+  "symbol": "MUSTBUY2",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "MustBUY2 Memes want to be a millionaire",
+  "explorer": "https://bscscan.com/token/0xb764546a0A3d1fE8874cf807586f18B850Db771A",
+  "social": {
+    "telegram": "https://t.me/MustBUY2"
+  }
+}
