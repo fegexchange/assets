@@ -1,0 +1,12 @@
+{
+  "id": "0x4E8a23060aebBF5F801b2a5BB7274043EF06ae11",
+  "name": "FVK SOROS",
+  "symbol": "FVKSOROS",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "In the spirit of FEG's original name we've created FVK SOROS. 5% asset backing, 5% reflections. 1/3 Liquidity. 1/3 Burnt. 1/3 in a faucet (0x8f340Ec5a206a6637F927D95F732E19f65A134d3) where reflections will be used to buy and burn FEG/ROX. No TG. No Twitter. 100% out there for the community. The supply? Google says there are 7.753 Billion People in the world, each one of them can grab one to FVK SOROS! #FEG #SMARTDEFI",
+  "website": "https://fvksoros.github.io/",
+  "explorer": "https://bscscan.com/token/0x4E8a23060aebBF5F801b2a5BB7274043EF06ae11",
+  "reflections": true,
+  "social" : {}
+}
