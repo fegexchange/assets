@@ -1,0 +1,13 @@
+{
+   "id":"0xeA1e59765a29645a81490c574c136662393C1F1c",
+   "name":"JavaGeneration",
+   "symbol":"JVGN",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://javageneration.com",
+   "explorer":"https://bscscan.com/token/0xeA1e59765a29645a81490c574c136662393C1F1c",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/jvgeneration"
+   }
+}
