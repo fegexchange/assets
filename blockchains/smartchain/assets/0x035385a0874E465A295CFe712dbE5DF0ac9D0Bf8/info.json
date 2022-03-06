@@ -1,10 +1,10 @@
 {
-  "id":"0x035385a0874e465a295cfe712dbe5df0ac9d0bf8",
+  "id":"0x035385a0874E465A295CFe712dbE5DF0ac9D0Bf8",
   "name":"BLACKOUT",
   "symbol":"BLACKOUT",
   "type":"BEP20",
   "decimals":9,
-  "explorer":"https://bscscan.com/token/0x035385a0874e465a295cfe712dbe5df0ac9d0bf8",
+  "explorer":"https://bscscan.com/address/0x035385a0874E465A295CFe712dbE5DF0ac9D0Bf8",
   "reflection":true,
    "social":{
       "telegram":"https://t.me/blackoutdefi"
