@@ -1,0 +1,13 @@
+{
+    "id": "0x3De332d3FD35cBA028C1b057838c2740eB1C0a92",
+    "name": "Crypto Against Child Abuse",
+    "symbol": "CACA",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "http://crypto-against-child-abuse.org",
+    "explorer": "https://bscscan.com/address/0x3De332d3FD35cBA028C1b057838c2740eB1C0a92", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/CACAtoken"
+    }
+}
