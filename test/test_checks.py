@@ -85,7 +85,7 @@ class FilecheckTest(unittest.TestCase):
                 if os.path.join(root, name) is None:
                     continue
                 self.assertFalse(
-                    re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name)
+                    re.search("(?=.*[a-z])(^0x[A-Fa-f0-9]{40}$)", name)
                     and not re.search("assets(/|\\|)$", root),
                     os.path.join(root, name) + " is not in the right place",
                 )
@@ -93,11 +93,11 @@ class FilecheckTest(unittest.TestCase):
             for name in dirs:
                 if root == ".":
                     self.assertFalse(
-                        re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name),
+                        re.search("(?=.*[a-z])(^0x[A-Fa-f0-9]{40}$)", name),
                         "Folder should not be in here",
                     )
                 self.assertFalse(
-                    re.search("(?=.*[a-z])(?=.*[A-Z])(^0x[A-Fa-f0-9]{40}$)", name)
+                    re.search("(?=.*[a-z])(^0x[A-Fa-f0-9]{40}$)", name)
                     and re.search("assets(/|\\|)$", root),
                     os.path.join(root, name) + " is not in the right place",
                 )
