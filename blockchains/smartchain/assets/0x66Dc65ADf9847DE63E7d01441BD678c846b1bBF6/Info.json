@@ -1,0 +1,15 @@
+
+{
+   "id":"0x66Dc65ADf9847DE63E7d01441BD678c846b1bBF6",
+   "name":"SMARTDeFi",
+   "symbol":"HTFSD",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"http://www.healthfinancesd.xyz",
+   "explorer":"https://bscscan.com/token/0x66dc65adf9847de63e7d01441bd678c846b1bbf6",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/HealthfinanceSd",
+      "telegram":"https://t.me/officialHTFSD"
+   }
+}
