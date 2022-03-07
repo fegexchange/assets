@@ -1,0 +1,12 @@
+{
+   "id":"0xb764546a0A3d1fE8874cf807586f18B850Db771A",
+   "name":"MUSTBUY2",
+   "symbol":"MUSTBUY2",
+   "type":"BEP20",
+   "decimals":9,
+   "explorer":"https://bscscan.com/token/0xb764546a0A3d1fE8874cf807586f18B850Db771A",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/MustBUY2"
+   }
+}
