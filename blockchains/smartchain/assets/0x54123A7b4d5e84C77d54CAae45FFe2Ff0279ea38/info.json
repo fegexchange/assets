@@ -1,0 +1,13 @@
+{
+   "id":"0x54123A7b4d5e84C77d54CAae45FFe2Ff0279ea38",
+   "name":"RUGSOROS",
+   "symbol":"RUGSOROS",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://soros.io",
+   "explorer":"https://bscscan.com/address/0x54123A7b4d5e84C77d54CAae45FFe2Ff0279ea38",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/rugsoros"
+   }
+}
