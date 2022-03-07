@@ -4,7 +4,7 @@
     "symbol": "JEMBUT",
     "type": "BEP20",
     "decimals": 9,
-    "explorer": "https://etherscan.io/token/0xb7CC21aC549950E9522d7ebADAE4f76db800B788", 
+    "explorer": "https://bscscan.com/token/0xb7CC21aC549950E9522d7ebADAE4f76db800B788",
     "reflections": false,
     "social" : {
         "twitter" : "https://mobile.twitter.com/Jembut",
