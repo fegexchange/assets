@@ -1,0 +1,15 @@
+{
+    "id": "0xdD26a25F872D87dA9F0de9652085BcC8c1923dDC",
+    "name": "METAZ",
+    "symbol": "$METAZ",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "https://metalandz.tech",
+    "explorer": "https://bscscan.com/address/0xdD26a25F872D87dA9F0de9652085BcC8c1923dDC", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/metalandz",
+        "Telegram" : "https://t.me/MetalandzEnglish",
+        "instagram" : "https://www.instagram.com/metalandz/"
+    }
+}
