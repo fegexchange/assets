@@ -1,0 +1,14 @@
+{
+   "id":"0x74a596ECB5603a9005e95ED71a6A2C55c042F91C",
+   "name":"12PIECES",
+   "symbol":"12PIECES",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://www.12pieces.co.uk",
+   "explorer":"https://bscscan.com/token/0x74a596ecb5603a9005e95ed71a6a2c55c042f91c",
+   "reflections":true,
+   "social":{
+      "Telegram":"https://t.me/Sd12PIECES",
+      "Twitter":"https://twitter.com/Captain12P"
+   }
+}
