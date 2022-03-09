@@ -1,0 +1,14 @@
+{
+   "id":"0x9330720d5d6401941B736Ca9FC981437521D7275",
+   "name":"TOURO",
+   "symbol":"TOURO",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://tourofinance.com",
+   "explorer":"https://https://bscscan.com/address/0x9330720d5d6401941b736ca9fc981437521d7275",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/SmartTouro",
+      "instagram":"https://instagram.com/touro_smart_finance"
+   }
+}"To validate your json please put your json into here."
