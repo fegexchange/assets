@@ -1,0 +1,13 @@
+{
+   "id":"0x75dBe1FDeA65E93A8A5D38d467c797D02e2BDF8F",
+   "name":"martyscamer",
+   "symbol":"MARTYSCAMERS",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://martyscamer.xyz",
+   "explorer":"https://bscscan.com/token/0x75dBe1FDeA65E93A8A5D38d467c797D02e2BDF8F",
+   "reflections":true,
+   "social":{
+      
+   }
+}
