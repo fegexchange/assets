@@ -1,11 +1,11 @@
 {
     "id": "0xF9c8E2ED729ab8106FD887c6720d8a77233f430d",
     "name": "REDSTAR",
-    "symbol": "REDSTAR",
+    "symbol": "RER",
     "type": "BEP20",
     "decimals": 9,
     "website": "https://smartdefi.com/",
-    "explorer": "https://bscscan.com/token/0x7687e8dC4cD28655E2E3c140e9124f67642a970D", 
+    "explorer": "https://bscscan.com/address/0xF9c8E2ED729ab8106FD887c6720d8a77233f430d", 
     "reflections": true,
     "social" : {
         "twitter" : "https://twitter.com/REDSTAR11088121",
