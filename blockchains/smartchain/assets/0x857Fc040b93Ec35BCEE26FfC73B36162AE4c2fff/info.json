@@ -1,0 +1,13 @@
+{
+   "id":"0x857Fc040b93Ec35BCEE26FfC73B36162AE4c2fff",
+   "name":"METAFEGSMARTDEFI",
+   "symbol":"METAFEGSD",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://smartdefi.com",
+   "explorer":"https://bscscan.com/token/0x857Fc040b93Ec35BCEE26FfC73B36162AE4c2fff",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/MetaFeglive"
+   }
+}
