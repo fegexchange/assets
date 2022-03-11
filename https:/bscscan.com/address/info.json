@@ -1,1 +1,13 @@
-
+{
+    "id": "0x7E630CB79009007543c12dc28Ee57f56951d97a0",
+    "name": "FEG Burn Protocol",
+    "symbol": "FBPC",
+    "type": "BSC",
+    "decimals": 9,
+    "website": "https://fegbp.com",
+    "explorer": "https://bscscan.com/address/0x7E630CB79009007543c12dc28Ee57f56951d97a0", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/fegbpc"
+    }
+}
