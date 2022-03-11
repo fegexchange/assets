@@ -1,0 +1,13 @@
+{
+   "id":"0xfcD3B2bd3F9Cd98713F2BF8dDE830807EfDCaF48",
+   "name":"SNOWPAY",
+   "symbol":"SNOW",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://smartdefi.com",
+   "explorer":"https://bscscan.com/token/0xfcD3B2bd3F9Cd98713F2BF8dDE830807EfDCaF48",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/snowsd"
+   }
+}

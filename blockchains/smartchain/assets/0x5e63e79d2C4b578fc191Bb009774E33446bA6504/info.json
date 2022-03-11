@@ -1,0 +1,14 @@
+{
+   "id":"0x5e63e79d2C4b578fc191Bb009774E33446bA6504",
+   "name":"Win Win Protocol",
+   "symbol":"WWP",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://winwinprotocol.online/",
+   "explorer":"https://bscscan.com/address/0x5e63e79d2C4b578fc191Bb009774E33446bA6504",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/WINWIN_PROTOCOL?t=Mej7cXSuZyX_Nb-tXZvb9g&s=09",
+      "telegram":"https://t.me/+XJ1FZl2kLggyMmQ0"
+   }
+}

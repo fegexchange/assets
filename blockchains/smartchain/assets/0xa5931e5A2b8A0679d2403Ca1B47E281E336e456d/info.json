@@ -1,0 +1,10 @@
+{
+   "id":"0xa5931e5A2b8A0679d2403Ca1B47E281E336e456d",
+   "name":"VIN",
+   "symbol":"VIN",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://charts.fegex.com/charts/0xa5931e5A2b8A0679d2403Ca1B47E281E336e456d",
+   "explorer":"https://bscscan.com/token/0xa5931e5A2b8A0679d2403Ca1B47E281E336e456d",
+   "reflections":true
+}
