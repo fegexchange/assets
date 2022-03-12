@@ -1,0 +1,15 @@
+{
+   "id":"0x83a743777B959B622F688CA7B4D65C6B52Eada78",
+   "name":"GiveIfy",
+   "symbol":"GVI",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://giveify.gives",
+   "explorer":"https://www.bscscan.com/token/0xa39EEA4B21452dD202314a11409eE0448eA9773b",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/OfficialGiveify",
+      "Reddit":"https://www.reddit.com/r/GiveIfy",
+      "instagram":"https://instagram.com/official_giveify"
+   }
+}
