@@ -2,7 +2,7 @@
     "id": "0xE050de1C8F7c19A934DCf5f3851D40B206fb0183",
     "name": "PAPAFEG",
     "symbol": "PAPA",
-    "type": "BSC20",
+    "type": "BEP20",
     "decimals": 9,
     "website": "",
     "explorer": "https://bscscan.com/token/0xE050de1C8F7c19A934DCf5f3851D40B206fb0183", 
