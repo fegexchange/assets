@@ -1,0 +1,15 @@
+{
+    "id": "0xF6B36F045f3d546032407e4172762e3938a20d88",
+    "name": "Richtom Finance",
+    "symbol": "RTF",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://richtomfnc.com",
+    "explorer": "https://bscscan.com/token/0xF6B36F045f3d546032407e4172762e3938a20d88", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/richtomofficial?s=08",
+        "telegram" : "https://t.me/richtomofficial",
+        "instagram" : "https://www.instagram.com/richtom_official/"
+    }
+}
