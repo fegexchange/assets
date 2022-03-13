@@ -5,6 +5,7 @@
   "type": "BEP20",
   "reflections": true,
   "website": "https://divvysd.com",
+  "description" : "DIvvy’s goal is to push SmartDeFi forward. Divvy Dashboard provides detailed information about projects to help investors make informed decisions. Divvy Incubator is place for project leads to get mentorship and resources to make their project a success. \n\nHolders of Divvy are rewarded from holdings in the Divvy Fund.\n\nReflections are sold off and used to buy and burn Divvy. This does multiple things:\n\nRaises the market price\nIncreases Asset Backing\nAccelerates baseline growth\nSend reflections to holders"
   "decimals": 9,
   "explorer": "https://bscscan.com/token/0xe9490a983292bd844074ac3e83c3cb408f578b61",
   "social" : {
