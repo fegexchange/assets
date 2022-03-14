@@ -1,0 +1,10 @@
+{
+    "id": "0x384aaFb105D6e567a04e448a5ba812975cd434e2",
+    "name": "UC",
+    "symbol": "UC",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "",
+    "explorer": "https://bscscan.com/token/0x384aaFb105D6e567a04e448a5ba812975cd434e2", 
+    "reflections": true
+}
