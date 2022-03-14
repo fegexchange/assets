@@ -1,0 +1,15 @@
+{
+   "id":"0x328ff08F3A9407e40d2A17A4ed5A3dE028d4ce9F",
+   "name":"GiveIfy",
+   "symbol":"GIVEIFY",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://giveify.gives",
+   "explorer":"https://www.bscscan.com/address/0x328ff08F3A9407e40d2A17A4ed5A3dE028d4ce9F",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/OfficialGiveify",
+      "Reddit":"https://www.reddit.com/r/GiveIfy",
+      "instagram":"https://instagram.com/official_giveify"
+   }
+}
