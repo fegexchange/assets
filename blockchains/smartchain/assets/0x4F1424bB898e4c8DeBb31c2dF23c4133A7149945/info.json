@@ -1,0 +1,15 @@
+{
+    "id": "0xE050de1C8F7c19A934DCf5f3851D40B206fb0183",
+    "name": "Casino MetaFi",
+    "symbol": "CASINOMETAFI",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://casinometafi.io",
+    "explorer": "https://bscscan.com/token/0x4f1424bb898e4c8debb31c2df23c4133a7149945",
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/CasinoMetaFi",
+        "Telegram" : "https://t.me/CasinoMetaFi",
+        "Medium" : "https://medium.com/@CasinoMetaFi"
+    }
+}
