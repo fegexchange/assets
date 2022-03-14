@@ -78,6 +78,10 @@ class FilecheckTest(unittest.TestCase):
             "asset should be the only repository allowed in ethereum folder",
         )
 
+    def test_check_root_file_number(self):
+        onlyfiles = next(os.walk("."))[2]  # dir is your directory path as string
+        self.assertEqual(len(onlyfiles), 8, "You have files in the root folder that doesn't belong in here")
+
     def test_checkfiles(self):
         for root, dirs, files in os.walk(".", topdown=False):
 

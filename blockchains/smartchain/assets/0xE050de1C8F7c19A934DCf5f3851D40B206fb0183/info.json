@@ -1,0 +1,15 @@
+{
+    "id": "0xE050de1C8F7c19A934DCf5f3851D40B206fb0183",
+    "name": "PAPAFEG",
+    "symbol": "PAPA",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://www.papafeg.com",
+    "explorer": "https://bscscan.com/token/0xE050de1C8F7c19A934DCf5f3851D40B206fb0183", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/PapaFeg",
+        "Reddit" : "https://www.reddit.com/user/PapaFEG",
+        "instagram" : ""
+    }
+}
