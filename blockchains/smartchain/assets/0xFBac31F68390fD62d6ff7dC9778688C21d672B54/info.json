@@ -1,10 +1,14 @@
 {
     "id":"0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
-    "name":"GIGACHAD SD",
+    "name":"SMARTDeFi GIGACHAD",
     "symbol":"GIGACHAD",
     "type":"BEP20",
-    "decimals":9,
-    "description":"The market cap dictates if the Max Sell limit per transaction is lowered or raised. The max sell is raised (or lowered) by 1 trillion, every day, until it matches that multiple. Exemple: 45 000$ market cap = 45 trillions max sell per transaction.",
+    "decimals":15,
+    "website":"https://www.smartdefigigachad.com",
     "explorer":"https://bscscan.com/address/0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
-    "reflections":true
+    "reflections":true,
+    "social":{
+        "twitter":"https://twitter.com/GIGACHAD_SD",
+        "telegram":"https://t.me/+leCOxGfrlgA5ZWE5"
+    }
 }
