@@ -1,0 +1,15 @@
+{
+   "id":"0xCb48F9D9C4A2522d19de3724809424c87e3141c3",
+   "name":"RUG MUNCHER",
+   "symbol":"RUGMUNCHER",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://www.rugmunchertoken.com",
+   "explorer":"https://bscscan.com/token/0xCb48F9D9C4A2522d19de3724809424c87e3141c3",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/rugmunchertoken",
+      "telegram":"https://t.me/rugmunchertokenchat",
+      "youtube" :"https://www.youtube.com/channel/UCcgzfUeghQuzh_pnpQGQ9Cw"
+   }
+}
