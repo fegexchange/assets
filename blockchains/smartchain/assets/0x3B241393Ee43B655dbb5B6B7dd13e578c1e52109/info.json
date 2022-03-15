@@ -1,0 +1,15 @@
+{
+   "id":"0x3B241393Ee43B655dbb5B6B7dd13e578c1e52109",
+   "name":"Project M",
+   "symbol":"PRM",
+   "reflections":true,
+   "type":"BEP20",
+   "decimals":9,
+   "description":"Project M is the first Smart-DeFi token to burn itself AND also $ROX through different services provided on our beta website.",
+   "website":"https://projectm.xyz/",
+   "explorer":"https://bscscan.com/token/0x3B241393Ee43B655dbb5B6B7dd13e578c1e52109",
+   "social":{
+      "twitter":"https://https://twitter.com/projectmtoken",
+      "telegram":"https://https://t.me/projectmtoken"
+   }
+}

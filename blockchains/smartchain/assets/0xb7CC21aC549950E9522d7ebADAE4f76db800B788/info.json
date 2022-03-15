@@ -1,0 +1,13 @@
+{
+   "id":"0xb7CC21aC549950E9522d7ebADAE4f76db800B788",
+   "name":"JEMBUTsmartdefi",
+   "symbol":"JEMBUT",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://smartdefi.com",
+   "explorer":"https://bscscan.com/token/0xb7CC21aC549950E9522d7ebADAE4f76db800B788",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/JembutSD"
+   }
+}

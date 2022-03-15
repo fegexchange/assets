@@ -5,11 +5,13 @@
   "type": "BEP20",
   "decimals": 9,
   "description": "DEGEN - token only for DEGEN TRADERS",
-  "website": "/",
+  "website": "https://degen-traders.com/",
   "reflections": true,
   "explorer": "https://bscscan.com/address/0xCfE058c0646c0Eec7e042744D9B8787d0f047a34",
   "social": {
     "telegram": "https://t.me/degentraderstoken",
-    "twitter": "https://twitter.com/DegenSDtoken?s=20&t=sIJzbFgTw6qiyahJ66qi0g"
+    "twitter": "https://twitter.com/DegenSDtoken?s=20&t=sIJzbFgTw6qiyahJ66qi0g",
+    "instagram": "https://www.instagram.com/degen_trade/",
+    "youtube": "https://www.instagram.com/degen_trade/"
   }
 }

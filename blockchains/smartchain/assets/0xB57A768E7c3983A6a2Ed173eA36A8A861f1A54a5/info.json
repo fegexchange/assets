@@ -1,14 +1,15 @@
 {
-   "id":"0x79c748eE59906aE2c04C718d2e3653C3B3D5f34a",
+   "id":"0xB57A768E7c3983A6a2Ed173eA36A8A861f1A54a5",
    "name":"Wise Inu",
    "symbol":"WINU",
    "type":"BEP20",
    "decimals":9,
    "website":"https://fegtoken.com",
-   "explorer":"https://bscscan.com/address/0x79c748eE59906aE2c04C718d2e3653C3B3D5f34a",
+   "explorer":"https://bscscan.com/address/0xB57A768E7c3983A6a2Ed173eA36A8A861f1A54a5",
    "reflections":true,
    "social":{
       "twitter":"https://twitter.com/WiseInu",
       "Reddit":"https://www.reddit.com/r/WiseInu",
       "YouTube":"https://www.youtube.com/channel/UCbegipdNx3ZmA5Wbc5q7eyQ"
    }
+}
