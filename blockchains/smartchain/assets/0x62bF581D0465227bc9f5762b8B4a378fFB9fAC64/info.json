@@ -1,4 +1,3 @@
-
 {
   "id": "0x62bF581D0465227bc9f5762b8B4a378fFB9fAC64",
   "name": "OPOH",
@@ -6,12 +5,14 @@
   "type": "BEP20",
   "decimals": 9,
   "description": "A troll community focus on charity.",
-  "website": "https://opoh.tech",
+  "website": "https://kskaf7.wixsite.com/okoh",
   "explorer": "https://bscscan.com/token/0x62bF581D0465227bc9f5762b8B4a378fFB9fAC64",
   "reflections": true,
   "social": {
     "twitter": "https://twitter.com/OpohSD",
     "telegram": "https://t.me/OpaforOPOH",
     "discord": "https://discord.gg/BdMTnfMq"
-      }
+
+  }
 }
+
