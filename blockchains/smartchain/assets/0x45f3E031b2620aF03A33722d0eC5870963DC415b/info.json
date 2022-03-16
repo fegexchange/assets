@@ -1,13 +1,13 @@
 {
    "id":"0x45f3E031b2620aF03A33722d0eC5870963DC415b",
-   "name":"Theluxurycapital",
+   "name":"TheLuxuryCapitalsd",
    "symbol":"LUXURYSD",
-   "type":"bep20",
+   "type":"BEP20",
    "decimals":9,
    "website":"https://theluxurycapital.com",
    "explorer":"https://bscscan.com/token/0x45f3E031b2620aF03A33722d0eC5870963DC415b",
    "reflections":true,
    "social":{
-      "twitter":"https://twitter.com/LuxuryCapitalsd",
-      "telegram":"https://t.me/theluxurycapital",
+      "telegram":"https://t.me/theluxurycapital"
+   }
 }
