@@ -1,0 +1,14 @@
+{
+	"id": "0xa030Ec52e2c306a596EF19Be7351a58d83386dfb",
+	"name": "Crypto Against Child Abuse",
+	"symbol": "HAND",
+	"type": "BEP20",
+	"decimals": 9,
+	"website": "https://crypto-against-child-abuse.org",
+	"explorer": "https://bscscan.com/address/0xa030Ec52e2c306a596EF19Be7351a58d83386dfb",
+	"reflections": true,
+	"social": {
+		"twitter": "https://twitter.com/crypto_aca",
+		"telegram": "https://t.me/+UVrwVeXOhtwzMGNi"
+	}
+}
