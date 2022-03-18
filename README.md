@@ -2,6 +2,9 @@
 
 # FEGex Asset Repo
 
+## Video Tutorial
+[docs.fegtoken.com](https://docs.fegtoken.com/listing-on-fegex/how-to-submit-logo-and-info)
+
 ## How to submit token asset information
 
 - Fork this repo to your own GitHub account
