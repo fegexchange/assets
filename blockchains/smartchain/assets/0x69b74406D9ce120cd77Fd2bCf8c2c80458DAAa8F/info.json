@@ -4,11 +4,9 @@
    "symbol":"FEM",
    "type":"BEP20",
    "decimals":9,
-   "website":"https://fegtoken.com",
    "explorer":"https://bscscan.io/token/0x69b74406D9ce120cd77Fd2bCf8c2c80458DAAa8F",
    "reflections":true,
    "social":{
-      "twitter":"https://twitter.com/FEGMARS_SD",
-      "telegram":"t.me/FEGMARS_SD"
+      "twitter":"https://twitter.com/FEGMARS_SD"
    }
 }
