@@ -1,0 +1,14 @@
+{
+  "id": "0x625E0205F176d8A356Ad8B782d2960E12fEE8FE0",
+    "name": "BITCOIN",
+    "symbol": "BTC",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://www.bitcoinmartdefi.com/",
+    "explorer": "https://bscscan.com/token/0x625E0205F176d8A356Ad8B782d2960E12fEE8FE0", 
+    "reflections": true,
+    "social" : {
+      "twitter" : "https://twitter.com/BTCSmartDefi",
+      "telegram":  "https://t.me/BitconSmartDefi"   
+    }
+}
