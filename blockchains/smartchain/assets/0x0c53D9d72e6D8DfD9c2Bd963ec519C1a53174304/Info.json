@@ -1,0 +1,14 @@
+{
+  "id": "0x0c53D9d72e6D8DfD9c2Bd963ec519C1a53174304",
+    "name": "BITC0IN",
+    "symbol": "BTC",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://www.bitcoinsmartdefi.com/",
+    "explorer": "https://bscscan.com/token/0x0c53D9d72e6D8DfD9c2Bd963ec519C1a53174304", 
+    "reflections": true,
+    "social" : {
+      "twitter" : "https://twitter.com/BTC_SmartDefi",
+      "telegram":  "https://t.me/BitcoinSmartDefi"   
+    }
+}
