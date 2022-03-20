@@ -1,0 +1,14 @@
+{
+   "id":"0x0B782ac4e487acb76E52a93eA7cf796d4Ab37387",
+   "name":"BACKBENCHERS",
+   "symbol":"BACKBENCHER",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://backbencherscoin.com",
+   "explorer":"https://bscscan.com/address/0x0B782ac4e487acb76E52a93eA7cf796d4Ab37387",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/backbenchers_01",
+      "telegram":"https://t.me/Backbencherscoin_1"
+   }
+}
