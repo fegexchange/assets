@@ -1,0 +1,14 @@
+{
+   "id":"0xE8c889E4e921919d6254B1Fd69A2A380823Fd4a5",
+   "name":"PREZTokenSD",
+   "symbol":"PREZ",
+   "type":"BEP20",
+   "decimals":9,
+   "explorer":"https://bscscan.com/address/0xE8c889E4e921919d6254B1Fd69A2A380823Fd4a5",
+   "reflections":true,
+   "social":{
+      "website": "preztoken.io",
+      "telegram": "https://t.me/preztokensd",
+      "twitter":"https://twitter.com/preztokensd"
+   }
+}
