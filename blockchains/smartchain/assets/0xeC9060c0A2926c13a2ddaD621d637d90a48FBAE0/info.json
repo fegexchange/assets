@@ -1,11 +1,11 @@
 {
-"id": "0xcDA04A47Ab63abaB0637811C23542cb3d4BCAEb2",
+"id": "0xeC9060c0A2926c13a2ddaD621d637d90a48FBAE0",
     "name":  "SMARTDeFi",
-    "symbol": "QUEENP",
+    "symbol": "QUEENPLUSA",
     "type": "BEP20",
     "decimals": 9,
     "website": "https://queenplussd.com",
-    "explorer": "https://bscscan.com/token/0xcDA04A47Ab63abaB0637811C23542cb3d4BCAEb2",
+    "explorer": "https://bscscan.com/token/0xeC9060c0A2926c13a2ddaD621d637d90a48FBAE0",
     "reflections": true,
     "social" : {
         "twitter" : "https://twitter.com/queensmartdefi"

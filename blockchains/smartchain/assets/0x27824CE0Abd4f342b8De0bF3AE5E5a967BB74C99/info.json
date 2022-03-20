@@ -1,0 +1,9 @@
+{
+  "id": "0x27824CE0Abd4f342b8De0bF3AE5E5a967BB74C99",
+  "name": "CUMDOGE",
+  "symbol": "CUMDOGE",
+  "type": "BEP20",
+  "decimals": 9,
+  "explorer": "https://bscscan.com/token/0x27824CE0Abd4f342b8De0bF3AE5E5a967BB74C99",
+  "reflection":true 
+}
