@@ -1,0 +1,13 @@
+{
+   "id":"0xbe2e85Ec7F8C3debb41b4A04BF06a16e7E99bCef",
+   "name":"Sadduckclub",
+   "symbol":"SDK",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://linktr.ee/sadduckclub",
+   "explorer":"https://bscscan.com/token/0xbe2e85Ec7F8C3debb41b4A04BF06a16e7E99bCef",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/sadduckclub"
+   }
+}
