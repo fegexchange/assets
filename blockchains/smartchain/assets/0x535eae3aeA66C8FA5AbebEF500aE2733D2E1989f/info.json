@@ -1,0 +1,13 @@
+{
+   "id":"0x535eae3aeA66C8FA5AbebEF500aE2733D2E1989f",
+   "name":"OperaSD",
+   "symbol":"OPERASD",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://theluxurycapital.com",
+   "explorer":"https://bscscan.com/token/0x535eae3aeA66C8FA5AbebEF500aE2733D2E1989f",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/operasdofficial"
+   }
+}
