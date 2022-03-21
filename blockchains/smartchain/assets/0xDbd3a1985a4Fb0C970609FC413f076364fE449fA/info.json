@@ -4,12 +4,8 @@
    "symbol":"Pig",
    "type":"BEP20",
    "decimals":9,
-   "website":"",
-   "explorer":"",
    "reflections":true,
    "social":{
-      "twitter":"",
-      "Reddit":"",
       "instagram":"https://t.me/SDpig"
    }
 }
