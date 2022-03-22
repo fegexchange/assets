@@ -1,0 +1,17 @@
+{
+    "id": "0xf48E678E82FC1140d095b71daa6138256179177e",
+    "name": "SpacePenguin",
+    "symbol": "P3NGUIN",
+    "type": "BEP20",
+    "decimals": 9,
+    "description": "SpacePenguin: Deflationary Yield-Generating SmartDeFi Token with Charity Use Cases and More!",
+    "website": "https://spacepenguin.xyz",
+    "explorer": "https://bscscan.com/token/0xf48E678E82FC1140d095b71daa6138256179177e", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/SPACE_P3NGUIN",
+        "telegram" : "https://t.me/SpacePenguin",
+        "discord" : "https://discord.gg/5hmE2CdwMd",
+        "reddit" : "https://www.reddit.com/r/PNGN"
+    }
+}
