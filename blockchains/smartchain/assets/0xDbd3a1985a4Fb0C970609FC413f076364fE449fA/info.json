@@ -4,8 +4,10 @@
    "symbol":"Pig",
    "type":"BEP20",
    "decimals":9,
+   "website":"",
+   "explorer":"https://bscscan.com/address/0xDbd3a1985a4Fb0C970609FC413f076364fE449fA",
    "reflections":true,
    "social":{
-      "instagram":"https://t.me/SDpig"
+      "telegram":"https://t.me/SDpig"
    }
 }
