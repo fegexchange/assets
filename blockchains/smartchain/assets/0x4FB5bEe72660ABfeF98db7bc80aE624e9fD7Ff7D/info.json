@@ -1,0 +1,13 @@
+{
+   "id":"Contract Address (case sensititve)",
+   "name":"Mez",
+   "symbol":"MEZ",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://fegtoken.com",
+   "explorer":"https://bscscan.io/token/ConTRactAddRESs",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/MezToken"
+   }
+}
