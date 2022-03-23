@@ -1,0 +1,14 @@
+{
+    "id": "0x082B0051D2b0e3Ab8B2fF7083F2662517789db32",
+    "name": "PlayTime",
+    "symbol": "PLAYTIME",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://playtime-sd.com/",
+    "explorer": "https://bscscan.com/address/0x082B0051D2b0e3Ab8B2fF7083F2662517789db32", 
+    "reflections": true,
+    "social" : {
+	"twitter" : "https://twitter.com/PlayTime_SD",
+	"telegram" : "https://t.me/PlayTimeChat"
+    }
+}
