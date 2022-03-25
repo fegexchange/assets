@@ -1,0 +1,16 @@
+{
+    "id": "0x70472f6D573F629796D2e16bCFf383000e2c06E2",
+    "name": "dub",
+    "symbol": "dub",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://www.dubdefi.com/",
+    "explorer": "https://bscscan.com/address/0x70472f6D573F629796D2e16bCFf383000e2c06E2", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/dubDeFi",
+        "telegram" : "https://t.me/dubDeFi",
+        "instagram" : "https://www.instagram.com/dubdefi/",
+        "facebook" : "https://www.facebook.com/dubdefi"
+    }
+}
