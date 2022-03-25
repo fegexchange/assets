@@ -1,0 +1,13 @@
+{
+    "id": "0xCD409c394c126C96806D501FaeAb7e6dB0A74E10",
+    "name": "BunnyDoge",
+    "symbol": "BND",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://bunnydoge.com/",
+    "explorer": "https://bscscan.com/address/0xCD409c394c126C96806D501FaeAb7e6dB0A74E10", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/BunnyDogetoken"
+    }
+}

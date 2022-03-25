@@ -1,0 +1,13 @@
+{
+    "id": "0x820671E3647d8aaa22Feab05aaA14AB1665e06e1",
+    "name": "FOOK Token",
+    "symbol": "FOOK",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://www.fooktoken.com/",
+    "explorer": "https://bscscan.com/token/0x820671e3647d8aaa22feab05aaa14ab1665e06e1", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/FookToken"
+    }
+}

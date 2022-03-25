@@ -1,0 +1,17 @@
+{
+    "id" : "0x0B1965f78A6c6AF29A65C36A923d015b495d5bcf",
+    "name": "Alien Cult",
+    "symbol": "SaOm",
+    "reflections": true,
+    "type": "BEP20",
+    "decimals": 9,
+    "description": "This Project gives you access to exclusive community who will get immunity when the timer on the website is up, and our friends from Sa-Om attack earth.",
+    "website": "https://aliencult.org/",
+    "explorer": "https://bscscan.com/token/0x0b1965f78a6c6af29a65c36a923d015b495d5bcf",
+    "social": {
+             "twitter":"https://twitter.com/_aliencult_", 
+             "discord":"https://discord.gg/VbkXh8bRTJ/", 
+             "telegram":"https://t.me/thealiencult", 
+             "instagram":"https://www.instagram.com/_aliencult_/"
+    }   
+}

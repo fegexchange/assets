@@ -1,0 +1,14 @@
+{
+    "id": "0x1646a5DF00A97638DFf5560289Ab2b9E9b28C082",
+    "name": "SmartDox",
+    "symbol": "SDOX",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://smartdoxtoken.com",
+    "explorer": "https://etherscan.io/token/0x1646a5DF00A97638DFf5560289Ab2b9E9b28C082", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/smartdoxtoken",
+        "telegram" : "https://t.me/smartdoxtoken"
+    }
+}

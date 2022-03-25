@@ -1,0 +1,14 @@
+{
+    "id": "0xdB0545037c5F9502b9A1655265562240CF889d22",
+    "name": "Helping Hands",
+    "symbol": "HelpingHands",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://www.defihelpinghands.com/",
+    "explorer": "https://bscscan.com/token/0xdb0545037c5f9502b9a1655265562240cf889d22", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/Helping94188926",
+        "telegram" : "https://t.me/HHSDofficial"
+    }
+}

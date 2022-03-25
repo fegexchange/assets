@@ -1,0 +1,9 @@
+{
+  "id": "0xa54ee525D07f6CF097B1214444b00F929c810DdF",
+  "name": "Butters",
+  "symbol": "$BTS",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Butters!",
+  "explorer": "https://bscscan.com/token/0xa54ee525D07f6CF097B1214444b00F929c810DdF"
+}

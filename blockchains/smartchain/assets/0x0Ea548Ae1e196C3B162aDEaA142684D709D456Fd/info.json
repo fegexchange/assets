@@ -4,8 +4,9 @@
   "symbol": "HOM",
   "type": "BEP20",
   "decimals": 9,
+  "website": "Homiessd.com",
   "explorer": "https://bscscan.com/address/0x0Ea548Ae1e196C3B162aDEaA142684D709D456Fd ",
-  "reflections": true,
+  "reflections": false,
   "social": {
     "twitter": "https://twitter.com/HomiesSd"
   }

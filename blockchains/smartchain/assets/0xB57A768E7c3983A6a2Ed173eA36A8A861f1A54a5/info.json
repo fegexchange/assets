@@ -1,0 +1,15 @@
+{
+   "id":"0xB57A768E7c3983A6a2Ed173eA36A8A861f1A54a5",
+   "name":"Wise Inu",
+   "symbol":"WINU",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://wiseinu.com",
+   "explorer":"https://bscscan.com/address/0xB57A768E7c3983A6a2Ed173eA36A8A861f1A54a5",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/WiseInu",
+      "Reddit":"https://www.reddit.com/r/WiseInu",
+      "telegram" : "https://t.me/wise_inu"
+   }
+}

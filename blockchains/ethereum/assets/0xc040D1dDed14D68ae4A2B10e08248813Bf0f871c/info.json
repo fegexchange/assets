@@ -1,0 +1,15 @@
+{
+    "id": "0xc040D1dDed14D68ae4A2B10e08248813Bf0f871c",
+    "name": "MERKLE",
+    "symbol": "WEB3",
+    "type": "ERC20",
+    "decimals": 9,
+    "website": "https://merkleweb3.com/",
+    "explorer": "https://etherscan.io/token/0xc040D1dDed14D68ae4A2B10e08248813Bf0f871c", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/merkleweb3",
+        "Reddit" : "https://www.reddit.com/user/MerkleWeb3",
+        "Telegram" : "https://t.me/merkletreeweb3"
+    }
+}

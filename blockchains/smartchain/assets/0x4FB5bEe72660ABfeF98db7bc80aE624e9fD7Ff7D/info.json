@@ -1,0 +1,13 @@
+{
+   "id":"0x4FB5bEe72660ABfeF98db7bc80aE624e9fD7Ff7D",
+   "name":"Mez",
+   "symbol":"MEZ",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://fegtoken.com",
+   "explorer":"https://bscscan.io/token/0x4FB5bEe72660ABfeF98db7bc80aE624e9fD7Ff7D",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/MezToken"
+   }
+}
