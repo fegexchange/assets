@@ -1,0 +1,15 @@
+{
+   "id":"Contract Address (0x25B1906f06aeA400AD1021CF9B7aAfD6Bf3c7302)",
+   "name":"STAR PROTOCOL",
+   "symbol":"STARSD",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"www.starprotocol.xyz",
+   "explorer":"https://bscscan.com/address/0x25B1906f06aeA400AD1021CF9B7aAfD6Bf3c7302#code",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/starprotocol",
+      "Reddit":"https://www.reddit.com/r/FegToken_Official",
+      "instagram":"https://instagram.com/feg_token"
+   }
+}
