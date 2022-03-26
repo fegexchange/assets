@@ -8,6 +8,7 @@
     "explorer": "https://bscscan.com/token/0x820671e3647d8aaa22feab05aaa14ab1665e06e1", 
     "reflections": true,
     "social" : {
+        "telegram":"https://t.me/FOOKToken",
         "twitter" : "https://twitter.com/FookToken"
     }
 }
