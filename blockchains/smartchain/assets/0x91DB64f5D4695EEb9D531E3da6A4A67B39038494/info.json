@@ -1,0 +1,13 @@
+{
+   "id":"0x91DB64f5D4695EEb9D531E3da6A4A67B39038494",
+   "name":"SinchanBsc",
+   "symbol":"SINCAN",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://sincan.online",
+   "explorer":"https://bscscan.com/token/0x91DB64f5D4695EEb9D531E3da6A4A67B39038494",
+   "reflections":true,
+   "social":{
+      "twitter":"https://t.me/sincansd"
+   }
+}
