@@ -1,0 +1,13 @@
+{
+   "id":"0x7331C6D1e88a7Bcc6A4B0757dCd992098adAB9e3",
+   "name":"ome token",
+   "symbol":"OMETOKEN",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://ometoken.com",
+   "explorer":"https://bscscan.com/token/0x7331C6D1e88a7Bcc6A4B0757dCd992098adAB9e3",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/OmeTokenSd"
+   }
+}
