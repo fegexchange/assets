@@ -1,0 +1,14 @@
+{
+    "id": "0x0255af6c9f86F6B0543357baCefA262A2664f80F",
+    "name": "Immutable",
+    "symbol": "DARA",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://dara.global",
+    "explorer": "https://bscscan.com/token/0x0255af6c9f86F6B0543357baCefA262A2664f80F", 
+    "reflections": false,
+    "social" : {
+        "twitter" : "https://twitter.com/daratoken",
+        "discord" : "https://dara.global/discord"
+    }
+}
