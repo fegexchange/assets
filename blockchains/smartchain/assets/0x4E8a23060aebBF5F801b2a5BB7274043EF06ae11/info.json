@@ -8,5 +8,7 @@
   "website": "https://fvksoros.github.io/",
   "explorer": "https://bscscan.com/token/0x4E8a23060aebBF5F801b2a5BB7274043EF06ae11",
   "reflections": true,
-  "social" : {}
+  "social" : {
+    "telegram" : "https://t.me/Fvksoros"
+  }
 }
