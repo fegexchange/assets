@@ -1,0 +1,14 @@
+{
+    "id": "0x548635beAB0c4b453F8EE047FF7372cF15c346b9",
+    "name": "EVEREST SD ",
+    "symbol": "EVER",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://bscscan.com/token/0x548635beAB0c4b453F8EE047FF7372cF15c346b9", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/EverestSD"
+   
+    }
+}
