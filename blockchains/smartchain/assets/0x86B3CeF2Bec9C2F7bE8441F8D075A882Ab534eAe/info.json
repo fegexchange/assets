@@ -1,0 +1,15 @@
+{
+    "id": "0x86B3CeF2Bec9C2F7bE8441F8D075A882Ab534eAe",
+    "name": "TSUNAMI",
+    "symbol": "TSUNAMI",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "",
+    "explorer": "https://bscscan.com/address/0x86B3CeF2Bec9C2F7bE8441F8D075A882Ab534eAe", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/TSUNAMISD",
+	"website" : "https://www.tsunamisd.com/",
+	"twitter" : "https://twitter.com/Tsunami_SD"
+    }
+}
