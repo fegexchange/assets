@@ -1,0 +1,14 @@
+{
+   "id":"0x3747f13B6dc6E8BD6C26D6af36FB29b5Bff6047f",
+   "name":"BABY KRAKENS",
+   "symbol":"BABYKRAKENS",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://www.thekrakencoin.net/",
+   "explorer":"https://bscscan.com/address/0x3747f13B6dc6E8BD6C26D6af36FB29b5Bff6047f",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/kraken_coin",
+      "telegram":"https://t.me/BABYKRAKENS"
+   }
+}
