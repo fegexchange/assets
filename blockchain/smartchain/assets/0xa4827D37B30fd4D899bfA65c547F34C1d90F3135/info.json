@@ -1,0 +1,14 @@
+{
+   "id":"0xa4827D37B30fd4D899bfA65c547F34C1d90F3135",
+   "name":"Feg Trip Car Club",
+   "symbol":"FEGTRIP",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://fegtrip.com",
+   "explorer":"https://bscscan.com/address/0xa4827D37B30fd4D899bfA65c547F34C1d90F3135",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/fegtrip",
+      "telegram":"https://t.me/fegtrip"
+   }
+}
