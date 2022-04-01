@@ -1,0 +1,14 @@
+{
+    "id": "0x63949e27BcB966A9DeEE5D67Df85DF7671a815FA",
+    "name": "BIG BROTHER",
+    "symbol": "BIGBRO",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://bscscan.com/token/0x63949e27BcB966A9DeEE5D67Df85DF7671a815FA", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/BigBrotherSD"
+   
+    }
+}
