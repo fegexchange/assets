@@ -1,0 +1,13 @@
+{
+   "id":"0x030BCb394348a269A73dAa6b209843355600dFCe",
+   "name":"GFSD",
+   "symbol":"GFSD",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://gmobalfinancesd.com",
+   "explorer":"https://bscscan.com/address/0x030BCb394348a269A73dAa6b209843355600dFCe",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/GlobalFinanceSD?t=7REUE3DTi9oBl0apFr6vJA&s=09"
+   }
+}
