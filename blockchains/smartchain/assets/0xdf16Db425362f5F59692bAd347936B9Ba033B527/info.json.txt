@@ -1,0 +1,9 @@
+"id": "0xdf16Db425362f5F59692bAd347936B9Ba033B527"
+    "name": "Yorgi"
+    "symbol": "Yorgi"
+    "type": "BEP20"
+    "decimals": 9
+    "website": "https://yorgi-token.mozellosite.com/"
+    "explorer": "ps://yorgitoken.io/yorgi/0xdf16Db425362f5F59692bAd347936B9Ba033B527 ", 
+    "social" : {
+        "twitter" : "https://twitter.com/Yorgitoken?t=EUafi_qlduszF5z6F7A&s=08"
