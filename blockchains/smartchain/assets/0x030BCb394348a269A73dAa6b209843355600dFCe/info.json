@@ -4,10 +4,11 @@
    "symbol":"GFSD",
    "type":"BEP20",
    "decimals":9,
-   "website":"https://gmobalfinancesd.com",
+   "website":"https://globalfinancesd.com",
    "explorer":"https://bscscan.com/address/0x030BCb394348a269A73dAa6b209843355600dFCe",
    "reflections":true,
    "social":{
-      "twitter":"https://twitter.com/GlobalFinanceSD"
+      "twitter":"https://twitter.com/GlobalFinanceSD",
+      "telegram":"https://t.me/GlobalFinanceSD"
    }
 }
