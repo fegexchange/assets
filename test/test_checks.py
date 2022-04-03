@@ -82,6 +82,10 @@ class FilecheckTest(unittest.TestCase):
         onlyfiles = next(os.walk("."))[2]  # dir is your directory path as string
         self.assertEqual(len(onlyfiles), 8, "You have files in the root folder that doesn't belong in here")
 
+    def test_check_root_folder_number(self):
+        onlyfolder = next(os.walk("."))[1]  # dir is your directory path as string
+        self.assertEqual(len(onlyfolder), 6, "You have files in the root folder that doesn't belong in here")
+
     def test_checkfiles(self):
         for root, dirs, files in os.walk(".", topdown=False):
 
