@@ -1,0 +1,13 @@
+{
+   "id":"0xE34F6e2e6AE7458b6A4a94b21f7e2360A6336aa1",
+   "name":"Zem",
+   "symbol":"ZEM",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://fegtoken.com",
+   "explorer":"https://bscscan.io/token/0xE34F6e2e6AE7458b6A4a94b21f7e2360A6336aa1",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/zemtoken"
+   }
+}
