@@ -1,0 +1,14 @@
+{
+   "id":"0xC2Df3733E3cE8a57c5f68eb86bB2c5e7A35C90D4",
+   "name":"FLOATING-MASTER",
+   "symbol":"FLOATMASTER",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://floatingmaster.wordpress.com/",
+   "explorer":"https://bscscan.com/address/0xC2Df3733E3cE8a57c5f68eb86bB2c5e7A35C90D4",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/FloatingMaster1",
+      "telegram":"https://t.me/floatingmaster"
+   }
+}
