@@ -1,0 +1,8 @@
+    "id": "0x33D80550870c533BeBf50C9a5494CaDf4fC4D12c"
+    "name": "DORATOKEN"
+    "symbol": "DORA"
+    "type": "BEP20"
+    "decimals": 5
+    "social" : {
+    "twitter" : "https://twitter.com/Doratoken?s=09"
+    "tlelegram":"https://t.me/+ZjBXab5Bj1VjY2Yx"
