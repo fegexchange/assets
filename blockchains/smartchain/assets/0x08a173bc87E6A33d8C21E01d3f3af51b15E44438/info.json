@@ -1,0 +1,10 @@
+{
+   "id":"0x08a173bc87E6A33d8C21E01d3f3af51b15E44438",
+   "name":"Lexotansmartdefi",
+   "symbol":"LEX",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://smartdefi.com",
+   "explorer":"https://bscscan.com/token/0x08a173bc87E6A33d8C21E01d3f3af51b15E44438",
+   "reflections":true
+}
