@@ -1,8 +1,8 @@
 {
     "id": "0xBB8047fc6D515DE90CBAFacb0886181F336F1463",
     "name": "AffinitySD",
-    "symbol": "BEP20",
-    "type": "ERC20",
+    "symbol": "AFFINITY",
+    "type": "BEP20",
     "decimals": 9,
     "website": "http://www.AffinityDefi.org",
     "explorer": "https://bscscan.com/address/0xBB8047fc6D515DE90CBAFacb0886181F336F1463", 
