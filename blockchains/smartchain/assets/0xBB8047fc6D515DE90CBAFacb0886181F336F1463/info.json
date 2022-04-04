@@ -1,7 +1,7 @@
 {
     "id": "0xBB8047fc6D515DE90CBAFacb0886181F336F1463",
     "name": "AffinitySD",
-    "symbol": "AFFINITY",
+    "symbol": "BEP20",
     "type": "ERC20",
     "decimals": 9,
     "website": "http://www.AffinityDefi.org",
