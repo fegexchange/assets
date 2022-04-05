@@ -1,0 +1,13 @@
+{
+   "id":"0x09857796987D7d64ff2b99d714f22924929c18e0",
+   "name":"Bluebobatoken",
+   "symbol":"BOBA",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://bobatoken.io",
+   "explorer":"https://bscscan.com/token/0x09857796987D7d64ff2b99d714f22924929c18e0",
+   "reflections":true,
+   "social":{
+      "twitter":"https://t.me/BobaSmartDefiToken"
+   }
+}
