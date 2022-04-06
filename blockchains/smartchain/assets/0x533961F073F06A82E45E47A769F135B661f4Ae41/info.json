@@ -1,10 +1,10 @@
 {
   "id": "0x533961F073F06A82E45E47A769F135B661f4Ae41",
-  "name": "Volcano",
+  "name": "Volcano [LEGACY]",
   "symbol": "VOLCANO",
   "type": "BEP20",
   "decimals": 9,
-  "description": "The token that powers Divvy Lockers",
+  "description": "Volcano migrated to a new token. From VOLCANO to LAVA.",
   "website": "https://divvysd.com",
   "explorer": "https://bscscan.com/token/0x533961F073F06A82E45E47A769F135B661f4Ae41",
   "reflections": true,
