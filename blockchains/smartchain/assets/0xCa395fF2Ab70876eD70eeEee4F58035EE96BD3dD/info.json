@@ -1,0 +1,13 @@
+{
+   "id":"0xCa395fF2Ab70876eD70eeEee4F58035EE96BD3dD",
+   "name":"Gemssmartdefitoken",
+   "symbol":"GEMS",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://smartgems.com",
+   "explorer":"https://bscscan.com/token/0xCa395fF2Ab70876eD70eeEee4F58035EE96BD3dD",
+   "reflections":true,
+   "social":{
+      "twitter":"https://t.me/gemssdsmart"
+   }
+}
