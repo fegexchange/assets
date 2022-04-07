@@ -1,0 +1,14 @@
+{
+   "id":"0x443Aba93315610606Cbf7F72fF33459564462111",
+   "name":"BLACKROCK",
+   "symbol":"BLACKROCK",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://smartdefi-blackrock.com",
+   "explorer":"https://bscscan.com/address/0x443Aba93315610606Cbf7F72fF33459564462111",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/blackrock_sd",
+      "telegram":"https://t.me/blackrock_sd"
+   }
+}
