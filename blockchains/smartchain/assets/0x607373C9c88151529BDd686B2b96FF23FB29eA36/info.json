@@ -1,0 +1,13 @@
+{
+   "id":"0x607373C9c88151529BDd686B2b96FF23FB29eA36",
+   "name":"earthquakesd featuring tsunamisd",
+   "symbol":"EARTHQUAKE",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://tsunamisd.com",
+   "explorer":"https://bscscan.com/address/0x607373C9c88151529BDd686B2b96FF23FB29eA36",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/Earthquakesd"
+   }
+}
