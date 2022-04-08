@@ -1,0 +1,13 @@
+{
+   "id":"0xA2589168601304f11E3B663c2e22465e401ce66B",
+   "name":"zetsmartdefi_comunity",
+   "symbol":"ZET",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://zettokensd.xyz",
+   "explorer":"https://bscscan.com/token/0xA2589168601304f11E3B663c2e22465e401ce66B",
+   "reflections":true,
+   "social":{
+      "twitter":"https://t.me/zetsmartdefi"
+   }
+}
