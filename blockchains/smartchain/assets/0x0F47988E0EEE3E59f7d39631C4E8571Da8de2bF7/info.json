@@ -1,0 +1,14 @@
+{
+    "id": "Contract Address",
+    "name": "Nuditi Token",
+    "symbol": "NUDI",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer":  "https://bscscan.com/token/0x0F47988E0EEE3E59f7d39631C4E8571Da8de2bF7", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/",
+        "telegram": "https://t.me/nudititokenchat"
+    }
+}
