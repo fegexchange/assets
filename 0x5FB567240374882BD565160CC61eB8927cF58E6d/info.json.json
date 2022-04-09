@@ -1,0 +1,16 @@
+{
+   "id":"0x5FB567240374882BD565160CC61eB8927cF58E6d",
+   "name":"Holdinghands",
+   "symbol":"HOHSD",
+   "type":"BEP-20",
+   "decimals":9,
+   "website":"https://hohtoken.com/",
+   "explorer":"https://bscscan.com/token/0x5FB567240374882BD565160CC61eB8927cF58E6d",
+   "reflections":true,
+   "social":{
+      "twitter":"TWitter.com/Holding_Hands1",
+      "Reddit":"https://www.reddit.com/r/HoldingHands_Token/",
+      "instagram":"https://www.instagram.com/holdinghands_token/",
+      "telegram":"https://t.me/tokenhoh"
+   }
+}
