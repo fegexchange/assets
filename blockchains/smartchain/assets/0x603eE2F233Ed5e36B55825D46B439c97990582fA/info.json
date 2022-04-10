@@ -1,0 +1,13 @@
+{
+    "id": "0x603eE2F233Ed5e36B55825D46B439c97990582fA",
+    "name": "BIG PUMP",
+    "symbol": "BIGPUMP",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "soon",
+    "explorer": "https://bscscan.com/token/0x603eE2F233Ed5e36B55825D46B439c97990582fA", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/bigpump_sd"
+    }
+}
