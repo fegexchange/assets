@@ -1,8 +1,8 @@
 {
    "id":"0x5FB567240374882BD565160CC61eB8927cF58E6d",
-   "name":"Holdinghands",
+   "name":"HoldingHands",
    "symbol":"HOHSD",
-   "type":"BEP-20",
+   "type":"BEP20",
    "decimals":9,
    "website":"https://hohtoken.com/",
    "explorer":"https://bscscan.com/token/0x5FB567240374882BD565160CC61eB8927cF58E6d",
