@@ -5,8 +5,10 @@
     "type": "BEP20",
     "decimals": 9,
     "explorer": "https://bscscan.com/token/0x2AbAAa46964DcE8E00045F3711F3d04323864FB5", 
-    "reflections": false,
-"social": { 
-"telegram": "https://t.me/greenrocketchat",
-"twitter": "https://twitter.com/GreenROCKETSD" }
+    "reflections": true,
+    "social": 
+    { 
+    "telegram": "https://t.me/greenrocketchat",
+    "twitter": "https://twitter.com/GreenROCKETSD" 
+     }
 }
