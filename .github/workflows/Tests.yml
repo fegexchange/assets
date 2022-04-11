@@ -1,4 +1,4 @@
-name: Uniform test
+name: MC
 
 on: [push, pull_request]
 
