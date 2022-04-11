@@ -1,0 +1,14 @@
+{
+  "id": "0xFE4560a0ea439007A6fE254C3C948d3513D20e39",
+    "name": "MOKC0IN Web Wallet",
+    "symbol": "MKEC",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "https://mokcoin.cc/",
+    "explorer": "https://bscscan.com/token/0xFE4560a0ea439007A6fE254C3C948d3513D20e39", 
+    "reflections": true,
+    "social" : {
+      "twitter" : "https://twitter.com/mokcoininvs",
+      "telegram":  "https://t.me/mokcoininvs"   
+    }
+}
