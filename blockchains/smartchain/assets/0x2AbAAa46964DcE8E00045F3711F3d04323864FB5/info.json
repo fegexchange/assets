@@ -1,0 +1,9 @@
+{
+    "id": "0x2AbAAa46964DcE8E00045F3711F3d04323864FB5",
+    "name": "GREENROCKET",
+    "symbol": "GREENROCKET",
+    "type": "BEP20",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/token/0x2AbAAa46964DcE8E00045F3711F3d04323864FB5", 
+    "reflections": false
+}
