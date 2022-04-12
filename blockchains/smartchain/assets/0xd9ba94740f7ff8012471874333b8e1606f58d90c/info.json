@@ -1,5 +1,5 @@
 {
-	"id": "0xd9ba94740f7ff8012471874333b8e1606f58d90c",
+	"id":"0xd9ba94740f7ff8012471874333b8e1606f58d90c",
 	"name":"Master of Crypto",
 	"symbol":"MC",
 	"type":"BEP20",
@@ -9,9 +9,9 @@
 	"reflections":true,
 	"social":{
 		"twitter":"https://twitter.com/mcsmartdefi1",
-		"instagram":"https://instagram.com/mcsmartdefi" ,
-                "telegram":"https://t.me/mcsmartdefi1",
-                "discord":"https://discord.gg/fhV9xpVr",
-		"NFT":"https:showtime.io/masterofcrypto",
+		"instagram":"https://instagram.com/mcsmartdefi",
+		"telegram":"https://t.me/mcsmartdefi1",
+		"discord":"https://discord.gg/fhV9xpVr",
+		"NFT":"https:showtime.io/masterofcrypto"
 	}
 }
