@@ -1,0 +1,15 @@
+{
+    "id": "Contract Address 0x259c90755a9F0c5BA33f2D14F91F2864CC707fD1",
+    "name": "MERKLE",
+    "symbol": "MERKLE",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://merkleweb3.com/",
+    "explorer": "https://bscscan.com/address/0x259c90755a9F0c5BA33f2D14F91F2864CC707fD1", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/merkleweb3",
+        "Reddit" : "https://www.reddit.com/user/MerkleWeb3",
+        "instagram" : "https://www.instagram.com/merkleweb3/"
+    }
+}
