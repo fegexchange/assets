@@ -1,6 +1,6 @@
 {
   "id": "0xFE4560a0ea439007A6fE254C3C948d3513D20e39",
-    "name": "MOKC0IN Web Wallet",
+    "name": "MOKC0IN",
     "symbol": "MKEC",
     "type": "BEP20",
     "decimals": 18,
