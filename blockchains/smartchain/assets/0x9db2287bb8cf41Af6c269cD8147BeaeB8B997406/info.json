@@ -1,0 +1,13 @@
+{
+   "id":"Contract Address (0x9db2287bb8cf41Af6c269cD8147BeaeB8B997406)",
+   "name":"HYPE",
+   "symbol":"HYPE",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://smartdefi.com",
+   "explorer":"https://bscscan.com/token/0x9db2287bb8cf41Af6c269cD8147BeaeB8B997406",
+   "reflections":true,
+   "social":{
+      "twitter":"https://mobile.twitter.com/HYPESmartDefi"
+   }
+}
