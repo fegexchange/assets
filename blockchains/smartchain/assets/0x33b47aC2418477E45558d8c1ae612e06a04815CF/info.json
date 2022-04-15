@@ -4,10 +4,11 @@
     "symbol": "BURNIT",
     "type": "BEP20",
     "decimals": 9,
-    "website": "",
+    "website": "https://burnitsd.com",
     "explorer": "https://bscscan.com/address/0x33b47aC2418477E45558d8c1ae612e06a04815CF", 
     "reflections": true,
     "social" : {
-        "telegram" : "https://t.me/bnurnitSDchat"
+        "telegram" : "https://t.me/bnurnitSDchat",
+        "twitter" : "https://twitter.com/burnitsmartdefi"
     }
 }
