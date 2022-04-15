@@ -4,10 +4,11 @@
    "symbol":"BABYAPE",
    "type":"BEP20",
    "decimals":9,
-   "website":"https://babyape.com",
+   "website":"https://babyapesd.com",
    "explorer":"https://bscscan.com/token/0x9D15a48740F3D971F0B2eD0d3426299898347fa0",
    "reflections":true,
    "social":{
-      "telegram":"https://t.me/Baby_apeSD"
+      "telegram":"https://t.me/BabyApe_SD",
+      "twitter" :"https://twitter.com/ape_sd"
    }
 }
