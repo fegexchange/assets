@@ -1,0 +1,13 @@
+{
+    "id": "0xc1519bA6979a0b936986F250e09A3B3A90d65313",
+    "name": "TACO",
+    "symbol": "TACO",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://GHOSTSMARTDEFI.IO",
+    "explorer": "https://bscscan.com/address/0xc1519bA6979a0b936986F250e09A3B3A90d65313", 
+    "reflections": false,
+    "social" : {
+        "twitter" : "https://twitter.com/GHOSTSMARTDEFI"
+    }
+}
