@@ -2,7 +2,7 @@
     "id": "0xc2540c873E643EF932605D6fbD5F5D3e290B90f6",
     "name": "CLAPCOIN",
     "symbol": "CAP",
-    "type": "Bep20",
+    "type": "BEP20",
     "decimals": 9,
     "website": "https://clapcoin.io",
     "explorer": "https://bscscan.com/token/0xc2540c873e643ef932605d6fbd5f5d3e290b90f6", 
