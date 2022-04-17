@@ -1,0 +1,15 @@
+
+{
+  "id": "0x58f4580B827F79435DD5C287879f537fd04Ff7A6",
+  "name": "ZUCKERBORG",
+  "symbol": "ZUCKERBORG",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "ZUCKERBORG - METACORP AND EARTH'S FEARLESS DICTATOR, READY TO AID MECHABEZOS AT ALL COSTS",
+  "website": "https://cyborgelon.finance/",
+  "explorer": "https://bscscan.com/token/0x58f4580B827F79435DD5C287879f537fd04Ff7A6",
+  "social": {
+    "telegram": "https://t.me/nerdwarspublic",
+    "twitter": "https://twitter.com/CYBORG_ELON"
+  }
+}
