@@ -2,7 +2,7 @@
    "id":"0xA8Ae16Fb2a4564fFd91BbAfE7EFFE082F61c3Ddc",
    "name":"The 10X Token",
    "symbol":"TXT",
-   "type":"BEp20",
+   "type":"BEP20",
    "decimals":9,
    "website":"",
    "explorer":"https://www.bscscan.com/address/0xA8Ae16Fb2a4564fFd91BbAfE7EFFE082F61c3Ddc",
