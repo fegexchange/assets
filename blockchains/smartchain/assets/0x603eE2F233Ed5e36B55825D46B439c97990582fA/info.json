@@ -4,10 +4,11 @@
     "symbol": "BIGPUMP",
     "type": "BEP20",
     "decimals": 9,
-    "website": "soon",
+    "website": "https://www.bigpump.space",
     "explorer": "https://bscscan.com/token/0x603eE2F233Ed5e36B55825D46B439c97990582fA", 
     "reflections": true,
     "social" : {
+        "twitter" : "https://mobile.twitter.com/BSmartdefi",
         "telegram" : "https://t.me/bigpump_sd"
     }
 }
