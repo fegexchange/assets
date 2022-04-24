@@ -1,0 +1,15 @@
+{
+   "id":"0x0D140f495Ffb306bc817fD874C62a1B20284AfbB",
+   "name":"Whale Exploder",
+   "symbol":"WHEX",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://whexcosystem.com/whex.html",
+   "explorer":"https://bscscan.com/token/0x0d140f495ffb306bc817fd874c62a1b20284afbb",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/whaleexploder",
+      "Reddit":"https://www.reddit.com/r/WHEX/",
+      "instagram":"https://www.instagram.com/whexy_whales/"
+   }
+}
