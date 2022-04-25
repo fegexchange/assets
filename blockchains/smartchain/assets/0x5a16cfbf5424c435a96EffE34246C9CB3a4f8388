@@ -1,0 +1,13 @@
+{
+	"id":"0x5a16cfbf5424c435a96EffE34246C9CB3a4f8388",
+	"name":"SMARTDeFi",
+	"symbol":"01ONLY1KONG",
+	"type":"BEP20",
+	"decimals":9,
+	"website":"https://presale.fegex.com/?pair=0xa26FD0C18Ee0403576308b7Df12F0eFcBa4BA662",
+	"explorer":"https://bscscan.com/token/0x5a16cfbf5424c435a96effe34246c9cb3a4f8388?a=0xa26FD0C18Ee0403576308b7Df12F0eFcBa4BA662",
+	"reflections":false,
+	"social":{
+		"twitter":"https://mobile.twitter.com/Only1Kong"
+	}
+}
