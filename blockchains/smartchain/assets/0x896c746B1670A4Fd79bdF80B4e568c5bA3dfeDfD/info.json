@@ -2,7 +2,7 @@
    "id":"0x896c746B1670A4Fd79bdF80B4e568c5bA3dfeDfD",
    "name":"Bully Puppy",
    "symbol":"BUPYBSC",
-   "type":"BSC20",
+   "type":"BEP20",
    "decimals":9,
    "website":"https://bullypuppysd.dog",
    "reflections":true,
