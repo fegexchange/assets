@@ -4,7 +4,7 @@
     "symbol": "SINU",
     "type": "BEP20",
     "decimals": 9,
-    "description": "Smart Inu aims to help enable mass adoption for SmartDeFi technology by providing tools & services to help project leads & investors.",
+    "description": "Smart Inu aims to enable mass adoption for SmartDeFi technology by providing tools & services to help project leads & investors.",
     "website": "https://smartinutoken.com",
     "explorer": "https://bscscan.com/token/0x252C41c6de973e4D31c770ED6a211BFAA699eB60", 
     "reflections": true,
