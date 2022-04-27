@@ -1,0 +1,14 @@
+{
+   "id":"0xBaE09143AF0ba0A360Fc37f1013F698D966Ba6a3",
+   "name":"Four T Two",
+   "symbol":"4T2",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://t.me/Four_T_Two",
+   "explorer":"https://bscscan.com/token/0xBaE09143AF0ba0A360Fc37f1013F698D966Ba6a3",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/Four_T_Two",
+      "discord":"https://discord.gg/fR747rZhrB"
+   }
+}
