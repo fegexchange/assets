@@ -1,0 +1,14 @@
+{
+    "id": "0x4246E6d78aee05ab3f9dAC0275a8EAbd3b62BDF7",
+    "name": "MPTTOKEN",
+    "symbol": "MPT",
+    "type": "BEP-20",
+    "decimals": 9,
+    "website": "https://mpttoken.io/",
+    "explorer": "https://bscscan.com/token/0x4246e6d78aee05ab3f9dac0275a8eabd3b62bdf7", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/TokenMpt",
+        "TELEGRAM" : "https://t.me/MPTTOKEN",
+        "instagram" : "https://instagram.com/feg_token"
+}
