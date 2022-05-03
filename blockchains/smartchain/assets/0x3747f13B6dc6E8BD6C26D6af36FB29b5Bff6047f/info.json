@@ -4,11 +4,11 @@
    "symbol":"BABYKRAKENS",
    "type":"BEP20",
    "decimals":9,
-   "website":"https://www.thekrakencoin.net/",
+   "website":"https://www.thekrakencoin.net/babykraken",
    "explorer":"https://bscscan.com/address/0x3747f13B6dc6E8BD6C26D6af36FB29b5Bff6047f",
    "reflections":true,
    "social":{
-      "twitter":"https://twitter.com/kraken_coin",
+      "twitter":"https://twitter.com/babykrakens",
       "telegram":"https://t.me/BABYKRAKENS"
    }
 }
