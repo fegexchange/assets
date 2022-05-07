@@ -1,0 +1,14 @@
+{
+    "id": "0x0dC9D0d7197f0dB802532baFAE67C6a829eD0448",
+    "name": "Smart Lottery",
+    "symbol": "LOTTERY",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://smartlottery.games",
+    "explorer": "https://bscscan.com/address/0x0dC9D0d7197f0dB802532baFAE67C6a829eD0448", 
+    "reflections": true,
+    "social" : {
+	"twitter" : "https://twitter.com/rugmunchertoken",
+	"telegram" : "https://t.me/smartlotterysd"
+    }
+}
