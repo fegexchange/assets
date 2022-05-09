@@ -1,0 +1,13 @@
+{
+   "id":"0xa94BAcFae1A78834d29c8691C49CB00eDFfAEa9A",
+   "name":"RhinoKorn",
+   "symbol":"RNK",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://fegtoken.com",
+   "explorer":"https://bscscan.io/token/0xa94BAcFae1A78834d29c8691C49CB00eDFfAEa9A",
+   "reflections":true,
+   "social":{
+      "telegram":"https://t.me/rnktoken"
+   }
+}
