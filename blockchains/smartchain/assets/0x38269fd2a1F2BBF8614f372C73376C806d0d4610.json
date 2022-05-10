@@ -1,0 +1,17 @@
+{
+  "id": "0x38269fd2a1F2BBF8614f372C73376C806d0d4610",
+  "name": "CRYPTOLIT",
+  "symbol": "CL",
+  "type": "BEP20",
+  "decimals": 9,
+  "website": "https://cryptolit.jimdosite.com/",
+  "explorer": "https://bscscan.com/token/0x38269fd2a1F2BBF8614f372C73376C806d0d4610",
+  "reflections": true,
+  "social": {
+    "twitter": "https://twitter.com/cl_cryptolit",
+    "Reddit": "https://new.reddit.com/user/CRYPTOLIT_CL",
+    "instagram": "https://www.instagram.com/cryptolit_cl/",
+    "facebook": "https://www.facebook.com/Cryptolit-110685754845560",
+    "Telegram": "https://t.me/Cryptolit_SD"
+  }
+}
