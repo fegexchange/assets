@@ -1,0 +1,13 @@
+{
+    "id": "0x844Dc83e632CF69A6C7c3Bab235e27922E3026F4",
+    "name": "Work Token",
+    "symbol": "WORK",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://fegtoken.com",
+    "explorer": "https://bscscan.com/token/0x844Dc83e632CF69A6C7c3Bab235e27922E3026F4", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com"
+    }
+}

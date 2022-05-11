@@ -1,0 +1,15 @@
+{
+  "id": "0x9102a23EC513bD566A6909F7444cF92acf13960d",
+  "name": "OFFY SmartDeFi",
+  "symbol": "OFFYSD",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "OFFYSD token is launched to utilize the innovative features of SmartDeFi and more",
+  "website": "https://offy.uk",
+  "explorer": "https://bscscan.com/token/0x9102a23EC513bD566A6909F7444cF92acf13960d",
+  "reflections": true,
+  "social": {
+    "telegram": "https://t.me/offynow",
+    "twitter": "https://twitter.com/UkOffy"
+  }
+}

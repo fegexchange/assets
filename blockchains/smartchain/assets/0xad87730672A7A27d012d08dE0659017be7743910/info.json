@@ -1,0 +1,14 @@
+{
+    "id": "0xad87730672A7A27d012d08dE0659017be7743910",
+    "name": "DIAMOND",
+    "symbol": "DIAMOND",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://bluediamond.vip/",
+    "explorer": "https://bscscan.com/address/0xad87730672A7A27d012d08dE0659017be7743910", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/diamondblow22?s=09",
+        "telegram" : "https://t.me/blueiDiamond"
+   } 
+}

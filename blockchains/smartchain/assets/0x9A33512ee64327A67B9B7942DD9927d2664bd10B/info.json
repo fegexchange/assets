@@ -1,0 +1,14 @@
+{
+   "id":"0x9A33512ee64327A67B9B7942DD9927d2664bd10B",
+   "name":"ATLANTIS-KINGDOM",
+   "symbol":"ATLANTIS",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://atlantissmartdefi.wixsite.com/token",
+   "explorer":"https://bscscan.com/address/0x9A33512ee64327A67B9B7942DD9927d2664bd10B",
+   "reflections":true,
+   "social":{
+      "twitter":"https://mobile.twitter.com/Atlantis4rever",
+      "telegram":"https://t.me/+wZo80Xl-L9RlZWNl"
+   }
+}

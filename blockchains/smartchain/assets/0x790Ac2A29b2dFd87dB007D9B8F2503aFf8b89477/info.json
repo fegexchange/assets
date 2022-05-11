@@ -1,0 +1,13 @@
+{
+   "id":"0x790Ac2A29b2dFd87dB007D9B8F2503aFf8b89477",
+   "name":"SHIBURN",
+   "symbol":"SHIBURN",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://smartdefi.com",
+   "explorer":"https://bscscan.com/token/0x790Ac2A29b2dFd87dB007D9B8F2503aFf8b89477",
+   "reflections":true,
+   "social":{
+      "twitter":"https://mobile.twitter.com/SHIBURRRN"
+   }
+}

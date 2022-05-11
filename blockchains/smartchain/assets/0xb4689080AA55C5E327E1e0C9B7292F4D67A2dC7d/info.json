@@ -1,0 +1,9 @@
+{
+  "id": "0xb4689080AA55C5E327E1e0C9B7292F4D67A2dC7d",
+  "name": "FEGALEX",
+  "symbol": "FEGALEX",
+  "type": "BEP20",
+  "decimals": 9,
+  "explorer": "https://bscscan.com/token/0xb4689080AA55C5E327E1e0C9B7292F4D67A2dC7d",
+  "reflection":true 
+}

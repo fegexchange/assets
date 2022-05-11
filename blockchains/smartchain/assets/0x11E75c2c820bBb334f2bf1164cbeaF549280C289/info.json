@@ -1,0 +1,13 @@
+{
+    "id": "0x11E75c2c820bBb334f2bf1164cbeaF549280C289",
+    "name": "MECHABEZOS",
+    "symbol": "MECHABEZOS",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://cyborgelon.finance",
+    "explorer": "https://bscscan.com/token/0x11E75c2c820bBb334f2bf1164cbeaF549280C289", 
+    "reflections": false,
+    "social" : {
+        "twitter" : "https://twitter.com/CYBORG_ELON"
+    }
+}

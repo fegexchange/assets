@@ -1,0 +1,14 @@
+{
+    "id": "0xB0DB07e251dd5Bb880e92bd190bbAbBE69adBB40",
+    "name": "CON",
+    "symbol": "CryptoN",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://yourcrypton.cc",
+    "explorer": "https://bscscan.com/token/0xB0DB07e251dd5Bb880e92bd190bbAbBE69adBB40", 
+    "reflections": true,
+    "social" : {
+        "telegram": "https://t.me/CON_CryptoN",
+        "twitter" : "https://twitter.com/cryptoN_nfts"
+    }
+}

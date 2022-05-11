@@ -1,0 +1,14 @@
+{
+    "id": "0x7AB6D5fBB9e13f700AA8C878361920e93d131494",
+    "name": "mesk.io",
+    "symbol": "$MESK",
+    "type": "ERC20",
+    "decimals": 9,
+    "website": "https://mesk.io",
+    "explorer": "https://etherscan.io/address/0x7AB6D5fBB9e13f700AA8C878361920e93d131494", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/meskdotio",
+        "instagram" : "https://instagram.com/mesk.io"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": "0x10d4C5B58d5C48DCd6114c46e32DD3d698908da8",
+    "name": "Rug Muncher Token",
+    "symbol": "RMT",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://rugmunchertoken.online",
+    "explorer": "https://bscscan.com/address/0x10d4C5B58d5C48DCd6114c46e32DD3d698908da8", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/rugmunchertoken",
+        "telegram" : "https://t.me/rugmunchertokenchat",
+        "youtube" : "https://www.youtube.com/channel/UCcgzfUeghQuzh_pnpQGQ9Cw"
+    }
+}

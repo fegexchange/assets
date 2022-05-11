@@ -1,0 +1,15 @@
+{
+  "id": "0x3A8b3C9c207479E696fC0Fb5393C3c248Cd6010D",
+  "name": "Ark Foundation",
+  "symbol": "ARK",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "ArkCoin is a SmartDeFi token that serves as the preferred means of funds exchange/distribution for The Ark (Philanthropic) Foundation.",
+  "website": "https://arkfoundationproject.com/",
+  "explorer": "https://bscscan.com/token/0x3A8b3C9c207479E696fC0Fb5393C3c248Cd6010D",
+  "reflections": true,
+  "social": {
+    "twitter": "https://twitter.com/TheArkCoinF",
+    "telegram": "https://t.me/TheArkCoinF"
+  }
+}

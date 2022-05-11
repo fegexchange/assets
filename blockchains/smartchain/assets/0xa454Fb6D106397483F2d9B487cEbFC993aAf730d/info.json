@@ -1,0 +1,13 @@
+{
+    "id": "0xa454Fb6D106397483F2d9B487cEbFC993aAf730d",
+    "name": "MONEY",
+    "symbol": "MONEY",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "",
+    "explorer": "https://bscscan.com/token/0xa454Fb6D106397483F2d9B487cEbFC993aAf730d", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/MONEYSDFEG"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": "0xBdFb3d00843Dd41f4fa3e6014B946e29f9f348e0",
+    "name": "DUSK SMARTdefi",
+    "symbol": "DUSK",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://t.me/dusk_sd",
+    "explorer": "https://bscscan.com/token/0xBdFb3d00843Dd41f4fa3e6014B946e29f9f348e0", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/communitydusk"
+    }
+}

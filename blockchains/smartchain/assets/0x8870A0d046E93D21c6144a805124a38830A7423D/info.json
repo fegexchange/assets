@@ -1,0 +1,13 @@
+{
+    "id": "0x8870A0d046E93D21c6144a805124a38830A7423D",
+    "name": "Prodax",
+    "symbol": "DAX",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "https://prodax.io/",
+    "explorer": "https://bscscan.com/token/0x8870A0d046E93D21c6144a805124a38830A7423D", 
+    "reflections": false,
+    "social" : {
+        "telegram" : "https://t.me/prodaxfegex"
+    }
+}

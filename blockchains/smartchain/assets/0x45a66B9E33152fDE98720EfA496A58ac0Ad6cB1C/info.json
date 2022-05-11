@@ -1,0 +1,15 @@
+{
+    "id": "0x45a66B9E33152fDE98720EfA496A58ac0Ad6cB1C",
+    "name": "MISSDOG",
+    "symbol": "MISSDOG",
+    "type": "BEP20",
+    "decimals": 9,
+    "website": "https://missdog.io/",
+    "explorer": "https://bscscan.com/address/0x45a66B9E33152fDE98720EfA496A58ac0Ad6cB1C", 
+    "reflections": true,
+    "social" : {
+        "telegram" : "https://t.me/missdogSD",
+        "twitter" : "https://twitter.com/MissDogSD"
+
+    }
+}

@@ -1,0 +1,14 @@
+{
+   "id":"0xA8Ae16Fb2a4564fFd91BbAfE7EFFE082F61c3Ddc",
+   "name":"The 10X Token",
+   "symbol":"TXT",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"",
+   "explorer":"https://www.bscscan.com/address/0xA8Ae16Fb2a4564fFd91BbAfE7EFFE082F61c3Ddc",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/10x_tokenz",
+      "telegram":"https://t.me/the10xtoken"
+   }
+}

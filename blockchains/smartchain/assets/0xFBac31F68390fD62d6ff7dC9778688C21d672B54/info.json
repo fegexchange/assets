@@ -1,12 +1,14 @@
 {
    "id":"0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
-   "name":"GIGACHAD SD",
-   "symbol":"GCSD",
+   "name":"SMARTDeFi GIGACHAD",
+   "symbol":"GIGACHAD",
    "type":"BEP20",
    "decimals":15,
+   "website":"https://www.smartdefigigachad.com",
    "explorer":"https://bscscan.com/address/0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
    "reflections":true,
    "social":{
-      "telegram":"https://t.me/+leCOxGfrlgA5ZWE5"
+      "twitter":"https://twitter.com/SD_GIGACHAD",
+      "telegram":"https://t.me/GIGACHAD_CHAT"
    }
 }

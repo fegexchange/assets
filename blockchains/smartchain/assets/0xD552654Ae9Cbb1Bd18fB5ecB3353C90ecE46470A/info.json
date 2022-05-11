@@ -1,0 +1,13 @@
+{
+  "id": "0xD552654Ae9Cbb1Bd18fB5ecB3353C90ecE46470A",
+  "name": "Amaterashu",
+  "symbol": "ATH",
+  "type": "BEP20",
+  "decimals": 9,
+  "website": "https://www.ath.monster",
+  "explorer": "https://bscscan.com/token/0xD552654Ae9Cbb1Bd18fB5ecB3353C90ecE46470A",
+  "reflections": true,
+  "social": {
+    "telegram": "https://t.me/AmaterasuSD"
+  }
+}

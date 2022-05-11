@@ -1,0 +1,13 @@
+{
+   "id":"0x5E7e8c93fBe0c53dc90f8714c98a7A13f37B871A",
+   "name":"VICEPREZ",
+   "symbol":"VICEPREZ",
+   "type":"BEP20",
+   "decimals":9,
+   "website":"https://preztoken.io",
+   "explorer":"https://bscscan.com/token/0x5E7e8c93fBe0c53dc90f8714c98a7A13f37B871A",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/preztokensd"
+   }
+}

@@ -1,0 +1,17 @@
+{
+  "id":"0xD9bA94740F7fF8012471874333B8e1606F58D90c",
+  "name":"Master of Crypto",
+  "symbol":"MC",
+  "type":"BEP20",
+  "decimals":9,
+  "website":"https://mcsmartdefi.com",
+  "explorer":"https://bscan.com/token/0xD9bA94740F7fF8012471874333B8e1606F58D90c",
+  "reflections":true,
+  "social":{
+    "twitter":"https://twitter.com/mcsmartdefi1",
+    "instagram":"https://instagram.com/mcsmartdefi",
+    "telegram":"https://t.me/mcsmartdefi1",
+    "discord":"https://discord.gg/fhV9xpVr",
+    "NFT":"https:showtime.io/masterofcrypto"
+  }
+}

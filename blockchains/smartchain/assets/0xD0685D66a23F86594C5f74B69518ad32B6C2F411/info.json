@@ -1,0 +1,14 @@
+{
+  "id": "0xD0685D66a23F86594C5f74B69518ad32B6C2F411",
+  "name": "Volcano",
+  "symbol": "LAVA",
+  "type": "BEP20",
+  "decimals": 9,
+  "website": "https://divvysd.com",
+  "explorer": "https://bscscan.com/token/0xD0685D66a23F86594C5f74B69518ad32B6C2F411",
+  "reflections": true,
+  "social": {
+    "telegram": "https://t.me/VolcanoDivvy",
+    "twitter": "https://twitter.com/DivvySD"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "id": "0xD14A3BD1c66267e3aFD1CAf459E357115Ae733Bd",
+    "name": "FIRE INU",
+    "symbol": "FINU",
+    "type": "BEP20",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/token/0xD14A3BD1c66267e3aFD1CAf459E357115Ae733Bd", 
+    "reflections": true,
+    "social" : {
+        "Telegram" : "https://t.me/FIREINUSD"
+           }
+}
