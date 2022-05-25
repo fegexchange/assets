@@ -1,0 +1,15 @@
+{
+  "id": "0x6B992D72bDA6a5463aefA01e4790ea3767Af91c2",
+  "name": "AEROCHAIN V2",
+  "symbol": "AERO-V2",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "AEROCHAIN - A simplified blockchain ecosystem",
+  "website": "https://aerochain.id/",
+  "explorer": "https://bscscan.com/token/0x6b992d72bda6a5463aefa01e4790ea3767af91c2",
+  "reflections": true,
+  "social": {
+    "telegram": "https://t.me/AEROCHAINCoin",
+    "twitter": "https://twitter.com/aerochaincoin"
+  }
+}
