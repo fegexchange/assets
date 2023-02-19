@@ -1,0 +1,14 @@
+{
+   "id":"0xF4634AA2dF0f733a3Cc7033aD75b4Ea1Bb93f1a3",
+   "name":"IPM Bullion",
+   "symbol":"IPMB",
+   "type":"BEP20",
+   "decimals":4,
+   "website":"https://www.ipmb.io",
+   "explorer":"https://bscscan.com/address/0xF4634AA2dF0f733a3Cc7033aD75b4Ea1Bb93f1a3",
+   "reflections":true,
+   "social":{
+      "twitter":"https://twitter.com/IpmbOfficial",
+      "telegram":"https://t.me/IPMBofficial"
+   }
+}
